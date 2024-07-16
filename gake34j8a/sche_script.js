@@ -22,8 +22,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "ShowChampion",
     "musicEP": "526회",
-    "musictime": "18:04KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "17:00KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, Gyubin, KISS OF LIFE, BEN, Weeekly, Dreamcatcher, CREZL, ALL(H)OURS, NTX, WAKER, BUMJIN, YOUNGJAE</font>`
   },
   {
     "mair": "nomal",
