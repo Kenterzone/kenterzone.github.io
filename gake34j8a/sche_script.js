@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "853회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, Lee Young Ji, Weeekly, STAYC, Dreamcatcher, (G)I-DLE, SUNG HAN BIN X JAEHYUN X SOHEE, TWS, INI, ENHYPEN, HOONY, HA SUNG WOON, NCT 127</font>`
   },
 
   {
