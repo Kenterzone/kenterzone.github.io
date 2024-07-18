@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "526회",
+    "musicEP": "527회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, Gyubin, KISS OF LIFE, BEN, Weeekly, Dreamcatcher, CREZL, ALL(H)OURS, NTX, WAKER, BUMJIN, YOUNGJAE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1216회",
+    "musicEP": "1215회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Seo In A, VVUP, Gyubin, KISS OF LIFE, Weeekly, STAYC, Dreamcatcher, (G)I-DLE, 2Z, ALL(H)OURS, INI, n.SSign, WAKER, DKB, ENHYPEN, HA SUNG WOON, NCT 127, Stray Kids</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "864회",
+    "musicEP": "863회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, KISS OF LIFE, Weeekly, STAYC, Dreamcatcher, (G)I-DLE, DKB, n.SSign, ALL(H)OURS, HOONY, HA SUNG WOON, INI, ENHYPEN, NCT 127, Stray Kids</font>`
   },
 
   {
