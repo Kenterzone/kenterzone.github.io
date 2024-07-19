@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "853회",
+    "musicEP": "854회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KISS OF LIFE, Lee Young Ji, Weeekly, STAYC, Dreamcatcher, (G)I-DLE, SUNG HAN BIN X JAEHYUN X SOHEE, TWS, INI, ENHYPEN, HOONY, HA SUNG WOON, NCT 127</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1215회",
+    "musicEP": "1216회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Seo In A, VVUP, Gyubin, KISS OF LIFE, Weeekly, STAYC, Dreamcatcher, (G)I-DLE, 2Z, ALL(H)OURS, INI, n.SSign, WAKER, DKB, ENHYPEN, HA SUNG WOON, NCT 127, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -57,7 +57,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Inkigayo",
     "musicEP": "1235회",
     "musictime": "14:56KST",
