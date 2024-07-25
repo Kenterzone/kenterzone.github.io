@@ -42,16 +42,16 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1216회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, Weeekly, LEE CHAE YEON, 2Z, ALL(H)OURS, DIGNITY, ENHYPEN, KOKOON, NOWADAYS, NTX, WAKER, DKB, Big Ocean, N.Flying, HA SUNG WOON, n.SSign, NCT 127, Stray Kids</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : false,
     "musicname": "Music Core",
-    "musicEP": "863회",
+    "musicEP": "864회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, KISS OF LIFE, Weeekly, STAYC, Dreamcatcher, (G)I-DLE, DKB, n.SSign, ALL(H)OURS, HOONY, HA SUNG WOON, INI, ENHYPEN, NCT 127, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
