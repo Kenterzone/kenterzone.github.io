@@ -38,11 +38,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
-    "musicEP": "1216회",
+    "musicEP": "1217회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, Weeekly, LEE CHAE YEON, 2Z, ALL(H)OURS, DIGNITY, ENHYPEN, KOKOON, NOWADAYS, NTX, WAKER, DKB, Big Ocean, N.Flying, HA SUNG WOON, n.SSign, NCT 127, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
