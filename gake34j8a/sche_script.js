@@ -10,11 +10,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "360회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, BLACKSWAN, tripleS Glow, SEO EVE, Weeekly, LEE CHAE YEON, Tony Yu, ONEWE, KOKOON, DIGNITY, KAVE, ENHYPEN</font>`
   },
   {
     "mair": "nomal",
