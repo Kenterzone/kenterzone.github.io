@@ -19,11 +19,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "527회",
+    "musicEP": "528회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, UNIS, Weeekly, KAVE, NOWADAYS, Tony Yu, DIGNITY, HA SUNG WOON, ENHYPEN</font>`
   },
   {
     "mair": "nomal",
