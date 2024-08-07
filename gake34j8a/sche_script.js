@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "360회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, BLACKSWAN, tripleS Glow, SEO EVE, Weeekly, LEE CHAE YEON, Tony Yu, ONEWE, KOKOON, DIGNITY, KAVE, ENHYPEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -28,11 +28,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "854회",
+    "musicEP": "855회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YDS, BLACKSWAN, LIGHTSUM, Weeekly, JEON SOMI, DIGNITY, CATH THE YOUNG, Tony Yu, 2Z, BamBam, MCND, , Stray Kids, ENHYPEN, BANG×JUNG×YOO×MOON</font>`
   },
 
   {
