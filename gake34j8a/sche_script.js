@@ -21,18 +21,18 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "528회",
+    "musicEP": "529회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, UNIS, Weeekly, KAVE, NOWADAYS, Tony Yu, DIGNITY, HA SUNG WOON, ENHYPEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "855회",
+    "musicEP": "856회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YDS, BLACKSWAN, LIGHTSUM, Weeekly, JEON SOMI, DIGNITY, CATH THE YOUNG, Tony Yu, 2Z, BamBam, MCND, , Stray Kids, ENHYPEN, BANG×JUNG×YOO×MOON</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -47,17 +47,17 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "864회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, LIGHTSUM, UNIS, Weeekly, Sohyang, JEON SOMI, DIGNITY, Tony Yu, KOKOON, CATCH THE YOUNG, ANEX, BANG×JUNG×YOO×MOON, BamBam, MCND, Stray Kids</font>`
   },
 
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1235회",
     "musictime": "14:56KST",
