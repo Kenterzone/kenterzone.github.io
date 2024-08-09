@@ -50,7 +50,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "864회",
-    "musictime": "15:21KST",
+    "musictime": "14:21KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, LIGHTSUM, UNIS, Weeekly, Sohyang, JEON SOMI, DIGNITY, Tony Yu, KOKOON, CATCH THE YOUNG, ANEX, BANG×JUNG×YOO×MOON, BamBam, MCND, Stray Kids</font>`
   },
 
