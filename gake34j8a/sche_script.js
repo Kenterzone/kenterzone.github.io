@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1235회",
-    "musictime": "14:56KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "14:40KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, BLACKSWAN, LIGHTSUM, Weeekly, JEON SOMI, CATCH THE YOUNG, KOKOON, Tony Yu, DIGNITY, BANG×JUNG×YOO×MOON, BamBam, MCND, KIM JAEJOONG, Stray Kids</font>`
   },  ////SP_GUIDE/////
 
 {
