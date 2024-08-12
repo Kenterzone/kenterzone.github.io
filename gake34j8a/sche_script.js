@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "360회",
     "musictime": "18:00KST",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "864회",
+    "musicEP": "865회",
     "musictime": "14:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, LIGHTSUM, UNIS, Weeekly, Sohyang, JEON SOMI, DIGNITY, Tony Yu, KOKOON, CATCH THE YOUNG, ANEX, BANG×JUNG×YOO×MOON, BamBam, MCND, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1235회",
+    "musicEP": "1236회",
     "musictime": "14:40KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, BLACKSWAN, LIGHTSUM, Weeekly, JEON SOMI, CATCH THE YOUNG, KOKOON, Tony Yu, DIGNITY, BANG×JUNG×YOO×MOON, BamBam, MCND, KIM JAEJOONG, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
