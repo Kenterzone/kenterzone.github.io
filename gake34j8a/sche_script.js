@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "529회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, UNIS, LIGHTSUM, KISS OF LIFE, KARD, DIGNITY, Tony Yu, 2Z, CATCH THE YOUNG, KAVE, n.SSign</font>`
   },
   {
     "mair": "nomal",
