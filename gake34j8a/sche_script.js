@@ -27,10 +27,10 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Thu.",
+    "date": "xThu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "856회",
+    "musicEP": "859회",
     "musictime": "18:08KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
