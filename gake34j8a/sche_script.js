@@ -38,20 +38,20 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1217회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BEAUTYBOX, fromis_9, LIGHTSUM, Q6IX, Seo In A, YDS, BLACKSWAN, UNIS, KARD, HYOLYN, KAVE, LUN8, MCND, BOY STORY, DIGNITY, BANG&JUNG&YOO&MOON, Catch The Young, Tony Yu, Hwang Yun Sung</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
-    "musicname": "Music Core",
+    "musicname": "Music Core × ULSAN Summer Festival",
     "musicEP": "865회",
-    "musictime": "14:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:21KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, ILLIT, LIGHTSUM, Weeekly, STAYC, NMIXX, fromis_9, BIBI, KWON EUNBI, KARD, HYOLYN, ONF, BOY STORY, LUN8, ZEROBASEONE, BOYNEXTDOOR, Jeong Dong Won, N.Flying, Park Jihyeon</font>`
   },
 
   {
