@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1236회",
-    "musictime": "14:40KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:25KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, UNIS, HAN SUMMER, Her Chanmi, Seol Hayoon, LIGHTSUM, fromis_9, KARD, HYOLYN, DIGNITY, LUN8, CATCH THE YOUNG, Tony Yu, BOY STORY, MCND</font>`
   },  ////SP_GUIDE/////
 
 {
