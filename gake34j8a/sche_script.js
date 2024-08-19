@@ -12,18 +12,18 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : false,
     "musicname": "The Show",
-    "musicEP": "360회",
+    "musicEP": "361회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YDS, BLACKSWAN, UNIS, LIGHTSUM, fromis_9, KARD, DIGNITY, KAVE, LUN8, Tony Yu, CATCH THE YOUNG</font>`
   },
   {
     "mair": "nomal",
-    "date": "Wed.",
+    "date": "xWed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "529회",
+    "musicEP": "530회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, UNIS, LIGHTSUM, KISS OF LIFE, KARD, DIGNITY, Tony Yu, 2Z, CATCH THE YOUNG, KAVE, n.SSign</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1217회",
+    "musicEP": "1218회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BEAUTYBOX, fromis_9, LIGHTSUM, Q6IX, Seo In A, YDS, BLACKSWAN, UNIS, KARD, HYOLYN, KAVE, LUN8, MCND, BOY STORY, DIGNITY, BANG&JUNG&YOO&MOON, Catch The Young, Tony Yu, Hwang Yun Sung</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
-    "musicname": "Music Core × ULSAN Summer Festival",
-    "musicEP": "865회",
+    "musicname": "Music Core",
+    "musicEP": "866회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, ILLIT, LIGHTSUM, Weeekly, STAYC, NMIXX, fromis_9, BIBI, KWON EUNBI, KARD, HYOLYN, ONF, BOY STORY, LUN8, ZEROBASEONE, BOYNEXTDOOR, Jeong Dong Won, N.Flying, Park Jihyeon</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1236회",
+    "musicEP": "1237회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, UNIS, HAN SUMMER, Her Chanmi, Seol Hayoon, LIGHTSUM, fromis_9, KARD, HYOLYN, DIGNITY, LUN8, CATCH THE YOUNG, Tony Yu, BOY STORY, MCND</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
