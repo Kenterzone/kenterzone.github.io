@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "361회",
     "musictime": "18:00KST",
@@ -18,8 +18,8 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "xWed.",
-    "musiconoroff" : true,
+    "date": "Wed.",
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "530회",
     "musictime": "17:00KST",
