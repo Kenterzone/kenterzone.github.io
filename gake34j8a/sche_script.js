@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "361회",
+    "musicEP": "362회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YDS, BLACKSWAN, UNIS, LIGHTSUM, fromis_9, KARD, DIGNITY, KAVE, LUN8, Tony Yu, CATCH THE YOUNG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -27,12 +27,12 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "xThu.",
+    "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
     "musicEP": "859회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, LIGHTSUM, ILY:1, NMIXX, KARD, fromis_9, Moon Byul, HYOLYN, LUN8, BOY STORY, ARrC, CATCH THE YOUNG, DRIPPIN, MCND, SF9, TAEMIN</font>`
   },
 
   {
