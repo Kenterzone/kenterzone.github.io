@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1218회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, YOUNG POSSE, UNIS, ILY:1, LIGHTSUM, NMIXX, fromis_9, Moon Byul, HYOLYN, ARrC, DIGNITY, Tony Yu, SUNGMIN, LUN8, MCND, DRIPPIN, SF9, TAEMIN</font>`
   },
   {
     "mair": "nomal",
