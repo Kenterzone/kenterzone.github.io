@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "866회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, UNIS, LIGHTSUM, NMIXX, fromis_9, Moon Byul, HYOLYN, ARrC, LUN8, Tony Yu, SUNGMIN, Hwang Yun Sung, SF9, DRIPPIN, TAEMIN</font>`
   },
 
   {
