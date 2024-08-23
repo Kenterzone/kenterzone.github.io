@@ -60,7 +60,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1237회",
-    "musictime": "15:25KST",
+    "musictime": "15:10KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, LIGHTSUM, ILY:1, BLACKSWAN, NMIXX, fromis_9, Moon Byul, HYOLYN, ARrC, LUN8, SUNGMIN, DRIPPIN, SF9, MCND, TAEMIN</font>`
   },  ////SP_GUIDE/////
 
