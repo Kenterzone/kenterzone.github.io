@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "859회",
+    "musicEP": "860회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, LIGHTSUM, ILY:1, NMIXX, KARD, fromis_9, Moon Byul, HYOLYN, LUN8, BOY STORY, ARrC, CATCH THE YOUNG, DRIPPIN, MCND, SF9, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1237회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, LIGHTSUM, ILY:1, BLACKSWAN, NMIXX, fromis_9, Moon Byul, HYOLYN, ARrC, LUN8, SUNGMIN, DRIPPIN, SF9, MCND, TAEMIN</font>`
   },  ////SP_GUIDE/////
 
 {
