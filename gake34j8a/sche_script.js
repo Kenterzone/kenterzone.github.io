@@ -12,16 +12,16 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "362회",
+    "musicEP": "363회",
     "musictime": "18:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "530회",
+    "musicEP": "531회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "860회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, YOUNG POSSE, NMIXX, OH MY GIRL, Gyeongree, ARrC, BANG YEDAM, NOWADAYS, LUN8, CHANYEOL, DRIPPIN, JUN.K, JAEHYUN, ZEROBASEONE</font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1218회",
+    "musicEP": "1219회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BLACKSWAN, YOUNG POSSE, UNIS, ILY:1, LIGHTSUM, NMIXX, fromis_9, Moon Byul, HYOLYN, ARrC, DIGNITY, Tony Yu, SUNGMIN, LUN8, MCND, DRIPPIN, SF9, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "866회",
+    "musicEP": "867회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, UNIS, LIGHTSUM, NMIXX, fromis_9, Moon Byul, HYOLYN, ARrC, LUN8, Tony Yu, SUNGMIN, Hwang Yun Sung, SF9, DRIPPIN, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1237회",
+    "musicEP": "1238회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, LIGHTSUM, ILY:1, BLACKSWAN, NMIXX, fromis_9, Moon Byul, HYOLYN, ARrC, LUN8, SUNGMIN, DRIPPIN, SF9, MCND, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
