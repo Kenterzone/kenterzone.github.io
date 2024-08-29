@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "867회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, LE SSERAFIM, NMIXX, OH MY GIRL, ARrC, LUN8, JUN.K, JAEHYUN, ZEROBASEONE, BANG YEDAM, NOWADAYS, DRIPPIN, TAE JIN AH</font>`
   },
 
   {
