@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1219회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, YOUNG POSSE, ILY:1, LE SSERAFIM, NMIXX, OH MY GIRL, ARrC, DRIPPIN, JUN.K, LUN8, NOWADAYS, ZEROBASEONE, BANG YEDAM, JAEHYUN, CHANYEOL, Catch The Young, TAE JIN AH</font>`
   },
   {
     "mair": "nomal",
