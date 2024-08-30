@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "860회",
+    "musicEP": "861회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, YOUNG POSSE, NMIXX, OH MY GIRL, Gyeongree, ARrC, BANG YEDAM, NOWADAYS, LUN8, CHANYEOL, DRIPPIN, JUN.K, JAEHYUN, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1238회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, RESCENE, LE SSERAFIM, NMIXX, OH MY GIRL, BANG YEDAM, ARrC, NOWADAYS, LUN8, JAEHYUN, ZEROBASEONE, DRIPPIN, JUN.K, CHANYEOL</font>`
   },  ////SP_GUIDE/////
 
 {
