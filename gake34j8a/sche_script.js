@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1219회",
+    "musicEP": "1220회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNIS, YOUNG POSSE, ILY:1, LE SSERAFIM, NMIXX, OH MY GIRL, ARrC, DRIPPIN, JUN.K, LUN8, NOWADAYS, ZEROBASEONE, BANG YEDAM, JAEHYUN, CHANYEOL, Catch The Young, TAE JIN AH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Loossemble, RESCENE, YOUNG POSSE, NMIXX, YERIN, LE SSERAFIM, OH MY GIRL, YOUNHA, TZUYU(TWICE), ARrC, NOWADAYS, xikers, DRIPPIN, BANG YEDAM, ONEWE, ZEROBASEONE, DAY6, BAEKHYUN, BOYNEXTDOOR</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "867회",
+    "musicEP": "868회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, LE SSERAFIM, NMIXX, OH MY GIRL, ARrC, LUN8, JUN.K, JAEHYUN, ZEROBASEONE, BANG YEDAM, NOWADAYS, DRIPPIN, TAE JIN AH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, ILY:1, NMIXX, LE SSERAFIM, YOUNHA, YERIN, TZUYU(TWICE), OH MY GIRL, ONEWE, xikers, DRIPPIN, NOWADAYS, BAEKHYUN, YOUNGTAK, ZEROBASEONE, BOYNEXTDOOR</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1238회",
+    "musicEP": "1239회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, RESCENE, LE SSERAFIM, NMIXX, OH MY GIRL, BANG YEDAM, ARrC, NOWADAYS, LUN8, JAEHYUN, ZEROBASEONE, DRIPPIN, JUN.K, CHANYEOL</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
