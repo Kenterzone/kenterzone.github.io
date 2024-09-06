@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1239회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MEOVV, YOUNG POSSE, Loossemble, NMIXX, YERIN, YOUNHA, LE SSERAFIM, OH MY GIRL, TZUYU(TWICE), ONEWE, NOWADAYS, xikers, DRIPPIN, BAEKHYUN, BOYNEXTDOOR, DAY6, YOUNGTAK, ZEROBASEONE</font>`
   },  ////SP_GUIDE/////
 
 {
