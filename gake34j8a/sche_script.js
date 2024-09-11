@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "861회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KATSEYE, MEOVV, RESCENE, Loossemble, LE SSERAFIM, NMIXX, YERIN, TZUYU(TWICE), ARrC, KINO, xikers, NOWADAYS, BOYNEXTDOOR, NCT WISH</font>`
   },
 
   {
