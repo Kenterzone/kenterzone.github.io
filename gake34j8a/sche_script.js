@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "869회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KATSEYE, GENBLUE, RESCENE, LE SSERAFIM, YERIN, NMIXX, TZUYU(TWICE), ARrC, KINO, NOWADAYS, xikers, Kim Seung Joo, Park Hyun Ho, CATCH THE YOUNG, BOYNEXTDOOR, NCT WISH</font>`
   },
 
   {
