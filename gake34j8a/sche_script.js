@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "531회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KATSEYE, RESCENE, Loossemble, NMIXX, SEO JIO, LE SSERAFIM, YERIN, TZUYU(TWICE), FIESTAR, ARrC, NOWADAYS, xikers, KINO, Soo Bin So, YOUNGTAK, BOYNEXTDOOR, NCT WISH</font>`
   },
   {
     "mair": "nomal",
