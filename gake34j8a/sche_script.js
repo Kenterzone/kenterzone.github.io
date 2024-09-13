@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "862회",
+    "musicEP": "863회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KATSEYE, MEOVV, RESCENE, Loossemble, LE SSERAFIM, NMIXX, YERIN, TZUYU(TWICE), ARrC, KINO, xikers, NOWADAYS, BOYNEXTDOOR, NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -57,7 +57,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Inkigayo",
     "musicEP": "1240회",
     "musictime": "15:10KST",
