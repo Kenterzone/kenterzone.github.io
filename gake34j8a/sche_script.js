@@ -40,24 +40,24 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1221회",
+    "musicEP": "1222회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KATSEYE, RESCENE, Loossemble, NMIXX, SEO JIO, LE SSERAFIM, YERIN, TZUYU(TWICE), FIESTAR, ARrC, NOWADAYS, xikers, KINO, Soo Bin So, YOUNGTAK, BOYNEXTDOOR, NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BEAUTYBOX, MADEIN, nov, cleo, GENBLUE, MIMIIROSE, HER CHAN MI, Loossemble, Kim Bomin, HWASA, NOWADAYS, xikers, GO JEONG WOO, Park Hyun Ho, YEONJUN, JINHO(PENTAGON), BOYNEXTDOOR, P1Harmony</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "869회",
+    "musicEP": "870회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KATSEYE, GENBLUE, RESCENE, LE SSERAFIM, YERIN, NMIXX, TZUYU(TWICE), ARrC, KINO, NOWADAYS, xikers, Kim Seung Joo, Park Hyun Ho, CATCH THE YOUNG, BOYNEXTDOOR, NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BEAUTYBOX, cleo, GENBLUE, MADEIN, Loossemble, HWASA, ARrC, ONEWE, NOWADAYS, YEONJUN, So Soo Bin, Park Hyun Ho, P1Harmony, xikers, BOYNEXTDOOR, JINHO(PENTAGON)</font>`
   },
 
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1240회",
     "musictime": "15:10KST",
