@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1240회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kim Bomin, GENBLUE, MEOVV, MADEIN, RESCENE, Loossemble, HWASA, NOWADAYS, BANG YEDAM, xikers, YEONJUN, J BLACK, BOYNEXTDOOR, JINHO(PENTAGON), P1Harmony</font>`
   },  ////SP_GUIDE/////
 
 {
