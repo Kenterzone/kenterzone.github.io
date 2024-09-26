@@ -1,4 +1,4 @@
-const musicGuid =[
+econst musicGuid =[
   {
     "mair": "nomal",
     "date": "xMon.",
@@ -30,7 +30,7 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "863회",
+    "musicEP": "865회",
     "musictime": "18:08KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1222회",
+    "musicEP": "1223회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BEAUTYBOX, MADEIN, nov, cleo, GENBLUE, MIMIIROSE, HER CHAN MI, Loossemble, Kim Bomin, HWASA, NOWADAYS, xikers, GO JEONG WOO, Park Hyun Ho, YEONJUN, JINHO(PENTAGON), BOYNEXTDOOR, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BEAUTYBOX, nov, GENBLUE, cleo, MADEIN, Bok Ji Eun, MIMIIROSE, RESCENE, FIFTY FIFTY, HWASA, xikers, XODIAC, J BLACK, K2(KIM SUNG MYUN), P1Harmony, KANGDANIEL, NCT WISH, KEY</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "870회",
+    "musicEP": "871회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BEAUTYBOX, cleo, GENBLUE, MADEIN, Loossemble, HWASA, ARrC, ONEWE, NOWADAYS, YEONJUN, So Soo Bin, Park Hyun Ho, P1Harmony, xikers, BOYNEXTDOOR, JINHO(PENTAGON)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">FIFTY FIFTY, cleo, MIMIIROSE, RESCENE, MADEIN, HWASA, Pagaehun, XODIAC, xikers, K2(KIM SUNG MYUN), KANGDANIEL, JINHO(PENTAGON), NCT WISH, P1Harmony</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1240회",
+    "musicEP": "1241회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kim Bomin, GENBLUE, MEOVV, MADEIN, RESCENE, Loossemble, HWASA, NOWADAYS, BANG YEDAM, xikers, YEONJUN, J BLACK, BOYNEXTDOOR, JINHO(PENTAGON), P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
