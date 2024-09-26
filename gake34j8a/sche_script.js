@@ -1,4 +1,4 @@
-econst musicGuid =[
+const musicGuid =[
   {
     "mair": "nomal",
     "date": "xMon.",
