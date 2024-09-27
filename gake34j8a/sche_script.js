@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1241회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">nov, GENBLUE, MEOVV, BEAUTYBOX, RESCENE, MADEIN, Kim Heejin, MIMIIROSE, Han Summer, HWASA, XODIAC, xikers, Park Hyun Ho, NCT WISH, P1Harmony, KANGDANIEL</font>`
   },  ////SP_GUIDE/////
 
 {
