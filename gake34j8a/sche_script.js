@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "531회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">3piece, cleo, MADEIN, RESCENE, MIMIIROSE, FIFTY FIFTY, SOOJIN, DUSTIN, XODIAC, KANGDANIEL, P1Harmony</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1223회",
+    "musicEP": "1224회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BEAUTYBOX, nov, GENBLUE, cleo, MADEIN, Bok Ji Eun, MIMIIROSE, RESCENE, FIFTY FIFTY, HWASA, xikers, XODIAC, J BLACK, K2(KIM SUNG MYUN), P1Harmony, KANGDANIEL, NCT WISH, KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "871회",
+    "musicEP": "872회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">FIFTY FIFTY, cleo, MIMIIROSE, RESCENE, MADEIN, HWASA, Pagaehun, XODIAC, xikers, K2(KIM SUNG MYUN), KANGDANIEL, JINHO(PENTAGON), NCT WISH, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1241회",
+    "musicEP": "1242회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">nov, GENBLUE, MEOVV, BEAUTYBOX, RESCENE, MADEIN, Kim Heejin, MIMIIROSE, Han Summer, HWASA, XODIAC, xikers, Park Hyun Ho, NCT WISH, P1Harmony, KANGDANIEL</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
