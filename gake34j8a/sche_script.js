@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "531회",
+    "musicEP": "532회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">3piece, cleo, MADEIN, RESCENE, MIMIIROSE, FIFTY FIFTY, SOOJIN, DUSTIN, XODIAC, KANGDANIEL, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "865회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MADEIN, MEOVV, FIFTY FIFTY, YENA, ASC2NT, VANNER, LEECHANGSUB, TIOT, WHIB, The Wind, NCT WISH, P1Harmony, KEY, SUPER JUNIOR-D&E</font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1224회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Moon Sangmin X MINJU, Kim Heejin, 3piece, MIMIIROSE, FIFTY FIFTY, YENA, WHIB, XODIAC, TIOT, VANNER, ASC2NT, LEECHANGSUB, Pagaehun, NCT WISH, The Wind, P1Harmony, KEY, SUPER JUNIOR-D&E</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "872회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HER CHAN MI, Bok Ji Eun, FIFTY FIFTY, YENA, XODIAC, Pagaehun, Sphaze, LEECHANGSUB, VANNER, The Wind, TIOT, ASC2NT, WHIB, NCT WISH, P1Harmony, KEY, SUPER JUNIOR-D&E</font>`
   },
 
   {
