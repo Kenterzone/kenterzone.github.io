@@ -21,7 +21,7 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "532회",
+    "musicEP": "536회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">Kim Bomin, MADEIN, RESCENE, YENA, POW, ASC2NT, XODIAC, The Wind, VANNER, P1Harmony, Yoon Seobin</font>`
   },
