@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "536회",
+    "musicEP": "537회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kim Bomin, MADEIN, RESCENE, YENA, POW, ASC2NT, XODIAC, The Wind, VANNER, P1Harmony, Yoon Seobin</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "866회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">3piece, RESCENE, MADEIN, YENA, VANNER, XODIAC, ASC2NT, WHIB, The Wind, LEE CHANGSUB, Jay Park, AB6IX</font>`
   },
 
   {
