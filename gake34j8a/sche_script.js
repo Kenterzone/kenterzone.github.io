@@ -39,10 +39,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Fri.",
     "musiconoroff" : true,
-    "musicname": "Music Bank",
+    "musicname": "Music Bank in Belgium",
     "musicEP": "1225회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">STAYC, (G)I-DLE, RIIZE, ONEUS, ZEROBASEONE, TOMORROW X TOGETHER</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "873회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Bok Ji Eun, 3piece, Lucky PangPang, BEWAVE, MADEIN, YENA, ASC2NT, Kim Neuk, DUSTIN, VANNER, The Wind, XODIAC, LEE CHANGSUB, AB6IX</font>`
   },
 
   {
