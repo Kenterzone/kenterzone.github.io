@@ -30,19 +30,19 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "866회",
+    "musicEP": "867회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">3piece, RESCENE, MADEIN, YENA, VANNER, XODIAC, ASC2NT, WHIB, The Wind, LEE CHANGSUB, Jay Park, AB6IX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Fri.",
     "musiconoroff" : true,
-    "musicname": "Music Bank in Belgium",
+    "musicname": "Music Bank",
     "musicEP": "1225회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">STAYC, (G)I-DLE, RIIZE, ONEUS, ZEROBASEONE, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -57,7 +57,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Inkigayo",
     "musicEP": "1243회",
     "musictime": "15:10KST",
