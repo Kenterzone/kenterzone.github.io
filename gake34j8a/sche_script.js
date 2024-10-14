@@ -9,12 +9,12 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "xTue.", 
+    "date": "Tue.", 
     "musiconoroff" : true,
-    "musicname": "The Show",
-    "musicEP": "363회",
+    "musicname": "The Show Autumn Picnic in Geumsan",
+    "musicEP": "365회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">1000°, YOUNG POSSE, UNIS, Gyubin, LIGHTSUM, Weeekly, BANG YEDAM, EPEX</font>`
   },
   {
     "mair": "nomal",
@@ -49,15 +49,15 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "873회",
+    "musicEP": "874회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Bok Ji Eun, 3piece, Lucky PangPang, BEWAVE, MADEIN, YENA, ASC2NT, Kim Neuk, DUSTIN, VANNER, The Wind, XODIAC, LEE CHANGSUB, AB6IX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1243회",
     "musictime": "15:10KST",
