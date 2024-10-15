@@ -12,14 +12,14 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show Autumn Picnic in Geumsan",
-    "musicEP": "365회",
+    "musicEP": "366회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">1000°, YOUNG POSSE, UNIS, Gyubin, LIGHTSUM, Weeekly, BANG YEDAM, EPEX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "537회",
     "musictime": "17:00KST",
@@ -58,10 +58,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Sun.",
     "musiconoroff" : true,
-    "musicname": "Inkigayo",
+    "musicname": "Inkigayo LIVE IN TOKYO",
     "musicEP": "1243회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ME:I, ILLIT, ITZY, &TEAM, NEXZ, THE BOYZ, ZEROBASEONE, TWS, BE:FIRST, JO1, NCT 127, NCT WISH, ATEEZ, TAEMIN</font>`
   },  ////SP_GUIDE/////
 
 {
