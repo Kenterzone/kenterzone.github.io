@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "867회",
+    "musicEP": "868회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, KISS OF LIFE, Billlie, YENA, ITZY, JENNIE, EPEX, JD1, WHIB, 82MAJOR, The Wind, VANNER, Xdinary Heroes, SEVENTEEN, AB6IX, CNBLUE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -41,7 +41,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1225회",
-    "musictime": "17:05KST",
+    "musictime": "16:35KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, SAY MY NAME, KISS OF LIFE, Billlie, ITZY, YENA, EPEX, JD1, ONE PACT, VANNER, WHIB, Xdinary Heroes, Yang Kyle, NOMAD, The Wind, Shin Yu, 82MAJOR, SEVENTEEN, AB6IX, CNBLUE</font>`
   },
   {
