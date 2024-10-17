@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1225회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, SAY MY NAME, KISS OF LIFE, Billlie, ITZY, YENA, EPEX, JD1, ONE PACT, VANNER, WHIB, Xdinary Heroes, Yang Kyle, NOMAD, The Wind, Shin Yu, 82MAJOR, SEVENTEEN, AB6IX, CNBLUE</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "874회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, Billlie, KISS OF LIFE, ITZY, YENA, JENNIE, EPEX, 82MAJOR, JD1, WHIB, The Wind, VANNER, Xdinary Heroes, SEVENTEEN, AB6IX, CNBLUE</font>`
   },
 
   {
