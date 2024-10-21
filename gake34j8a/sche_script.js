@@ -10,16 +10,16 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
-    "musicname": "The Show Autumn Picnic in Geumsan",
-    "musicEP": "366회",
+    "musiconoroff" : false,
+    "musicname": "The Show",
+    "musicEP": "367회",
     "musictime": "18:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
     "musicEP": "537회",
     "musictime": "17:00KST",
@@ -40,28 +40,28 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1225회",
+    "musicEP": "1226회",
     "musictime": "16:35KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, SAY MY NAME, KISS OF LIFE, Billlie, ITZY, YENA, EPEX, JD1, ONE PACT, VANNER, WHIB, Xdinary Heroes, Yang Kyle, NOMAD, The Wind, Shin Yu, 82MAJOR, SEVENTEEN, AB6IX, CNBLUE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "874회",
+    "musicEP": "875회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, Billlie, KISS OF LIFE, ITZY, YENA, JENNIE, EPEX, 82MAJOR, JD1, WHIB, The Wind, VANNER, Xdinary Heroes, SEVENTEEN, AB6IX, CNBLUE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Sun.",
     "musiconoroff" : true,
-    "musicname": "Inkigayo LIVE IN TOKYO",
+    "musicname": "Inkigayo",
     "musicEP": "1243회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ME:I, ILLIT, ITZY, &TEAM, NEXZ, THE BOYZ, ZEROBASEONE, TWS, BE:FIRST, JO1, NCT 127, NCT WISH, ATEEZ, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
