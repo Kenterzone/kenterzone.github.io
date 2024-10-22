@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "537회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, BEWAVE, KISS OF LIFE, Billlie, ONE PACT, WHIB, Xdinary Heroes, XODIAC, 82MAJOR, EPEX, JD1, The Wind</font>`
   },
   {
     "mair": "nomal",
