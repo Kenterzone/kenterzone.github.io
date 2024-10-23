@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "868회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, tripleS VV, ILLIT, KISS OF LIFE, Billlie, PURPLE KISS, aespa, ITZY, DXMON, AMPERS&ONE, ONE PACT, JD1, TEMPEST, 82MAJOR</font>`
   },
 
   {
