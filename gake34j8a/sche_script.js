@@ -39,10 +39,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Fri.",
     "musiconoroff" : true,
-    "musicname": "Music Bank",
+    "musicname": "Music Bank in CHANG WON",
     "musicEP": "1226회",
-    "musictime": "16:35KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "17:00KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, BEWAVE, tripleS VV, ILLIT, Billlie, PURPLE KISS, YENA, KWON EUNBI, ITZY, EVNNE, 82MAJOR, AMPERS&ONE, xikers, The Wind, JD1, DXMON, NOWADAYS, CRAVITY, AB6IX, KANGDANIEL</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "875회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">g0nny, BEWAVE, SAY MY NAME, tripleS VV, ILLIT, Billlie, PURPLE KISS, aespa, ITZY, 82MAJOR, WHIB, Park Sung On, JD1, AMPERS&ONE, DXMON, The Wind</font>`
   },
 
   {
