@@ -14,44 +14,44 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "367회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, SAY MY NAME, tripleS VV, KISS OF LIFE, Billlie, Bok Ji Eun, PURPLE KISS, DreamNote, ONE PACT, WHIB, AMPERS&ONE, ASC2NT, 82MAJOR, DXMON, Yoon Seobin</font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
-    "musicEP": "537회",
+    "musicEP": "538회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, BEWAVE, KISS OF LIFE, Billlie, ONE PACT, WHIB, Xdinary Heroes, XODIAC, 82MAJOR, EPEX, JD1, The Wind</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
-    "musicname": "M!CountDown",
-    "musicEP": "868회",
+    "musicname": "KCON GERMANY 2024 X M!CountDown",
+    "musicEP": "869회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, tripleS VV, ILLIT, KISS OF LIFE, Billlie, PURPLE KISS, aespa, ITZY, DXMON, AMPERS&ONE, ONE PACT, JD1, TEMPEST, 82MAJOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">izna, ILLIT, Kep1er, KISS OF LIFE, Lee Young J, MIYEON((G)I-DLE), Dreamcatcher, EVNNE, NOWADAYS, ONF, RIIZE, THE BOYZ, LUN8, JO1, YUGYEOM, KEY</font>`
   },
 
   {
     "mair": "nomal",
     "date": "Fri.",
     "musiconoroff" : true,
-    "musicname": "Music Bank in CHANG WON",
-    "musicEP": "1226회",
+    "musicname": "Music Bank",
+    "musicEP": "1227회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, BEWAVE, tripleS VV, ILLIT, Billlie, PURPLE KISS, YENA, KWON EUNBI, ITZY, EVNNE, 82MAJOR, AMPERS&ONE, xikers, The Wind, JD1, DXMON, NOWADAYS, CRAVITY, AB6IX, KANGDANIEL</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "875회",
+    "musicEP": "876회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">g0nny, BEWAVE, SAY MY NAME, tripleS VV, ILLIT, Billlie, PURPLE KISS, aespa, ITZY, 82MAJOR, WHIB, Park Sung On, JD1, AMPERS&ONE, DXMON, The Wind</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,7 +59,7 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1243회",
+    "musicEP": "1244회",
     "musictime": "15:10KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
