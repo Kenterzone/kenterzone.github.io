@@ -12,7 +12,7 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : false,
     "musicname": "The Show",
-    "musicEP": "367회",
+    "musicEP": "366회",
     "musictime": "18:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, SAY MY NAME, tripleS VV, KISS OF LIFE, Billlie, Bok Ji Eun, PURPLE KISS, DreamNote, ONE PACT, WHIB, AMPERS&ONE, ASC2NT, 82MAJOR, DXMON, Yoon Seobin</font>`
   },
