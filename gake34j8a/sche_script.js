@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1227회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kik5o, SAY MY NAME, ILLIT, tripleS VV, FIFTY FIFTY, KISS OF LIFE, Kep1er, STAYC, PURPLE KISS, DreamNote, aespa, ITZY, AMPERS&ONE, DXMON, ONE PACT, 82MAJOR, THE BOYZ, Yoon Seobin</font>`
   },
   {
     "mair": "nomal",
