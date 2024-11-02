@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1244회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kik5o, BEWAVE, SAY MY NAME, ODD YOUTH, Ejel, ILLIT, tripleS VV, Kep1er, KISS OF LIFE, PURPLE KISS, STAYC, DreamNote, ITZY, aespa, DXMON, AMPERS&ONE, 82MAJOR, THE BOYZ</font>`
   },  ////SP_GUIDE/////
 
 {
