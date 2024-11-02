@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "366회",
+    "musicEP": "367회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BEWAVE, SAY MY NAME, tripleS VV, KISS OF LIFE, Billlie, Bok Ji Eun, PURPLE KISS, DreamNote, ONE PACT, WHIB, AMPERS&ONE, ASC2NT, 82MAJOR, DXMON, Yoon Seobin</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -29,10 +29,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
-    "musicname": "KCON GERMANY 2024 X M!CountDown",
-    "musicEP": "869회",
+    "musicname": "M!CountDown",
+    "musicEP": "870회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">izna, ILLIT, Kep1er, KISS OF LIFE, Lee Young J, MIYEON((G)I-DLE), Dreamcatcher, EVNNE, NOWADAYS, ONF, RIIZE, THE BOYZ, LUN8, JO1, YUGYEOM, KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Y</font>`
   },
 
   {
@@ -40,16 +40,16 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1227회",
+    "musicEP": "1228회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kik5o, SAY MY NAME, ILLIT, tripleS VV, FIFTY FIFTY, KISS OF LIFE, Kep1er, STAYC, PURPLE KISS, DreamNote, aespa, ITZY, AMPERS&ONE, DXMON, ONE PACT, 82MAJOR, THE BOYZ, Yoon Seobin</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "876회",
+    "musicEP": "877회",
     "musictime": "15:21KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
