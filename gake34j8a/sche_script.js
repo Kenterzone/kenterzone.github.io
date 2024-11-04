@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "367회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Burvey, Ejel, tracer, BEWAVE, SAY MY NAME, tripleS VV, STAYC, Kep1er, PURPLE KISS, DreamNote, Moon Jong Up, AMPERS&ONE, 82MAJOR, DXMON</font>`
   },
   {
     "mair": "nomal",
@@ -28,7 +28,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "M!CountDown",
     "musicEP": "870회",
     "musictime": "18:08KST",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1244회",
+    "musicEP": "1245회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kik5o, BEWAVE, SAY MY NAME, ODD YOUTH, Ejel, ILLIT, tripleS VV, Kep1er, KISS OF LIFE, PURPLE KISS, STAYC, DreamNote, ITZY, aespa, DXMON, AMPERS&ONE, 82MAJOR, THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
