@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "538회",
+    "musicEP": "539회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ejel, BEWAVE, SAY MY NAME, tripleS VV, Kep1er, PURPLE KISS, DreamNote, EPEX, AMPERS&ONE, 82MAJOR, DXMON</font>`
   },
   {
     "mair": "nomal",
