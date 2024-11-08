@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1245회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, SAY MY NAME, tripleS VV, ILLIT, XG, BABYMONSTER, STAYC, ITZY, DXMON, AMPERS&ONE, 82MAJOR, EPEX, THE BOYZ, MINHO, J.Y.P(with Xdinary Heroes Jungsu, Jun Han), TOMORROW X TOGETHER</font>`
   },  ////SP_GUIDE/////
 
 {
