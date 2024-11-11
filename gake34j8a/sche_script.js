@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "368회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">NEW L, tracer, Kwon Inseo, Burvey, Kep1er, VIVIZ, POW, BUMJIN, AMPERS&ONE, 82MAJOR, EPEX, Moon JongUp, LEE JAEWON</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1228회",
+    "musicEP": "1229회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, Kik5o, SAY MY NAME, ILLIT, tripleS VV, XG, Kep1er, STAYC, ITZY, VIVIZ, 82MAJOR, DXMON, EPEX, POW, THE BOYZ, MINHO, J.Y.P, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "877회",
+    "musicEP": "878회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kik5o, ODD YOUTH, tripleS VV, ILLIT, XG, STAYC, VIVIZ, ITZY, EPEX, POW, AMPERS&ONE, DXMON, THE BOYZ, TOMORROW X TOGETHER, J.Y.P(with Gabee), MINHO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1245회",
+    "musicEP": "1246회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, SAY MY NAME, tripleS VV, ILLIT, XG, BABYMONSTER, STAYC, ITZY, DXMON, AMPERS&ONE, 82MAJOR, EPEX, THE BOYZ, MINHO, J.Y.P(with Xdinary Heroes Jungsu, Jun Han), TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
