@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "540회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kwon Inseo, Burvey, Kep1er, VIVIZ, 13Found, AMPERS&ONE, EPEX, POW, BUMJIN, 82MAJOR, Moon JongUp</font>`
   },
   {
     "mair": "nomal",
