@@ -12,18 +12,18 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "368회",
+    "musicEP": "369회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">NEW L, tracer, Kwon Inseo, Burvey, Kep1er, VIVIZ, POW, BUMJIN, AMPERS&ONE, 82MAJOR, EPEX, Moon JongUp, LEE JAEWON</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "540회",
+    "musicEP": "541회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kwon Inseo, Burvey, Kep1er, VIVIZ, 13Found, AMPERS&ONE, EPEX, POW, BUMJIN, 82MAJOR, Moon JongUp</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
