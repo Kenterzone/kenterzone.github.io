@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "870회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Y</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1229회",
+    "musicEP": "1230회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, Burvey, ILLIT, CLASS:y, Yves, Han ga bin, Kwon Inseo, STAYC, Kep1er, VIVIZ, POW, TIOT, DayChild, Moon Jong Up, BUMJIN, ENHYPEN, EPEX, NCT DREAM, ATEEZ, TOMORROW X TOGETHER, MINHO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Burvey, ILLIT, AHN YEEUN, LOVEONE, BADVILLAIN, Yves, Kang Yeseul, CLASS:y, Kep1er, ICHILLIN', VIVIZ, NEXZ, NOWADAYS, Park Hyun Ho, A.C.E, ZHOUMI, ATEEZ, ENHYPEN, NCT DREAM</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "878회",
+    "musicEP": "879회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, Burvey, BABYMONSTER, Yves, CLASS:y, ILLIT, Kep1er, VIVIZ, BUMJIN, EPEX, POW, TIOT, ENHYPEN, ATEEZ, NCT DREAM, TOMORROW X TOGETHER, MINHO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, ILLIT, BABYMONSTER, BADVILLAIN, CLASS:y, Yves, Kep1er, ICHILLIN', AHN YEEUN, VIVIZ, BUMJIN, NEXZ, NOWADAYS, ENHYPEN, ZHOUMI, NCT DREAM, ATEEZ</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1246회",
+    "musicEP": "1247회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Yves, ILLIT, BABYMONSTER, STAYC, Kep1er, TIOT, POW, ENHYPEN, UNIVERSE LEAGUE, EPEX, Jeong Dong Won, ATEEZ, NCT DREAM, TOMORROW X TOGETHER, MINHO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
