@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1247회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, ILLIT, MEOVV, BABYMONSTER, AHN YEEUN, Yves, CLASS:y, ICHILLIN', Kep1er, ZHOUMI, NOWADAYS, NEXZ, Libelante, Park Hyun Ho, A.C.E, ATEEZ, NCT DREAM, ENHYPEN</font>`
   },  ////SP_GUIDE/////
 
 {
