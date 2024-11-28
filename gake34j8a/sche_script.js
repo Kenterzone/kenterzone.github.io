@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "369회",
     "musictime": "18:00KST",
@@ -19,7 +19,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "541회",
     "musictime": "17:00KST",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1230회",
+    "musicEP": "1231회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Burvey, ILLIT, AHN YEEUN, LOVEONE, BADVILLAIN, Yves, Kang Yeseul, CLASS:y, Kep1er, ICHILLIN', VIVIZ, NEXZ, NOWADAYS, Park Hyun Ho, A.C.E, ZHOUMI, ATEEZ, ENHYPEN, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">izna, LOVEONE, BADVILLAIN, CLASS:y, ICHILLIN', IRENE, JAY B, NEXZ, NOWADAYS, TWS, Libelante, A.C.E, YAOCHEN, Woosoo, BUMJIN, DXMON, ENHYPEN, WayV, KYUHYUN</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "879회",
+    "musicEP": "880회",
     "musictime": "15:21KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, ILLIT, BABYMONSTER, BADVILLAIN, CLASS:y, Yves, Kep1er, ICHILLIN', AHN YEEUN, VIVIZ, BUMJIN, NEXZ, NOWADAYS, ENHYPEN, ZHOUMI, NCT DREAM, ATEEZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1247회",
+    "musicEP": "1248회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, ILLIT, MEOVV, BABYMONSTER, AHN YEEUN, Yves, CLASS:y, ICHILLIN', Kep1er, ZHOUMI, NOWADAYS, NEXZ, Libelante, Park Hyun Ho, A.C.E, ATEEZ, NCT DREAM, ENHYPEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
