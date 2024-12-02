@@ -10,11 +10,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "369회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">NEW L, izna, BADVILLAIN, CLASS:y, PRIMROSE, ICHILLIN', NOWADAYS, YOASOBI, Park Je Up, A.C.E, Jay Chang, WayV</font>`
   },
   {
     "mair": "nomal",
@@ -40,16 +40,16 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1231회",
+    "musicEP": "1232회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">izna, LOVEONE, BADVILLAIN, CLASS:y, ICHILLIN', IRENE, JAY B, NEXZ, NOWADAYS, TWS, Libelante, A.C.E, YAOCHEN, Woosoo, BUMJIN, DXMON, ENHYPEN, WayV, KYUHYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "880회",
+    "musicEP": "881회",
     "musictime": "15:21KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -59,7 +59,7 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1248회",
+    "musicEP": "1249회",
     "musictime": "15:10KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
