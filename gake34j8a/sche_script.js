@@ -46,7 +46,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Sat.",
+    "date": "xSat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "881회",
@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1249회",
-    "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:25KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ga Been Han, izna, MEOVV, CLASS:y, PRIMROSE, IRENE, TWICE, Big Ocean, A.C.E, NOWADAYS, NEXZ, DayChild, BUMJIN, TWS, TREASURE, CRAVITY</font>`
   },  ////SP_GUIDE/////
 
 {
