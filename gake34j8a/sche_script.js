@@ -38,16 +38,16 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
     "musicEP": "1232회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">izna, BADVILLAIN, CLASS:y, Lee Ye Eun, Kwon In Seo, PRIMROSE, TWICE, IRENE, 13Found, NEXZ, NOWADAYS, TWS, Jang Min Ho, Kang Jin, DayChild, Big Ocean, CRAVITY, A.C.E, WayV</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">V</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "881회",
     "musictime": "15:21KST",
@@ -57,7 +57,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1249회",
     "musictime": "15:25KST",
