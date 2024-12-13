@@ -50,7 +50,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "881회",
-    "musictime": "15:21KST",
+    "musictime": "10:45KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">izna, Lee Myunghwa, BADVILLAIN, CLASS:y, Yoon Soo Hyun, PRIMROSE, IRENE, TWICE, , NOWADAYS, NEXZ, TREASURE, A.C.E, TWS, Jang Min Ho, WayV, CRAVITY</font>`
   },
 
