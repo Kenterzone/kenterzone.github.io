@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1249회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">GYang Ji Eun, a Been Han, izna, MEOVV, CLASS:y, PRIMROSE, IRENE, TWICE, Big Ocean, A.C.E, NOWADAYS, NEXZ, DayChild, BUMJIN, TWS, TREASURE, CRAVITY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Yang Ji Eun, Ga Been Han, izna, MEOVV, CLASS:y, PRIMROSE, IRENE, TWICE, Big Ocean, A.C.E, NOWADAYS, NEXZ, DayChild, BUMJIN, TWS, TREASURE, CRAVITY</font>`
   },  ////SP_GUIDE/////
 
 {
