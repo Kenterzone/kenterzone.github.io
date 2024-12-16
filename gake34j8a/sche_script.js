@@ -49,25 +49,39 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "881회",
+    "musicEP": "882회",
     "musictime": "10:45KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">izna, Lee Myunghwa, BADVILLAIN, CLASS:y, Yoon Soo Hyun, PRIMROSE, IRENE, TWICE, , NOWADAYS, NEXZ, TREASURE, A.C.E, TWS, Jang Min Ho, WayV, CRAVITY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Inkigayo",
-    "musicEP": "1249회",
+    "musicEP": "1250회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Yang Ji Eun, Ga Been Han, izna, MEOVV, CLASS:y, PRIMROSE, IRENE, TWICE, Big Ocean, A.C.E, NOWADAYS, NEXZ, DayChild, BUMJIN, TWS, TREASURE, CRAVITY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
+    "date": "Fri.",
+    "date_date": "12.21",
+    "musicname": "2024 KBS Gayo Daejeon",
+    "musicEP": "",
+    "musictime": "20:30KST",
+    "musicsetlist":`ShowGuest:MC：KIM YOUNGDAE、ZICO、Jang Wonyoung<BR/><font color="#adadb8"></font>`
+  },{
     "date": "Sun.",
     "date_date": "12.31",
     "musicname": "2023 MBC Gayo Daejeon",
+    "musicEP": "",
+    "musictime": "20:45KST",
+    "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
+  },{
+    "date": "Tue.",
+    "date_date": "12.31",
+    "musicname": "2024 MBC Gayo Daejeon",
     "musicEP": "",
     "musictime": "20:45KST",
     "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
