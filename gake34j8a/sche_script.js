@@ -72,12 +72,12 @@ const musicGuid =[
     "musictime": "20:30KST",
     "musicsetlist":`ShowGuest:MC：KIM YOUNGDAE、ZICO、Jang Wonyoung<BR/><font color="#adadb8"></font>`
   },{
-    "date": "Sun.",
-    "date_date": "12.31",
-    "musicname": "2023 MBC Gayo Daejeon",
+    "date": "Wed.",
+    "date_date": "12.25",
+    "musicname": "2024 SBS Gayo Daejeon",
     "musicEP": "",
     "musictime": "20:45KST",
-    "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:MC：Ahn Yujin、Yeonjun、Doyoung<BR/><font color="#adadb8">ILLIT, izna, BABYMONSTER, ITZY, NewJeans, NMIXX, LE SSERAFIM, IVE, aespa, (G)I-DLE, 2NE1, NEXZ, TWS, RIIZE, ZEROBASEONE, Lee Young Ji, TREASURE, ATEEZ, CRAVITY, ENHYPEN, WayV, KEY, NCT 127, NCT DREAM, NCT WISH, BOYNEXTDOOR, Stray Kids, TOMORROW X TOGETHER, G-Dragon</font>`
   },{
     "date": "Tue.",
     "date_date": "12.31",
