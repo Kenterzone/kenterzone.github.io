@@ -70,7 +70,7 @@ const musicGuid =[
     "musicname": "2024 KBS Gayo Daejeon",
     "musicEP": "",
     "musictime": "20:30KST",
-    "musicsetlist":`ShowGuest:MC：KIM YOUNGDAE、ZICO、Jang Wonyoung<BR/><font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:MC：KIM YOUNGDAE、ZICO、Jang Wonyoung<BR/><font color="#adadb8">aespa, IVE, Kep1er, ILLIT, KISS OF LIFE, H1-KEY, LE SSERAFIM, STAYC, NewJeans, tripleS, UNIS, NMIXX, ITZY, (G)I-DLE, xikers, RIIZE, EVNNE, TRENDZ, INI, ZEROBASEONE, n.SSign, NEXZ, NouerA, ENHYPEN, BOYNEXTDOOR, ONEUS, P1Harmony, CRAVITY, TWS, NCT WISH, NCT 127, NCT DREAM, TOMORROW X TOGETHER, ATEEZ, WayV, Stray Kids, Lee Chanwon, Jang Minho, Young Tak, Lee Youngji, Jinusean, Bada, Baby V.O.X, Goo Joonyeob</font>`
   },{
     "date": "Wed.",
     "date_date": "12.25",
