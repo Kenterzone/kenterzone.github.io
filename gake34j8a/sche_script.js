@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "882회",
     "musictime": "10:45KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Rolling Quartz, Kwon In Seo, Ga Been Han, Lee Ye Eun, CLASS:y, izna, HaSeul(ARTMS), IRENE, DayChild, 13Found, Lubless, SEVENUS, Jonathan Wong, Woosoo, Big Ocean, CRAVITY, TREASURE</font>`
   },
 
   {
@@ -66,7 +66,7 @@ const musicGuid =[
 
 {
     "date": "Fri.",
-    "date_date": "12.21",
+    "date_date": "12.20",
     "musicname": "2024 KBS Gayo Daejeon",
     "musicEP": "",
     "musictime": "20:30KST",
