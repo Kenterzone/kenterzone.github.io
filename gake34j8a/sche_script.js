@@ -9,7 +9,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Tue.", 
+    "date": "xTue.", 
     "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "370회",
@@ -18,7 +18,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Wed.",
+    "date": "xWed.",
     "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "541회",
@@ -27,7 +27,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Thu.",
+    "date": "xThu.",
     "musiconoroff" : false,
     "musicname": "M!CountDown",
     "musicEP": "870회",
@@ -37,7 +37,7 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "Fri.",
+    "date": "xFri.",
     "musiconoroff" : false,
     "musicname": "Music Bank",
     "musicEP": "1232회",
@@ -46,17 +46,17 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Sat.",
-    "musiconoroff" : true,
+    "date": "xSat.",
+    "musiconoroff" : false,
     "musicname": "Music Core",
-    "musicEP": "882회",
+    "musicEP": "883회",
     "musictime": "10:45KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Rolling Quartz, Kwon In Seo, Ga Been Han, Lee Ye Eun, CLASS:y, izna, HaSeul(ARTMS), IRENE, DayChild, 13Found, Lubless, SEVENUS, Jonathan Wong, Woosoo, Big Ocean, CRAVITY, TREASURE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
-    "date": "Sun.",
+    "date": "xSun.",
     "musiconoroff" : false,
     "musicname": "Inkigayo",
     "musicEP": "1250회",
