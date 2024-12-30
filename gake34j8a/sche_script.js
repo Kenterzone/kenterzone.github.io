@@ -79,7 +79,7 @@ const musicGuid =[
     "musictime": "17:10KST",
     "musicsetlist":`ShowGuest:MC：Ahn Yujin、Yeonjun、Doyoung<BR/><font color="#adadb8">ILLIT, izna, BABYMONSTER, ITZY, NewJeans, NMIXX, LE SSERAFIM, IVE, aespa, (G)I-DLE, 2NE1, NEXZ, TWS, RIIZE, ZEROBASEONE, Lee Young Ji, TREASURE, ATEEZ, CRAVITY, ENHYPEN, WayV, KEY, NCT 127, NCT DREAM, NCT WISH, BOYNEXTDOOR, Stray Kids, TOMORROW X TOGETHER, G-Dragon</font>`
   },{
-    "date": "Tue.",
+    "date": "XTue.",
     "date_date": "12.31",
     "musicname": "2024 MBC Gayo Daejeon",
     "musicEP": "",
