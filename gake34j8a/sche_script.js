@@ -27,7 +27,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "xThu.",
+    "date": "Thu.",
     "musiconoroff" : false,
     "musicname": "M!CountDown",
     "musicEP": "870회",
@@ -37,7 +37,7 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "xFri.",
+    "date": "Fri.",
     "musiconoroff" : false,
     "musicname": "Music Bank",
     "musicEP": "1232회",
@@ -46,7 +46,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "xSat.",
+    "date": "Sat.",
     "musiconoroff" : false,
     "musicname": "Music Core",
     "musicEP": "883회",
@@ -56,8 +56,8 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "xSun.",
-    "musiconoroff" : false,
+    "date": "Sun.",
+    "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1250회",
     "musictime": "15:25KST",
@@ -70,14 +70,14 @@ const musicGuid =[
     "musicname": "2024 KBS Gayo Daejeon",
     "musicEP": "",
     "musictime": "20:30KST",
-    "musicsetlist":`ShowGuest:MC：KIM YOUNGDAE、ZICO、Jang Wonyoung<BR/><font color="#adadb8">aespa, IVE, Kep1er, ILLIT, KISS OF LIFE, H1-KEY, LE SSERAFIM, STAYC, NewJeans, tripleS, UNIS, NMIXX, ITZY, (G)I-DLE, xikers, RIIZE, EVNNE, TRENDZ, INI, ZEROBASEONE, n.SSign, NEXZ, NouerA, ENHYPEN, BOYNEXTDOOR, ONEUS, P1Harmony, CRAVITY, TWS, NCT WISH, NCT 127, NCT DREAM, TOMORROW X TOGETHER, ATEEZ, WayV, Stray Kids, Lee Chanwon, Jang Minho, Young Tak, Lee Youngji, Jinusean, Bada, Baby V.O.X, Goo Joonyeob</font>`
+    "musicsetlist":`ShowGuest:MC：KIM YOUNGDAE、ZICO、Jang Wonyoung<BR/><font color="#adadb8"></font>`
   },{
     "date": "Wed.",
     "date_date": "12.25",
     "musicname": "2024 SBS Gayo Daejeon",
     "musicEP": "",
     "musictime": "17:10KST",
-    "musicsetlist":`ShowGuest:MC：Ahn Yujin、Yeonjun、Doyoung<BR/><font color="#adadb8">ILLIT, izna, BABYMONSTER, ITZY, NewJeans, NMIXX, LE SSERAFIM, IVE, aespa, (G)I-DLE, 2NE1, NEXZ, TWS, RIIZE, ZEROBASEONE, Lee Young Ji, TREASURE, ATEEZ, CRAVITY, ENHYPEN, WayV, KEY, NCT 127, NCT DREAM, NCT WISH, BOYNEXTDOOR, Stray Kids, TOMORROW X TOGETHER, G-Dragon</font>`
+    "musicsetlist":`ShowGuest:MC：Ahn Yujin、Yeonjun、Doyoung<BR/><font color="#adadb8"></font>`
   },{
     "date": "XTue.",
     "date_date": "12.31",
