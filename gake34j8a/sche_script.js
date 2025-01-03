@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1250회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">JinE, JIWONI, woo yeonyi, Kwon Inseo, BADA, M.O.N.T, Park Sung On, SEVENUS, 13Found, 8TURN, n.SSign, ILMIN, Jay Chang</font>`
   },  ////SP_GUIDE/////
 
 {
