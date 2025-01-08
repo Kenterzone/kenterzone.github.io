@@ -9,7 +9,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "xTue.", 
+    "date": "Tue.", 
     "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "370회",
@@ -18,7 +18,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "xWed.",
+    "date": "Wed.",
     "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "541회",
@@ -28,11 +28,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "M!CountDown",
     "musicEP": "870회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SEO EVE, Lee Ye Eun, izna, GFRIEND, 13Found, NouerA, 8TURN, XLOV, n.SSign, Jay Chang, BOYNEXTDOOR, BSS(SEVENTEEN)</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1250회",
+    "musicEP": "1251회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">JinE, JIWONI, woo yeonyi, Kwon Inseo, BADA, M.O.N.T, Park Sung On, SEVENUS, 13Found, 8TURN, n.SSign, ILMIN, Jay Chang</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
