@@ -38,7 +38,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1232회",
     "musictime": "17:00KST",
@@ -47,11 +47,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "883회",
-    "musictime": "10:45KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicEP": "884회",
+    "musictime": "15:10KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SEO EVE, HAN GABIN, Lee YeEun, BOMIN, GFRIEND, NouerA, Woosoo, M.O.N.T, 8TURN, n.SSign, CREZL, Park SungOn, BSS(SEVENTEEN), BOYNEXTDOOR</font>`
   },
 
   {
