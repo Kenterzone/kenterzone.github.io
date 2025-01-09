@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1233회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">V</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">JinE, Lee YeEun, Lee MiRi, HAN GABIN, JIWONI, Yang JiEun, SEO EVE, GFRIEND, BOMIN, BADA, XLOV, NouerA, 13Found, SEVENUS, Park SungOn, n.SSign, 8TURN, BOYNEXTDOOR , BSS(SEVENTEEN)</font>`
   },
   {
     "mair": "nomal",
