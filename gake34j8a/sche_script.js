@@ -40,7 +40,7 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1232회",
+    "musicEP": "1233회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">V</font>`
   },
