@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1251회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kwon Inseo, SEO EVE, Lee Kyu Ra, JinE, HAN GA BIN, GFRIEND, NouerA, M.O.N.T, Park Sung On, 8TURN, n.SSign, CREZL, BOYNEXTDOOR, BSS(SEVENTEEN)</font>`
   },  ////SP_GUIDE/////
 
 {
