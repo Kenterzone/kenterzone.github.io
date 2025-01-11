@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "870회",
+    "musicEP": "871회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SEO EVE, Lee Ye Eun, izna, GFRIEND, 13Found, NouerA, 8TURN, XLOV, n.SSign, Jay Chang, BOYNEXTDOOR, BSS(SEVENTEEN)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1233회",
+    "musicEP": "1234회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">JinE, Lee YeEun, Lee MiRi, HAN GABIN, JIWONI, Yang JiEun, SEO EVE, GFRIEND, BOMIN, BADA, XLOV, NouerA, 13Found, SEVENUS, Park SungOn, n.SSign, 8TURN, BOYNEXTDOOR , BSS(SEVENTEEN)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "884회",
+    "musicEP": "885회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SEO EVE, HAN GABIN, Lee YeEun, BOMIN, GFRIEND, NouerA, Woosoo, M.O.N.T, 8TURN, n.SSign, CREZL, Park SungOn, BSS(SEVENTEEN), BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -60,7 +60,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1251회",
-    "musictime": "15:25KST",
+    "musictime": "15:15KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">Kwon Inseo, SEO EVE, Lee Kyu Ra, JinE, HAN GA BIN, GFRIEND, NouerA, M.O.N.T, Park Sung On, 8TURN, n.SSign, CREZL, BOYNEXTDOOR, BSS(SEVENTEEN)</font>`
   },  ////SP_GUIDE/////
 
