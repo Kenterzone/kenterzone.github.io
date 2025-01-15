@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "871회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, SEO EVE, IVE, BBGIRLS, dearALICE, RIIZE, M.O.N.T, XLOV, n.SSign, ONEUS, WEi</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1251회",
+    "musicEP": "1252회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kwon Inseo, SEO EVE, Lee Kyu Ra, JinE, HAN GA BIN, GFRIEND, NouerA, M.O.N.T, Park Sung On, 8TURN, n.SSign, CREZL, BOYNEXTDOOR, BSS(SEVENTEEN)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
