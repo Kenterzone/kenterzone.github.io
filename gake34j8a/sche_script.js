@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1234회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, Yang Ji Eun, Lee Kyu Ra, SEO EVE, JinE, IVE, JIWONI, BBGIRLS, BOMIN, WANSUN & SEULGI, Jungseul(feat.Shindong), BADA, 13Found, XLOV, ONEUS, Park Ji Hyeon, Park Sung On, Hwang Karam</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "885회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Miss Kim, ODD YOUTH, SEO EVE, Byeol sarang, Jungseul(feat.Shindong), WANSUN & SEULGI, JIWONI, IVE, BBGIRLS, XLOV, Lubless, ONEUS, WEi, Park Ji Hyeon</font>`
   },
 
   {
