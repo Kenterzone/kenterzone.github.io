@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1252회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, Byeol Sa Rang, SEO EVE, JinE, Seul Jung, IVE, BBGIRLS, WANSUN & SEULGI, Park Ji Hyeon, XLOV, n.SSign, ONEUS, WEi</font>`
   },  ////SP_GUIDE/////
 
 {
