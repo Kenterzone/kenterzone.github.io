@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "871회",
+    "musicEP": "872회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, SEO EVE, IVE, BBGIRLS, dearALICE, RIIZE, M.O.N.T, XLOV, n.SSign, ONEUS, WEi</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1234회",
+    "musicEP": "1235회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, Yang Ji Eun, Lee Kyu Ra, SEO EVE, JinE, IVE, JIWONI, BBGIRLS, BOMIN, WANSUN & SEULGI, Jungseul(feat.Shindong), BADA, 13Found, XLOV, ONEUS, Park Ji Hyeon, Park Sung On, Hwang Karam</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "885회",
+    "musicEP": "886회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Miss Kim, ODD YOUTH, SEO EVE, Byeol sarang, Jungseul(feat.Shindong), WANSUN & SEULGI, JIWONI, IVE, BBGIRLS, XLOV, Lubless, ONEUS, WEi, Park Ji Hyeon</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1252회",
+    "musicEP": "1253회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ODD YOUTH, Byeol Sa Rang, SEO EVE, JinE, Seul Jung, IVE, BBGIRLS, WANSUN & SEULGI, Park Ji Hyeon, XLOV, n.SSign, ONEUS, WEi</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -73,17 +73,17 @@ const musicGuid =[
     "musicsetlist":`ShowGuest:MC：KIM YOUNGDAE、ZICO、Jang Wonyoung<BR/><font color="#adadb8"></font>`
   },{
     "date": "Wed.",
-    "date_date": "12.25",
-    "musicname": "2024 SBS Gayo Daejeon",
+    "date_date": "01.29",
+    "musicname": "2024 MBC Gayo Daejeon-Part1",
     "musicEP": "",
-    "musictime": "17:10KST",
+    "musictime": "17:25KST",
     "musicsetlist":`ShowGuest:MC：Ahn Yujin、Yeonjun、Doyoung<BR/><font color="#adadb8"></font>`
   },{
-    "date": "XTue.",
-    "date_date": "12.31",
-    "musicname": "2024 MBC Gayo Daejeon",
+    "date": "Thu.",
+    "date_date": "01.30",
+    "musicname": "2024 MBC Gayo Daejeon-Part2",
     "musicEP": "",
-    "musictime": "20:45KST",
+    "musictime": "17:25KST",
     "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
   }
 ];
