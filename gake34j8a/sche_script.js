@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "872회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BBGIRLS, IVE, MINNIE((G)I-DLE), CATCH THE YOUNG, KickFlip, &TEAM, n.SSign, ONEUS, ZEROBASEONE, CIX, NCT WISH, GOT7</font>`
   },
 
   {
