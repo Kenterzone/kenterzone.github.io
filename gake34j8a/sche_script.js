@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1235회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Yoon Seoryeong, Lee Kyu Ra, Byeol Sa Rang, BBGIRLS, IVE, MINNIE((G)I-DLE), ROH JIHOON, M.O.N.T, Park Ji Hyeon, KickFlip, n.SSign, &TEAM, ONEUS, Chan ul, CATCH THE YOUNG, CIX, GOT7, NCT WISH</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "886회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MINNIE((G)I-DLE), IVE, BBGIRLS, Miss Kim, CATCH THE YOUNG, KickFlip, Park Ji Hyeon, ONEUS, CIX, n.SSign, &TEAM, NCT WISH, GOT7</font>`
   },
 
   {
