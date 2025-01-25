@@ -28,7 +28,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "M!CountDown",
     "musicEP": "873회",
     "musictime": "18:08KST",
@@ -38,11 +38,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
-    "musicEP": "1235회",
+    "musicEP": "1236회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Yoon Seoryeong, Lee Kyu Ra, Byeol Sa Rang, BBGIRLS, IVE, MINNIE((G)I-DLE), ROH JIHOON, M.O.N.T, Park Ji Hyeon, KickFlip, n.SSign, &TEAM, ONEUS, Chan ul, CATCH THE YOUNG, CIX, GOT7, NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -83,7 +83,7 @@ const musicGuid =[
     "date_date": "01.30",
     "musicname": "2024 MBC Gayo Daejeon-Part2",
     "musicEP": "",
-    "musictime": "17:25KST",
+    "musictime": "16:50KST",
     "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
   }
 ];
