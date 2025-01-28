@@ -47,11 +47,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Core",
-    "musicEP": "886회",
+    "musicEP": "887회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MINNIE((G)I-DLE), IVE, BBGIRLS, Miss Kim, CATCH THE YOUNG, KickFlip, Park Ji Hyeon, ONEUS, CIX, n.SSign, &TEAM, NCT WISH, GOT7</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1253회",
+    "musicEP": "1254회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Lee Kyu Ra, BBGIRLS, IVE, MINNIE((G)I-DLE), ONEUS, CATCH THE YOUNG, KickFlip, CIX, Park Ji Hyeon, GOT7, &TEAM, NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
