@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1254회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Lee Kyu Ra, Han Ga Bin, BOMIN, BADA, MINNIE((G)I-DLE), Chan ul, KickFlip, FISTBUMP, CIX, EUNHYUK</font>`
   },  ////SP_GUIDE/////
 
 {
