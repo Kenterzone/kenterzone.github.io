@@ -28,17 +28,17 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "873회",
+    "musicEP": "874회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kandis, RESCENE, IVE, Dahye, PLAVE, FISTBUMP, ALL(H)OURS, KickFlip, 82MAJOR, EUNHYUK, CIX</font>`
   },
 
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1236회",
     "musictime": "17:00KST",
@@ -47,7 +47,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "887회",
     "musictime": "15:10KST",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1254회",
+    "musicEP": "1255회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Lee Kyu Ra, Han Ga Bin, BOMIN, BADA, MINNIE((G)I-DLE), Chan ul, KickFlip, FISTBUMP, CIX, EUNHYUK</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">K</font>`
   },  ////SP_GUIDE/////
 
 {
