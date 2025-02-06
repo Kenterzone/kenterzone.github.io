@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "887회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Han GaBin, BOMIN, Woo Yerin, RESCENE, Kandis, IVE, ALL(H)OURS, KickFlip, FISTBUMP, Macha, Park Min Su, EUNHYUK, CIX</font>`
   },
 
   {
