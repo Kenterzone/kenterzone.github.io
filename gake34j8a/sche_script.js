@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "874회",
+    "musicEP": "875회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kandis, RESCENE, IVE, Dahye, PLAVE, FISTBUMP, ALL(H)OURS, KickFlip, 82MAJOR, EUNHYUK, CIX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1236회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BOMIN, Mss Kim, Kandis, RESCENE, IVE, KiMMi, ALL(H)OURS, FISTBUMP, Lubless, KickFlip, macha, Park Min Su, Park Ji Hyeon, EUNHYUK, n.SSign, CIX</font>`
   },
   {
     "mair": "nomal",
