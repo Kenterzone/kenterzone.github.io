@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1255회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">K</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kandis, KiMMi, Nahee, Dahye, RESCENE, shinnara, Woo Yerin, IVE, ALL(H)OURS, KickFlip, macha, 2Z, CIX</font>`
   },  ////SP_GUIDE/////
 
 {
