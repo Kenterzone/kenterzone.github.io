@@ -19,11 +19,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "541회",
+    "musicEP": "543회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kandis, KiMMi, RESCENE, BADA, 2Z, EPEX, KickFlip, Xdinary Heroes, macha, FISTBUMP, CIX</font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "875회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Blingone, MADEIN, RESCENE, CHUNG HA, IVE, KickFlip, 2Z, ALL(H)OURS, ONE PACT, EVNNE, Choi Suhwan, SHIN SOOHYUN, CIX</font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1236회",
+    "musicEP": "1237회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BOMIN, Mss Kim, Kandis, RESCENE, IVE, KiMMi, ALL(H)OURS, FISTBUMP, Lubless, KickFlip, macha, Park Min Su, Park Ji Hyeon, EUNHYUK, n.SSign, CIX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "887회",
+    "musicEP": "88회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Han GaBin, BOMIN, Woo Yerin, RESCENE, Kandis, IVE, ALL(H)OURS, KickFlip, FISTBUMP, Macha, Park Min Su, EUNHYUK, CIX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1255회",
+    "musicEP": "1256회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kandis, KiMMi, Nahee, Dahye, RESCENE, shinnara, Woo Yerin, IVE, ALL(H)OURS, KickFlip, macha, 2Z, CIX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
