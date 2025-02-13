@@ -49,7 +49,7 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "88회",
+    "musicEP": "888회",
     "musictime": "15:10KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">KiMMi, Blingone, RESCENE, Kim Chae Won, MADEIN, CHUNG HA, IVE, KANGJIN, EVNNE, ONE PACT, ALL(H)OURS, KickFlip, 2Z, PLAVE, SHIN SOOHYUN, CIX</font>`
   },
