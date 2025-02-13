@@ -21,18 +21,18 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "543회",
+    "musicEP": "544회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kandis, KiMMi, RESCENE, BADA, 2Z, EPEX, KickFlip, Xdinary Heroes, macha, FISTBUMP, CIX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "875회",
+    "musicEP": "876회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Blingone, MADEIN, RESCENE, CHUNG HA, IVE, KickFlip, 2Z, ALL(H)OURS, ONE PACT, EVNNE, Choi Suhwan, SHIN SOOHYUN, CIX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1237회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KiMMi, Kim Bo Kyung, Kang Hyeyeon, RESCENE, MADEIN, Blingone, CHUNG HA, IVE, 2Z, Choi Suhwan, SHIN SOOHYUN, macha, Kim Youngchul, ONE PACT, KickFlip, EVNNE, CIX, ALL(H)OURS</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "88회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KiMMi, Blingone, RESCENE, Kim Chae Won, MADEIN, CHUNG HA, IVE, KANGJIN, EVNNE, ONE PACT, ALL(H)OURS, KickFlip, 2Z, PLAVE, SHIN SOOHYUN, CIX</font>`
   },
 
   {
