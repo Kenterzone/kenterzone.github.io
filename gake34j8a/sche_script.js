@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "876회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Blingone, RESCENE, MADEIN, ALL(H)OURS, XODIAC, ARrC, LUN8, ONE PACT, EVNNE, KickFlip, 2Z, ONF, Woody</font>`
   },
 
   {
