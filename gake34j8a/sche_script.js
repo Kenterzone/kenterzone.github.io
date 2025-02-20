@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1238회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Jeon Yu Jin, I:MOND, Blingone, RESCENE, MADEIN, Yoon Soo Hyun, Woo Yerin, JinE, Kim Chaewon, HANHAE,Moon Se Yoon, ARrC, ALL(H)OURS, XODIAC, ONE PACT, KickFlip, EVNNE, ONF, LUN8, Woody</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "889회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KiMMi, RESCENE, Blingone, MADEIN, Yoon Soo Hyun, DAHYE, Kim Chaewon, ONE PACT, ALL(H)OURS, KickFlip, LUN8, XODIAC, ARrC, EVNNE, Choi Suhwan, 2Z, ONF, Woody</font>`
   },
 
   {
