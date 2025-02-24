@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "876회",
+    "musicEP": "877회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Blingone, RESCENE, MADEIN, ALL(H)OURS, XODIAC, ARrC, LUN8, ONE PACT, EVNNE, KickFlip, 2Z, ONF, Woody</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1238회",
+    "musicEP": "1239회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Jeon Yu Jin, I:MOND, Blingone, RESCENE, MADEIN, Yoon Soo Hyun, Woo Yerin, JinE, Kim Chaewon, HANHAE,Moon Se Yoon, ARrC, ALL(H)OURS, XODIAC, ONE PACT, KickFlip, EVNNE, ONF, LUN8, Woody</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "889회",
+    "musicEP": "890회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KiMMi, RESCENE, Blingone, MADEIN, Yoon Soo Hyun, DAHYE, Kim Chaewon, ONE PACT, ALL(H)OURS, KickFlip, LUN8, XODIAC, ARrC, EVNNE, Choi Suhwan, 2Z, ONF, Woody</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1257회",
+    "musicEP": "1258회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Blingone, JinE, KIM CHAE WON, MADEIN, RESCENE, JISOO, ARrC, AWIN, ALL(H)OURS, ONE PACT, LUN8, XODIAC, EVNNE, KickFlip, ONF, Woody</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
