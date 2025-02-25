@@ -19,11 +19,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
     "musicEP": "544회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, Woo Yerin, BADA, ALL(H)OURS, ARrC, EVNNE, KickFlip, LUN8, ONE PACT, XODIAC, ONF, Woody, Choi Suhwan</font>`
   },
   {
     "mair": "nomal",
