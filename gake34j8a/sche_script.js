@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "877회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SUNG HANBIN X JAEHYUN X SOHEE, Gyubin, KiiiKiii, Hearts2Hearts, NouerA, LUN8, KickFlip, ARrC, ONF, ALL(H)OURS, ONE PACT, EVNNE, ZEROBASEONE, G-DRAGON</font>`
   },
 
   {
