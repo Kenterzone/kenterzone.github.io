@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "544회",
+    "musicEP": "545회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, Woo Yerin, BADA, ALL(H)OURS, ARrC, EVNNE, KickFlip, LUN8, ONE PACT, XODIAC, ONF, Woody, Choi Suhwan</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1239회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, JinE, KiiiKiii, Hearts2Hearts, RESCENE, Kim ChaeWon, Kim BoKyung, 3WAY, KickFlip, EVNNE, ARrC, ALL(H)OURS, ONF, XODIAC, ONE PACT, NouerA, LUN8, ZEROBASEONE</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "890회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, Hearts2Hearts, Gyubin, MADEIN, EVNNE, XODIAC, ONE PACT, ARrC, ALL(H)OURS, KickFlip, NouerA, LUN8, ONF, ZEROBASEONE</font>`
   },
 
   {
