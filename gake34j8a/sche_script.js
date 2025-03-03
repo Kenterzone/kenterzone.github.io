@@ -10,11 +10,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "370회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Angel Noise, Gyubin, I：MOND, Hearts2Hearts, RESCENE, ARrC, NouerA, ONE PACT, XODIAC, Choi Suhwan, ZEROBASEONE</font>`
   },
   {
     "mair": "nomal",
@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "877회",
+    "musicEP": "878회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SUNG HANBIN X JAEHYUN X SOHEE, Gyubin, KiiiKiii, Hearts2Hearts, NouerA, LUN8, KickFlip, ARrC, ONF, ALL(H)OURS, ONE PACT, EVNNE, ZEROBASEONE, G-DRAGON</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1239회",
+    "musicEP": "1240회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, JinE, KiiiKiii, Hearts2Hearts, RESCENE, Kim ChaeWon, Kim BoKyung, 3WAY, KickFlip, EVNNE, ARrC, ALL(H)OURS, ONF, XODIAC, ONE PACT, NouerA, LUN8, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "890회",
+    "musicEP": "891회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, Hearts2Hearts, Gyubin, MADEIN, EVNNE, XODIAC, ONE PACT, ARrC, ALL(H)OURS, KickFlip, NouerA, LUN8, ONF, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1258회",
+    "musicEP": "1259회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">JinE, KiiiKiii, Hearts2Hearts, Gyubin, MADEIN, RESCENE, NouerA, ALL(H)OURS, LUN8, XODIAC, ARrC, KickFlip, EVNNE, ONF, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
