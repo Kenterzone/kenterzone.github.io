@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "545회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Angel Noise, Gyubin, I:MOND, RESCENE, Hearts2Hearts, ONE PACT, ALL(H)OURS, ARrC, NouerA, LUN8, XODIAC, ZEROBASEONE</font>`
   },
   {
     "mair": "nomal",
