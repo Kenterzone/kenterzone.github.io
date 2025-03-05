@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "370회",
+    "musicEP": "371회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Angel Noise, Gyubin, I：MOND, Hearts2Hearts, RESCENE, ARrC, NouerA, ONE PACT, XODIAC, Choi Suhwan, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "878회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, YOUNG POSSE, Hearts2Hearts, MADEIN, NouerA, XODIAC, 8TURN, ONEWE, ZEROBASEONE, SEO EUN KWANG(BTOB) X YOON(WINNER) X KIM TAE RAE(ZEROBASEONE), INFINITE, BTOB</font>`
   },
 
   {
