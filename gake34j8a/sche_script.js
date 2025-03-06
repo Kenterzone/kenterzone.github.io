@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "545회",
+    "musicEP": "546회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Angel Noise, Gyubin, I:MOND, RESCENE, Hearts2Hearts, ONE PACT, ALL(H)OURS, ARrC, NouerA, LUN8, XODIAC, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1240회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">JinE, Boramiyu, Gyubin, YU SOOHYUN, YOUNG POSSE, GENBLUE, KiiiKiii, Hearts2Hearts, MADEIN, 3WAY, 8TURN, ONEWE, XODIAC, W24, NouerA, ZEROBASEONE, INFINITE, BTOB</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "891회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, Boramiyu, GENBLUE, KiiiKiii, Hearts2Hearts, MADEIN, 3WAY, 8TURN, XODIAC, NouerA, ONEWE, ZEROBASEONE, INFINITE, BTOB</font>`
   },
 
   {
