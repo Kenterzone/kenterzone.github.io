@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "878회",
+    "musicEP": "879회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, YOUNG POSSE, Hearts2Hearts, MADEIN, NouerA, XODIAC, 8TURN, ONEWE, ZEROBASEONE, SEO EUN KWANG(BTOB) X YOON(WINNER) X KIM TAE RAE(ZEROBASEONE), INFINITE, BTOB</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1259회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Boramiyu, GENBLUE, JinE, Gyubin, KiiiKiii, Hearts2Hearts, MADEIN, NouerA, XODIAC, 8TURN, ONEWE, ZEROBASEONE, INFINITE, BTOB</font>`
   },  ////SP_GUIDE/////
 
 {
