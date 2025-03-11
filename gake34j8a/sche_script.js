@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "371회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Blingone, GENBLUE, Gyubin, YOUNG POSSE, Hearts2Hearts, MADEIN, 8TURN, NouerA, NTX, W24, ONEW</font>`
   },
   {
     "mair": "nomal",
@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "546회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">GENBLUE, YOUNG POSSE, Gyubin, RESCENE, Hearts2Hearts, MADEIN, 3WAY, 8TURN, NouerA, NTX, ONEWE</font>`
   },
   {
     "mair": "nomal",
