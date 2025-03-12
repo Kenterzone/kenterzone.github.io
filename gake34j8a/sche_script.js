@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "371회",
+    "musicEP": "372회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Blingone, GENBLUE, Gyubin, YOUNG POSSE, Hearts2Hearts, MADEIN, 8TURN, NouerA, NTX, W24, ONEW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "879회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, KiiiKiii, Hearts2Hearts, SAY MY NAME, YEJI(ITZY), SEULGI, 3WAY, 8TURN, ONEWE, ZHANG HAO(ZEROBASEONE) X LUCY, SF9, JEONG DONGWON, TREASURE, HXW(SEVENTEEN)</font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1240회",
+    "musicEP": "1241회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">JinE, Boramiyu, Gyubin, YU SOOHYUN, YOUNG POSSE, GENBLUE, KiiiKiii, Hearts2Hearts, MADEIN, 3WAY, 8TURN, ONEWE, XODIAC, W24, NouerA, ZEROBASEONE, INFINITE, BTOB</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "891회",
+    "musicEP": "892회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, Boramiyu, GENBLUE, KiiiKiii, Hearts2Hearts, MADEIN, 3WAY, 8TURN, XODIAC, NouerA, ONEWE, ZEROBASEONE, INFINITE, BTOB</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1259회",
+    "musicEP": "1260회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Boramiyu, GENBLUE, JinE, Gyubin, KiiiKiii, Hearts2Hearts, MADEIN, NouerA, XODIAC, 8TURN, ONEWE, ZEROBASEONE, INFINITE, BTOB</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
