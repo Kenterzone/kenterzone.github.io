@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "546회",
+    "musicEP": "547회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">GENBLUE, YOUNG POSSE, Gyubin, RESCENE, Hearts2Hearts, MADEIN, 3WAY, 8TURN, NouerA, NTX, ONEWE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1241회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">GENBLUE, Kim Jihyun, Boramiyu, Hearts2Hearts, KiiiKiii, SAY MY NAME, ILLIT, LE SSERAFIM, YEJI(ITZY), SEULGI, 8TURN, NouerA, NTX, SF9, ONEWE, JEONG DONG WON, HXW(SEVENTEEN)</font>`
   },
   {
     "mair": "nomal",
