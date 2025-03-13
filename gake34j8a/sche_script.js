@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "892회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, Hearts2Hearts, SAY MY NAME, ILLIT, LE SSERAFIM, YEJI(ITZY), SEULGI, WING, ONEWE, 8TURN, NouerA, JEONG DONG WON, TREASURE, SF9, HxW(SEVENTEEN)</font>`
   },
 
   {
