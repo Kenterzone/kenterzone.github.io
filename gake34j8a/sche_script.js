@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "879회",
+    "musicEP": "880회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Gyubin, KiiiKiii, Hearts2Hearts, SAY MY NAME, YEJI(ITZY), SEULGI, 3WAY, 8TURN, ONEWE, ZHANG HAO(ZEROBASEONE) X LUCY, SF9, JEONG DONGWON, TREASURE, HXW(SEVENTEEN)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1260회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kim jihyun, SAY MY NAME, ILLIT, KiiiKiii, Hearts2Hearts, LE SSERAFIM, YEJI(ITZY), SEULGI, TREASURE, 8TURN, ONEWE, SF9, JEONG DONG WON, HxW(SEVENTEEN)</font>`
   },  ////SP_GUIDE/////
 
 {
