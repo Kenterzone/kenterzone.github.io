@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "372회",
     "musictime": "18:00KST",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1241회",
+    "musicEP": "1242회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">GENBLUE, Kim Jihyun, Boramiyu, Hearts2Hearts, KiiiKiii, SAY MY NAME, ILLIT, LE SSERAFIM, YEJI(ITZY), SEULGI, 8TURN, NouerA, NTX, SF9, ONEWE, JEONG DONG WON, HXW(SEVENTEEN)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "892회",
+    "musicEP": "893회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, Hearts2Hearts, SAY MY NAME, ILLIT, LE SSERAFIM, YEJI(ITZY), SEULGI, WING, ONEWE, 8TURN, NouerA, JEONG DONG WON, TREASURE, SF9, HxW(SEVENTEEN)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1260회",
+    "musicEP": "1261회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kim jihyun, SAY MY NAME, ILLIT, KiiiKiii, Hearts2Hearts, LE SSERAFIM, YEJI(ITZY), SEULGI, TREASURE, 8TURN, ONEWE, SF9, JEONG DONG WON, HxW(SEVENTEEN)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
