@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "547회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">GENBLUE, SAY MY NAME, Gyubin, 8TURN, NouerA, NTX, SF9, W24, GUNWOO, ONEWE, Hwang Karam</font>`
   },
   {
     "mair": "nomal",
