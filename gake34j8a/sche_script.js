@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "880회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, Candy Shop, STAYC, NMIXX, LE SSERAFIM, Ailee, YEJI(ITZY), SEULGI, The Wind, Dragon Pony, 8TURN, TREASURE, MARK(feat.HAECHAN), MARK X Lee Young Ji, FANTASY BOYS, THE BOYZ</font>`
   },
 
   {
