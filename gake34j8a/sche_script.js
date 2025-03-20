@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "547회",
+    "musicEP": "548회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">GENBLUE, SAY MY NAME, Gyubin, 8TURN, NouerA, NTX, SF9, W24, GUNWOO, ONEWE, Hwang Karam</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,12 +42,12 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1242회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, SAY MY NAME, ILLIT, Park Hye Sin, STAYC, NMIXX, LE SSERAFIM, YEJI(ITZY), SEULGI, Ailee, 8TURN, Dragon Pony, NTX, NouerA, FANTASY BOYS, The Wind, SHIN SOOHYUN, THE BOYZ</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Core",
     "musicEP": "893회",
     "musictime": "15:10KST",
