@@ -10,11 +10,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "372회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">GRANADA, GENBLUE, Blingone, SAY MY NAME, Candy Shop, Gyubin, STAYC, NouerA, NTX, FANTASY BOYS, The Wind</font>`
   },
   {
     "mair": "nomal",
@@ -40,14 +40,14 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1242회",
+    "musicEP": "1243회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Candy Shop, SAY MY NAME, ILLIT, Park Hye Sin, STAYC, NMIXX, LE SSERAFIM, YEJI(ITZY), SEULGI, Ailee, 8TURN, Dragon Pony, NTX, NouerA, FANTASY BOYS, The Wind, SHIN SOOHYUN, THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "893회",
     "musictime": "15:10KST",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1261회",
+    "musicEP": "1262회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">GENBLUE, Candy Shop, SAY MY NAME, LE SSERAFIM, NMIXX, STAYC, Ailee, YEJI(ITZY), SEULGI, NouerA, The Wind, Dragon Pony, SHIN SOOHYUN, TREASURE, FANTASY BOYS</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
