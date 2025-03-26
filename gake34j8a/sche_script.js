@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "372회",
+    "musicEP": "373회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">GRANADA, GENBLUE, Blingone, SAY MY NAME, Candy Shop, Gyubin, STAYC, NouerA, NTX, FANTASY BOYS, The Wind</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "881회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, SAY MY NAME, LE SSERAFIM, STAYC, NMIXX, Jeong EunJi X Seo InGuk, Bada X TEN X JUYEON X KOKO, NouerA, NEWBEAT, THE BOYZ, The Wind, SHIN SOOHYUN, Xdinary Heroes, ONE OR EIGHT, TEN, TNX, PLAVE</font>`
   },
 
   {
