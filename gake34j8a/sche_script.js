@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "548회",
+    "musicEP": "549회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">GENBLUE, SAY MY NAME, Gyubin, GRANADA, Candy Shop, NMIXX, NouerA, W24, FANTASY BOYS, Xdinary Heroes, The Wind</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1243회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, SAY MY NAME, Candy Shop, STAYC, NMIXX, NEWBEAT, NouerA, NTX, ONE OR EIGHT, TEN, TNX, Xdinary Heroes, XY, EASTSHINE, SHIN SOOHYUN, The Wind, FANTASY BOYS, THE BOYZ</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,8 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "893회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">
+KiiiKiii, SAY MY NAME, Candy Shop, LE SSERAFIM, STAYC, NMIXX, Dragon Pony, NEWBEAT, ONE OR EIGHT, XY, THE BOYZ, Xdinary Heroes, TNX, The Wind, FANTASY BOYS</font>`
   },
 
   {
