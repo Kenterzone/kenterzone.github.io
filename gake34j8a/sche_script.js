@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "881회",
+    "musicEP": "882회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, SAY MY NAME, LE SSERAFIM, STAYC, NMIXX, Jeong EunJi X Seo InGuk, Bada X TEN X JUYEON X KOKO, NouerA, NEWBEAT, THE BOYZ, The Wind, SHIN SOOHYUN, Xdinary Heroes, ONE OR EIGHT, TEN, TNX, PLAVE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,19 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1243회",
+    "musicEP": "1244회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, SAY MY NAME, Candy Shop, STAYC, NMIXX, NEWBEAT, NouerA, NTX, ONE OR EIGHT, TEN, TNX, Xdinary Heroes, XY, EASTSHINE, SHIN SOOHYUN, The Wind, FANTASY BOYS, THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "893회",
+    "musicEP": "894회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">
-KiiiKiii, SAY MY NAME, Candy Shop, LE SSERAFIM, STAYC, NMIXX, Dragon Pony, NEWBEAT, ONE OR EIGHT, XY, THE BOYZ, Xdinary Heroes, TNX, The Wind, FANTASY BOYS</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -62,7 +61,7 @@ KiiiKiii, SAY MY NAME, Candy Shop, LE SSERAFIM, STAYC, NMIXX, Dragon Pony, NEWBE
     "musicname": "Inkigayo",
     "musicEP": "1262회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOON SEO RYEONG, KiiiKiii, SAY MY NAME, Gyubin, Candy Shop, ShinEuiJin, STAYC, NMIXX, NEWBEAT, The Wind, Xdinary Heroes, ONE OR EIGHT, TEN, TNX, FANTASY BOYS</font>`
   },  ////SP_GUIDE/////
 
 {
