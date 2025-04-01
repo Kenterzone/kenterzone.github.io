@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "373회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">M.PRISM, SAY MY NAME, Candy Shop, STAYC, NEWBEAT, NTX, ONE OR EIGHT, TNX, GUNWOO, The Wind, TEN, FANTASY BOYS</font>`
   },
   {
     "mair": "nomal",
@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "549회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">M.PRISM, SAY MY NAME, Candy Shop, NMIXX, NEWBEAT, NTX, ONE OR EIGHT, TNX, The Wind, An Yul, TEN, FANTASY BOYS</font>`
   },
   {
     "mair": "nomal",
