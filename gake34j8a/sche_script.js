@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1244회",
+    "musicEP": "1243회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, SAY MY NAME, Candy Shop, STAYC, NMIXX, NEWBEAT, NouerA, NTX, ONE OR EIGHT, TEN, TNX, Xdinary Heroes, XY, EASTSHINE, SHIN SOOHYUN, The Wind, FANTASY BOYS, THE BOYZ</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "894회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, izna, NiziU, STAYC, NMIXX, Solar, ONE OR EIGHT, NEWBEA, JO1, TEMPEST, xikers, CLOSE YOUR EYES, TNX, FANTASY BOYS, Tae JinAh, SHIN SOOHYUN, TEN, THE BOYZ</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1262회",
+    "musicEP": "1263회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOON SEO RYEONG, KiiiKiii, SAY MY NAME, Gyubin, Candy Shop, ShinEuiJin, STAYC, NMIXX, NEWBEAT, The Wind, Xdinary Heroes, ONE OR EIGHT, TEN, TNX, FANTASY BOYS</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
