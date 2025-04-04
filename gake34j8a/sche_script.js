@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1263회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">EJel, KiiiKiii, izna, NiziU, STAYC, NMIXX, Solar, NEWBEAT, Baek Cheonggang, ONE OR EIGHT, EASTSHINE, CLOSE YOUR EYES, TAE JIN AH, xikers, TNX, FANTASY BOYS, JO1, TEMPEST, TEN</font>`
   },  ////SP_GUIDE/////
 
 {
