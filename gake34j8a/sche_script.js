@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "882회",
+    "musicEP": "883회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, EJel, izna, NiziU, STAYC, NMIXX, Solar, NEWBEAT, FANTASY BOYS, ONE OR EIGHT, CLOSE YOUR EYES, TEMPEST, TNX, JO1, THE BOYZ, The Wind, TEN, KAI</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1243회",
+    "musicEP": "1244회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, SAY MY NAME, Candy Shop, STAYC, NMIXX, NEWBEAT, NouerA, NTX, ONE OR EIGHT, TEN, TNX, Xdinary Heroes, XY, EASTSHINE, SHIN SOOHYUN, The Wind, FANTASY BOYS, THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
