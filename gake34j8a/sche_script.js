@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "374회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ShinEuiJin, EJel, CLOSE YOUR EYES, FANTASY BOYS, NEWBEAT, TNX, xikers, Kim Sung Joong, An Yul, RED DRAGONFLY, TEMPEST</font>`
   },
   {
     "mair": "nomal",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "894회",
+    "musicEP": "895회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, izna, NiziU, STAYC, NMIXX, Solar, ONE OR EIGHT, NEWBEA, JO1, TEMPEST, xikers, CLOSE YOUR EYES, TNX, FANTASY BOYS, Tae JinAh, SHIN SOOHYUN, TEN, THE BOYZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1263회",
+    "musicEP": "1264회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">EJel, KiiiKiii, izna, NiziU, STAYC, NMIXX, Solar, NEWBEAT, Baek Cheonggang, ONE OR EIGHT, EASTSHINE, CLOSE YOUR EYES, TAE JIN AH, xikers, TNX, FANTASY BOYS, JO1, TEMPEST, TEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
