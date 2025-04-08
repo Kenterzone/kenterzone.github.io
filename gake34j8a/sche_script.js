@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "550회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">EJel, NiziU, NEWBEAT, CLOSE YOUR EYES, FANTASY BOYS, NouerA, TNX, xikers, TEMPEST, Kim SungJoong</font>`
   },
   {
     "mair": "nomal",
