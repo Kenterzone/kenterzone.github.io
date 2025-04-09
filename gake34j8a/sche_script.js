@@ -12,18 +12,18 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "374회",
+    "musicEP": "375회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ShinEuiJin, EJel, CLOSE YOUR EYES, FANTASY BOYS, NEWBEAT, TNX, xikers, Kim Sung Joong, An Yul, RED DRAGONFLY, TEMPEST</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "550회",
+    "musicEP": "551회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">EJel, NiziU, NEWBEAT, CLOSE YOUR EYES, FANTASY BOYS, NouerA, TNX, xikers, TEMPEST, Kim SungJoong</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "883회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, KiiiKiii, Kik5o × AleXa, izna, NiziU, MOON SUA × SIYOON(Billlie), Solar, AMPERS&ONE, CLOSE YOUR EYES, MARK, xikers, TEN, TEMPEST, TNX, WHIB, DAESUNG</font>`
   },
 
   {
