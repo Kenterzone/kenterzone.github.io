@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1244회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, YOON SEO RYEONG, KiiiKiii, ShinEuiJin, izna, MOON SUA X SIYOON(Billlie), Kik5o X AleXa, NiziU, Solar, AMPERS&ONE, CLOSE YOUR EYES, TAE JINAH, EASTSHINE, Shin Seung Tae, xikers, NouerA, TEMPEST, TNX, WHIB, MARK</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "895회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, izna, Choi Yeowon, MOON SUA X SIYOON(Billlie), Kik5o X AleXa, NiziU, Solar, NEWBEAT, CLOSE YOUR EYES, AMPERS&ONE, xikers, FANTASY BOYS, NouerA, Shin Seung Tae, MARK, WHIB, TEMPEST, TNX</font>`
   },
 
   {
