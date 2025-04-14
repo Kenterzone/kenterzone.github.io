@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "375회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, Choi YeoWeon, Kik5o X AleXa, MOON SUA × SIYOON(Billlie), izna, Baek Cheonggang, An Yul, AMPERS&ONE, CLOSE YOUR EYES, FANTASY BOYS, NEWBEAT, WHIB, xikers</font>`
   },
   {
     "mair": "nomal",
@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "883회",
+    "musicEP": "884회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, KiiiKiii, Kik5o × AleXa, izna, NiziU, MOON SUA × SIYOON(Billlie), Solar, AMPERS&ONE, CLOSE YOUR EYES, MARK, xikers, TEN, TEMPEST, TNX, WHIB, DAESUNG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1244회",
+    "musicEP": "1245회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, YOON SEO RYEONG, KiiiKiii, ShinEuiJin, izna, MOON SUA X SIYOON(Billlie), Kik5o X AleXa, NiziU, Solar, AMPERS&ONE, CLOSE YOUR EYES, TAE JINAH, EASTSHINE, Shin Seung Tae, xikers, NouerA, TEMPEST, TNX, WHIB, MARK</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "895회",
+    "musicEP": "896회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, izna, Choi Yeowon, MOON SUA X SIYOON(Billlie), Kik5o X AleXa, NiziU, Solar, NEWBEAT, CLOSE YOUR EYES, AMPERS&ONE, xikers, FANTASY BOYS, NouerA, Shin Seung Tae, MARK, WHIB, TEMPEST, TNX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
