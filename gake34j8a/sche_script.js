@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "375회",
+    "musicEP": "376회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, Choi YeoWeon, Kik5o X AleXa, MOON SUA × SIYOON(Billlie), izna, Baek Cheonggang, An Yul, AMPERS&ONE, CLOSE YOUR EYES, FANTASY BOYS, NEWBEAT, WHIB, xikers</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "884회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, Choi YeoWeon, cosmosy, ODD YOUTH, izna, Kik5o X AleXa, KWON EUNBI, AMPERS&ONE, CLOSE YOUR EYES, TIOT, NEWBEAT, MARK, Pagaehun, xikers, WHIB, 82MAJOR, NCT WISH</font>`
   },
 
   {
