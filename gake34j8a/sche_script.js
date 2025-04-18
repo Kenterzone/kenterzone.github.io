@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1264회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, cosmosy, Kik5o X AleXa, Choi YeoOne, ODD YOUTH, UNIS, izna, KWON EUNBI, AMPERS&ONE, AIMERS, CLOSE YOUR EYES, Pagaehun, Shin Seong, xikers, WHIB, 82MAJOR, NCT WISH, MARK</font>`
   },  ////SP_GUIDE/////
 
 {
