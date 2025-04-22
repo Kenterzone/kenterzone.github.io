@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "376회",
     "musictime": "18:00KST",
@@ -19,11 +19,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
     "musicEP": "552회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, Kik5o X AleXa, UNIS, ShinEuiJin, CHUU, KWON EUNBI, TIOT, An Yul, AMPERS&ONE, 82MAJOR, FANTASY BOYS</font>`
   },
   {
     "mair": "nomal",
