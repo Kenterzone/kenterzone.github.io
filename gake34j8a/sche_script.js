@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "885회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, Burvey, ODD YOUTH, UNIS, ME:I, KWON EUNBI, AMPERS&ONE, AIMERS, 82MAJOR, YOUNITE, TWS, TIOT, NCT WISH, KAI</font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1245회",
+    "musicEP": "1246회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, ifeye, izna, hoi Yeo Weon, ShinEuiJin, Kik5o X AleXa, ODD YOUTH, UNIS, KWON EUNBI, AMPERS&ONE, CLOSE YOUR EYES, NEWBEAT, Pagaehun, xikers, TIOT, 82MAJOR, WHIB, JUNG SEUNGWON, NCT WISH, MARK</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "896회",
+    "musicEP": "897회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, ifeye, ShinEuiJin, ODD YOUTH, izna, UNIS, KWON EUNBI, AMPERS&ONE, CLOSE YOUR EYES, Pagaehun, FANTASY BOYS, Baek Cheonggang, WHIB, 82MAJOR, xikers, MARK, NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1264회",
+    "musicEP": "1265회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, cosmosy, Kik5o X AleXa, Choi Yeoweon, ODD YOUTH, UNIS, izna, KWON EUNBI, AMPERS&ONE, AIMERS, CLOSE YOUR EYES, Pagaehun, Shin Seong, xikers, WHIB, 82MAJOR, NCT WISH, MARK</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
