@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "552회",
+    "musicEP": "553회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, Kik5o X AleXa, UNIS, ShinEuiJin, CHUU, KWON EUNBI, TIOT, An Yul, AMPERS&ONE, 82MAJOR, FANTASY BOYS</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1246회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, ifeye, UNIS, ODD YOUTH, MOON YEON JOO, Burvey, ME:I, KWON EUNBI, An Yul, AMPERS&ONE, ZOZAZZ, CHOI SOO HO, 82MAJOR, YOUNITE, AIMERS, TIOT, TWS, KAI, NCT WISH</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "897회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, ifeye, ODD YOUTH, Burvey, Geenie, ME:I, CHUU, KWON EUNBI, TIOT, AMPERS&ONE, FANTASY BOYS, 82MAJOR, YOUNITE, TWS, NCT WISH, KAI</font>`
   },
 
   {
