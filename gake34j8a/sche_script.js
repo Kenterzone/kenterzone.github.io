@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "885회",
+    "musicEP": "886회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, Burvey, ODD YOUTH, UNIS, ME:I, KWON EUNBI, AMPERS&ONE, AIMERS, 82MAJOR, YOUNITE, TWS, TIOT, NCT WISH, KAI</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -58,10 +58,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Sun.",
     "musiconoroff" : true,
-    "musicname": "Inkigayo",
+    "musicname": "Inkigayo UNICON in TOKYO DOME",
     "musicEP": "1265회",
-    "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "14:50KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ILLIT, =LOVE, izna, NiziU, NMIXX, aespa, imase, xikers, TWS, SKINZ, ATEEZ, ZEROBASEONE, NCT DREAM, MARK, KAI, TAEYANG</font>`
   },  ////SP_GUIDE/////
 
 {
