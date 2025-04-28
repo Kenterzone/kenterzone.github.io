@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "376회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, UDTT(Uddang Tangtang Girls), Burvey, LOVEONE, ME:I, UNIS, YOUNG POSSE, CHUU, AMPERS&ONE, FANTASY BOYS, TIOT, 82MAJOR, YOUNITE, DOKYUN, TWS</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1246회",
+    "musicEP": "1247회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, ifeye, UNIS, ODD YOUTH, MOON YEON JOO, Burvey, ME:I, KWON EUNBI, An Yul, AMPERS&ONE, ZOZAZZ, CHOI SOO HO, 82MAJOR, YOUNITE, AIMERS, TIOT, TWS, KAI, NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "897회",
+    "musicEP": "898회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, ifeye, ODD YOUTH, Burvey, Geenie, ME:I, CHUU, KWON EUNBI, TIOT, AMPERS&ONE, FANTASY BOYS, 82MAJOR, YOUNITE, TWS, NCT WISH, KAI</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo UNICON in TOKYO DOME",
-    "musicEP": "1265회",
-    "musictime": "14:50KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ILLIT, =LOVE, izna, NiziU, NMIXX, aespa, imase, xikers, TWS, SKINZ, ATEEZ, ZEROBASEONE, NCT DREAM, MARK, KAI, TAEYANG</font>`
+    "musicEP": "1266회",
+    "musictime": "15:20KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
