@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "553회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Burvey, LOVEONE, ifeye, UNIS, YOUNG POSSE, ME:I, CHUU, AMPERS&ONE, 82MAJOR, TIOT, TWS, DOKYUN</font>`
   },
   {
     "mair": "nomal",
