@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : false,
     "musicname": "The Show",
-    "musicEP": "376회",
+    "musicEP": "377회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, UDTT(Uddang Tangtang Girls), Burvey, LOVEONE, ME:I, UNIS, YOUNG POSSE, CHUU, AMPERS&ONE, FANTASY BOYS, TIOT, 82MAJOR, YOUNITE, DOKYUN, TWS</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "886회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MEOVV, HITGS, UDTT(Uddang Tangtang Girls), KATSEYE, FIFTY FIFTY, UNIS, ODD YOUTH, NEXZ, YOUNITE, TRENDZ, TIOT, TWS, 82MAJOR, HIGHLIGHT, Park Woojin(AB6IX) (feat. Ha Sungwoon), NCT WISH</font>`
   },
 
   {
