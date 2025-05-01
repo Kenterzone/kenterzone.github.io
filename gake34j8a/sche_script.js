@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "553회",
+    "musicEP": "554회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Burvey, LOVEONE, ifeye, UNIS, YOUNG POSSE, ME:I, CHUU, AMPERS&ONE, 82MAJOR, TIOT, TWS, DOKYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1247회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, UNIS, ODD YOUTH, KATSEYE, FIFTY FIFTY, Hong JiYun, CHUU, Big Ocean, TRENDZ, NEXZ, 82MAJOR, YOUNITE, TWS, HIGHLIGHT, Park Woojin(AB6IX), NCT WISH, TOMORROW X TOGETHER</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "898회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, KATSEYE, MEOVV, FIFTY FIFTY, UNIS, ODD YOUTH, YOUNITE, NEXZ, TRENDZ, TIOT, 82MAJOR, TWS, Park Woojin(AB6IX), HIGHLIGHT, TOMORROW X TOGETHER</font>`
   },
 
   {
