@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "886회",
+    "musicEP": "887회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MEOVV, HITGS, UDTT(Uddang Tangtang Girls), KATSEYE, FIFTY FIFTY, UNIS, ODD YOUTH, NEXZ, YOUNITE, TRENDZ, TIOT, TWS, 82MAJOR, HIGHLIGHT, Park Woojin(AB6IX) (feat. Ha Sungwoon), NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -58,10 +58,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Sun.",
     "musiconoroff" : true,
-    "musicname": "Inkigayo UNICON in TOKYO DOME",
-    "musicEP": "1266회",
+    "musicname": "Inkigayo",
+    "musicEP": "1265회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, MEOVV, UNIS, KATSEYE, ODD YOUTH, TWO SAGYE, SKINZ, NEXZ, 82MAJOR, Park Woojin(AB6IX), TWS, TRENDZ, TOMORROW X TOGETHER, NCT WISH, KAI, HIGHLIGHT</font>`
   },  ////SP_GUIDE/////
 
 {
