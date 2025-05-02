@@ -60,7 +60,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1265회",
-    "musictime": "15:20KST",
+    "musictime": "15:05KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, MEOVV, UNIS, KATSEYE, ODD YOUTH, TWO SAGYE, SKINZ, NEXZ, 82MAJOR, Park Woojin(AB6IX), TWS, TRENDZ, TOMORROW X TOGETHER, NCT WISH, KAI, HIGHLIGHT</font>`
   },  ////SP_GUIDE/////
 
