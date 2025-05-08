@@ -50,7 +50,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "899회",
-    "musictime": "14:25KST",
+    "musictime": "15:15KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, Burvey, GRANADA, FIFTY FIFTY, MEOVV, Geenie, WINK, HyunA, BOUN, Big Ocean, TRENDZ, TWS, NEXZ, 10CM with Joo Woojae, The Midnight Romance, Jung Joonil</font>`
   },
 
