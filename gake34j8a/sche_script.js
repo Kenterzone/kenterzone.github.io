@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1266회",
-    "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:25KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, UDTT, Burvey, GRANADA, MEOVV, WINK, Hong Ji Yun, HyunA, NEXZ, Big Ocean, Shin Seong, CHOI SOO HO, TRENDZ, Dong Geun Ha</font>`
   },  ////SP_GUIDE/////
 
 {
