@@ -19,11 +19,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
     "musicEP": "554회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BOMIN, UDTT, Burvey, LOVEONE, FIFTY FIFTY, TIOT, TRENDZ, BOUN, P1Harmony</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1248회",
+    "musicEP": "1249회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">LOVEONE, Burvey, HITGS, ifeye, UDTT, FIFTY FIFTY, WINK, Ahn Jiwan, Song Pyl Geun, IN SOONI, Hong Ji Yun, HyunA, BOUN, TWS, TRENDZ, P1Harmony, NEXZ, 10CM, HIGHLIGHT</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "899회",
+    "musicEP": "900회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, Burvey, GRANADA, FIFTY FIFTY, MEOVV, Geenie, WINK, HyunA, BOUN, Big Ocean, TRENDZ, TWS, NEXZ, 10CM with Joo Woojae, The Midnight Romance, Jung Joonil</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1266회",
+    "musicEP": "1267회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, UDTT, Burvey, GRANADA, MEOVV, WINK, Hong Ji Yun, HyunA, NEXZ, Big Ocean, Shin Seong, CHOI SOO HO, TRENDZ, Dong Geun Ha</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
