@@ -28,11 +28,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "887회",
+    "musicEP": "888회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, FIFTY FIFTY, MEOVV, tripleS, Samuel, IDID, SIKKOO, NEXZ, TWS, TIOT, JEONG DONG WON, Jeong Sewoon, P1Harmony, BOYNEXTDOOR</font>`
   },
 
   {
