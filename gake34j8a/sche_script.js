@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "554회",
+    "musicEP": "555회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BOMIN, UDTT, Burvey, LOVEONE, FIFTY FIFTY, TIOT, TRENDZ, BOUN, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1249회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UDTT, HITGS, LOVEONE, FIFTY FIFTY, tripleS, JinE, Jeong Sewoon, JEONG DONG WON, JAECHAN, BAEKHYUN, TIOT, Samuel, P1Harmony, NEXZ, IDID, TWS, BOYNEXTDOOR, SIKKOO</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "900회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, MEOVV, FIFTY FIFTY, INSOONI, tripleS, IDID, SIKKOO, NEXZ, TWS, JAECHAN, JEONG DONG WON, P1Harmony, BOYNEXTDOOR, BAEKHYUN, Samuel</font>`
   },
 
   {
