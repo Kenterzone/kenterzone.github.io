@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "888회",
+    "musicEP": "889회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, FIFTY FIFTY, MEOVV, tripleS, Samuel, IDID, SIKKOO, NEXZ, TWS, TIOT, JEONG DONG WON, Jeong Sewoon, P1Harmony, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1267회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, JinE, MEOVV, tripleS, IDID, NEXZ, SIKKOO, Samuel, JEONG DONG WON, CHOI SOO HO, Jae Chan, TWS, TIOT, P1Harmony, BOYNEXTDOOR</font>`
   },  ////SP_GUIDE/////
 
 {
