@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1249회",
+    "musicEP": "1250회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UDTT, HITGS, LOVEONE, FIFTY FIFTY, tripleS, JinE, Jeong Sewoon, JEONG DONG WON, JAECHAN, BAEKHYUN, TIOT, Samuel, P1Harmony, NEXZ, IDID, TWS, BOYNEXTDOOR, SIKKOO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "900회",
+    "musicEP": "901회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, MEOVV, FIFTY FIFTY, INSOONI, tripleS, IDID, SIKKOO, NEXZ, TWS, JAECHAN, JEONG DONG WON, P1Harmony, BOYNEXTDOOR, BAEKHYUN, Samuel</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -60,7 +60,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1267회",
-    "musictime": "15:25KST",
+    "musictime": "15:55KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, JinE, MEOVV, tripleS, IDID, NEXZ, SIKKOO, Samuel, JEONG DONG WON, CHOI SOO HO, Jae Chan, TWS, TIOT, P1Harmony, BOYNEXTDOOR</font>`
   },  ////SP_GUIDE/////
 
