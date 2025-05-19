@@ -10,11 +10,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "377회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SEO EVE, Kim Eui Young, tripleS, TRENDZ, BOUN, 2Z, DXTEEN, P1Harmony, Samuel, JAECHAN</font>`
   },
   {
     "mair": "nomal",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1267회",
+    "musicEP": "1268회",
     "musictime": "15:55KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, JinE, MEOVV, tripleS, IDID, NEXZ, SIKKOO, Samuel, JEONG DONG WON, CHOI SOO HO, Jae Chan, TWS, TIOT, P1Harmony, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
