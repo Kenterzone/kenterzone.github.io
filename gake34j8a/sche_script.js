@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "555회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">FIFTY FIFTY, Kim JuRi, tripleS, DXTEEN, NEXZ, Kim Jang Hoon, P1Harmony, Samuel, JAECHAN</font>`
   },
   {
     "mair": "nomal",
