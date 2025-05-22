@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1250회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SEO EVE, SOORIN, X:IN, FIFTY FIFTY, tripleS, i-dle, SIKKOO, E’LAST, NEXZ, RIIZE, Kim Jang Hoon, DXTEEN, Samuel, BOYNEXTDOOR, P1Harmony, JAECHAN, BAEKHYUN</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "901회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SEO EVE, X:IN, FIFTY FIFTY, MEOVV, tripleS, i-dle, SIKKOO, NEXZ, DXTEEN, Jang Ki Jun, JAECHAN, MECHANISM(CHO HYELYUN & PEPPERTONES), BAEKHYUN, RIIZE, P1Harmony, BOYNEXTDOOR</font>`
   },
 
   {
