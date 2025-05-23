@@ -12,18 +12,18 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "377회",
+    "musicEP": "378회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SEO EVE, Kim Eui Young, tripleS, TRENDZ, BOUN, 2Z, DXTEEN, P1Harmony, Samuel, JAECHAN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "555회",
+    "musicEP": "556회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">FIFTY FIFTY, Kim JuRi, tripleS, DXTEEN, NEXZ, Kim Jang Hoon, P1Harmony, Samuel, JAECHAN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1250회",
+    "musicEP": "1251회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SEO EVE, SOORIN, X:IN, FIFTY FIFTY, tripleS, i-dle, SIKKOO, E’LAST, NEXZ, RIIZE, Kim Jang Hoon, DXTEEN, Samuel, BOYNEXTDOOR, P1Harmony, JAECHAN, BAEKHYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1268회",
-    "musictime": "15:55KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:25KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">INSOONI, SEO EVE, SOORIN, MEOVV, tripleS, X:IN, i-dle, SIKKOO, Midnight Sun(Jung Ziso, CHA HAKYEON), NEXZ, DXTEEN, RIIZE, JAECHAN, P1Harmony, BOYNEXTDOOR</font>`
   },  ////SP_GUIDE/////
 
 {
