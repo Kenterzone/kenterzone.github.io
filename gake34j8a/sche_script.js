@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "378회",
     "musictime": "18:00KST",
@@ -19,9 +19,9 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
-    "musicEP": "556회",
+    "musicEP": "557회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "901회",
+    "musicEP": "902회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SEO EVE, X:IN, FIFTY FIFTY, MEOVV, tripleS, i-dle, SIKKOO, NEXZ, DXTEEN, Jang Ki Jun, JAECHAN, MECHANISM(CHO HYELYUN & PEPPERTONES), BAEKHYUN, RIIZE, P1Harmony, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1268회",
+    "musicEP": "1269회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">INSOONI, SEO EVE, SOORIN, MEOVV, tripleS, X:IN, i-dle, SIKKOO, Midnight Sun(Jung Ziso, CHA HAKYEON), NEXZ, DXTEEN, RIIZE, JAECHAN, P1Harmony, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
