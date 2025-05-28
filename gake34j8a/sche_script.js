@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "889회",
+    "musicEP": "890회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UAU, KIIRAS, SOORIN, SMORZ, X:IN, tripleS, MEOVV, i-dle, IRENE & SEULGI, E’LAST, KickFlip, HWAN WOONG(ONEUS), Kim Jang Hoon, RIIZE, SEVENTEEN</font>`
   },
 
   {
