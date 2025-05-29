@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1251회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SMORZ, KIIRAS, UAU, SOORIN, X:IN, tripleS, i-dle, IRENE & SEULGI, 20th Century Boy'z, SEVENUS, RIIZE, KickFlip, E'LAST, &TEAM, HWAN WOONG(ONEUS), SEVENTEEN</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "902회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KIIRAS, UAU, Kim Eui Young, SOORIN, X:IN, tripleS, MEOVV, i-dle, IRENE & SEULGI, KickFlip, SEVENUS, E'LAST, RIIZE, HWAN WOONG(ONEUS), HA DONGGEUN, SEVENTEEN</font>`
   },
 
   {
