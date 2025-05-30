@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "890회",
+    "musicEP": "891회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UAU, KIIRAS, SOORIN, SMORZ, X:IN, tripleS, MEOVV, i-dle, IRENE & SEULGI, E’LAST, KickFlip, HWAN WOONG(ONEUS), Kim Jang Hoon, RIIZE, SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1269회",
-    "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "12:35KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SOORIN, KIIRAS, SMORZ, Kim Eui Young, X:IN, UAU, MEOVV, tripleS, i-dle, IRENE & SEULGI, KickFlip, RIIZE, Kim Jang Hoon, E'LAST, HWAN WOONG(ONEUS), SEVENTEEN</font>`
   },  ////SP_GUIDE/////
 
 {
