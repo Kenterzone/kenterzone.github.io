@@ -19,7 +19,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
     "musicEP": "557회",
     "musictime": "17:00KST",
@@ -38,20 +38,20 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
-    "musicEP": "1251회",
+    "musicEP": "1252회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SMORZ, KIIRAS, UAU, SOORIN, X:IN, tripleS, i-dle, IRENE & SEULGI, 20th Century Boy'z, SEVENUS, RIIZE, KickFlip, E'LAST, &TEAM, HWAN WOONG(ONEUS), SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "902회",
+    "musicEP": "903회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KIIRAS, UAU, Kim Eui Young, SOORIN, X:IN, tripleS, MEOVV, i-dle, IRENE & SEULGI, KickFlip, SEVENUS, E'LAST, RIIZE, HWAN WOONG(ONEUS), HA DONGGEUN, SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1269회",
+    "musicEP": "1270회",
     "musictime": "12:35KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SOORIN, KIIRAS, SMORZ, Kim Eui Young, X:IN, UAU, MEOVV, tripleS, i-dle, IRENE & SEULGI, KickFlip, RIIZE, Kim Jang Hoon, E'LAST, HWAN WOONG(ONEUS), SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
