@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "557회",
+    "musicEP": "558회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KIIRAS, SMORZ, X:IN, UAU, 2Z, CLOSE YOUR EYES, E'LAST, KickFlip, ONEWE, HWAN WOONG(ONEUS)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "891회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">USPEER, UAU, INSOONI, KIIRAS, HITGS, ENHYPEN, 20th Century Boy’z, KickFlip, SEVENUS, &TEAM, HWAN WOONG(ONEUS), N.Flying, SEVENTEEN</font>`
   },
 
   {
