@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "891회",
+    "musicEP": "892회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">USPEER, UAU, INSOONI, KIIRAS, HITGS, ENHYPEN, 20th Century Boy’z, KickFlip, SEVENUS, &TEAM, HWAN WOONG(ONEUS), N.Flying, SEVENTEEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "903회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SMORZ, KIIRAS, USPEER, HITGS, UDTT, UAU, KickFlip, 20th Century Boy'z, Jeong Hong Ill, Kim Jang Hoon, E'LAST, HWAN WOONG(ONEUS), ENHYPEN, SEVENTEEN, N.Flying</font>`
   },
 
   {
