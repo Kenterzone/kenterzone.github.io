@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1270회",
-    "musictime": "12:35KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:00KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SOORIN, USPEER, eunsoobro, Kim Eui Young, KIIRAS, HITGS, UAU, KickFlip, SEVENUS, E'LAST, ENHYPEN, HWAN WOONG(ONEUS), SEVENTEEN, N.Flying</font>`
   },  ////SP_GUIDE/////
 
 {
