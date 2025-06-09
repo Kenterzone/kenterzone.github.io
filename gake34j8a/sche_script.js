@@ -10,11 +10,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "378회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">R.E.D, SMORZ, USPEER, HITGS, KIIRAS, X:IN, UAU, XD, E'LAST, HWAN WOONG(ONEUS), N.Flying</font>`
   },
   {
     "mair": "nomal",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "903회",
+    "musicEP": "904회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SMORZ, KIIRAS, USPEER, HITGS, UDTT, UAU, KickFlip, 20th Century Boy'z, Jeong Hong Ill, Kim Jang Hoon, E'LAST, HWAN WOONG(ONEUS), ENHYPEN, SEVENTEEN, N.Flying</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1270회",
+    "musicEP": "1271회",
     "musictime": "15:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SOORIN, USPEER, eunsoobro, Kim Eui Young, KIIRAS, HITGS, UAU, KickFlip, SEVENUS, E'LAST, ENHYPEN, HWAN WOONG(ONEUS), SEVENTEEN, N.Flying</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
