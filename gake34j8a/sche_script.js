@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "558회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">R.E.D, KIIRAS, USPEER, SMORZ, HITGS, X:IN, UAU, KickFlip, XD, Woody, HWAN WOONG(ONEUS), N.Flying</font>`
   },
   {
     "mair": "nomal",
