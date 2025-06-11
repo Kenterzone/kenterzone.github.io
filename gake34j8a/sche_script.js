@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "378회",
+    "musicEP": "379회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">R.E.D, SMORZ, USPEER, HITGS, KIIRAS, X:IN, UAU, XD, E'LAST, HWAN WOONG(ONEUS), N.Flying</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "892회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">R.E.D, USPEER, KIIRAS, HITGS, izna, PRIMROSE, KISS OF LIFE, ITZY, Double 0ne, DayChild, KickFlip, BOYS ll PLANET, DOYOUNG, ENHYPEN</font>`
   },
 
   {
