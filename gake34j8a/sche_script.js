@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "558회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">R.E.D, KIIRAS, USPEER, SMORZ, HITGS, X:IN, UAU, KickFlip, XD, Woody, HWAN WOONG(ONEUS), N.Flying</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,17 +32,17 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "892회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">R.E.D, USPEER, KIIRAS, HITGS, izna, PRIMROSE, KISS OF LIFE, ITZY, Double 0ne, DayChild, KickFlip, BOYS ll PLANET, DOYOUNG, ENHYPEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1252회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">PRIMROSE, YUL, R.E.D, KIIRAS, KIMWANSUN, ARTMS, HITGS, izna, USPEER, X:IN, KISS OF LIFE, ITZY, Double 0ne, KickFlip, ENHYPEN, N.Flying, ATEEZ</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "904회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">PRIMROSE, R.E.D, KIIRAS, HITGS, USPEER, KIMWANSUN, ARTMS, Jung Da Kyung, izna, KISS OF LIFE, ITZY, Double 0ne, KickFlip, Christopher, DOYOUNG, ATEEZ, ENHYPEN</font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1271회",
     "musictime": "15:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ARTMS, KIMWANSUN, R.E.D, USPEER, KIIRAS, HITGS, Jung Da Kyung, izna, KISS OF LIFE, ITZY, Double 0ne, KickFlip, DayChild, DOYOUNG, ATEEZ, ENHYPEN</font>`
   },  ////SP_GUIDE/////
 
 {
