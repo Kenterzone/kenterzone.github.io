@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "379회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">USPEER, HITGS, X:IN, izna, ARTMS, PRIMROSE, KISS OF LIFE, Double 0ne, XLOV, DIGNITY, Jung Dae Hyun</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1252회",
+    "musicEP": "1253회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">PRIMROSE, YUL, R.E.D, KIIRAS, KIMWANSUN, ARTMS, HITGS, izna, USPEER, X:IN, KISS OF LIFE, ITZY, Double 0ne, KickFlip, ENHYPEN, N.Flying, ATEEZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "904회",
+    "musicEP": "905회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">PRIMROSE, R.E.D, KIIRAS, HITGS, USPEER, KIMWANSUN, ARTMS, Jung Da Kyung, izna, KISS OF LIFE, ITZY, Double 0ne, KickFlip, Christopher, DOYOUNG, ATEEZ, ENHYPEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1271회",
+    "musicEP": "1272회",
     "musictime": "15:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ARTMS, KIMWANSUN, R.E.D, USPEER, KIIRAS, HITGS, Jung Da Kyung, izna, KISS OF LIFE, ITZY, Double 0ne, KickFlip, DayChild, DOYOUNG, ATEEZ, ENHYPEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
