@@ -12,18 +12,18 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "379회",
+    "musicEP": "380회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">USPEER, HITGS, X:IN, izna, ARTMS, PRIMROSE, KISS OF LIFE, Double 0ne, XLOV, DIGNITY, Jung Dae Hyun</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "558회",
+    "musicEP": "559회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">USPEER, HITGS, X:IN, PRIMROSE, ARTMS, KISS OF LIFE, XLOV, DIGNITY, Double 0ne, KickFlip, Jung Dae Hyun</font>`
   },
   {
     "mair": "nomal",
