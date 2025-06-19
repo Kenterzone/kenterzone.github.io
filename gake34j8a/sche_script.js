@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1253회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Jung DaKyung, VVUP, USPEER, HITGS, Hearts2Hearts, Kim DaHyun, izna, ILLIT, ARTMS, KISS OF LIFE, ITZY, XLOV, NOWZ, KickFlip, 20th Century Boy’z, DOYOUNG, KANG DANIEL, ENHYPEN, ATEEZ, j-hope</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "905회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">USPEER, HITGS, izna, Hearts2Hearts, VVUP, ILLIT, KIM WANSUN, ARTMS, KISS OF LIFE, ITZY, NOWZ, KickFlip, Double 0ne, DOYOUNG, KANG DANIEL, ATEEZ, j-hope</font>`
   },
 
   {
