@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "893회",
+    "musicEP": "894회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, USPEER, Hearts2Hearts, ILLIT, QWER, izna, KIM WANSUN, NINA, ARTMS, ITZY, KISS OF LIFE, BE BOYS, KickFlip, NOWZ, DOYOUNG, Jung Dae Hyun, j-hope, KANG DANIEL</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1272회",
     "musictime": "15:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">USPEER, HITGS, Hearts2Hearts, VVUP, izna, ILLIT, PRIMROSE, ARTMS, KISS OF LIFE, ITZY, NOWZ, Double 0ne, KickFlip, DIGNITY, DOYOUNG, ATEEZ, KANG DANIEL, j-hope</font>`
   },  ////SP_GUIDE/////
 
 {
