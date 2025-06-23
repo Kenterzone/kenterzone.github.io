@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "380회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">NINA, USPEER, VVUP, PRIMROSE, izna, KISS OF LIFE, Double 0ne, NOWZ, XLOV, BE BOYS, DIGNITY, KANGDANIEL</font>`
   },
   {
     "mair": "nomal",
