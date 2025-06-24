@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "380회",
+    "musicEP": "381회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">NINA, USPEER, VVUP, PRIMROSE, izna, KISS OF LIFE, Double 0ne, NOWZ, XLOV, BE BOYS, DIGNITY, KANGDANIEL</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "560회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">NINA, USPEER, VVUP, PRIMROSE, KISS OF LIFE, NOWZ, XLOV, XONIK, Double 0ne, KickFlip, Jung Dae Hyun, KANG DANIEL</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1253회",
+    "musicEP": "1254회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Jung DaKyung, VVUP, USPEER, HITGS, Hearts2Hearts, Kim DaHyun, izna, ILLIT, ARTMS, KISS OF LIFE, ITZY, XLOV, NOWZ, KickFlip, 20th Century Boy’z, DOYOUNG, KANG DANIEL, ENHYPEN, ATEEZ, j-hope</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "905회",
+    "musicEP": "906회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">USPEER, HITGS, izna, Hearts2Hearts, VVUP, ILLIT, KIM WANSUN, ARTMS, KISS OF LIFE, ITZY, NOWZ, KickFlip, Double 0ne, DOYOUNG, KANG DANIEL, ATEEZ, j-hope</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1272회",
+    "musicEP": "1273회",
     "musictime": "15:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">USPEER, HITGS, Hearts2Hearts, VVUP, izna, ILLIT, PRIMROSE, ARTMS, KISS OF LIFE, ITZY, NOWZ, Double 0ne, KickFlip, DIGNITY, DOYOUNG, ATEEZ, KANG DANIEL, j-hope</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
