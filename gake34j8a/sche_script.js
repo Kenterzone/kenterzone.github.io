@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "894회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, USPEER, VVUP, Hearts2Hearts, ILLIT, izna, IS:SUE, KISS OF LIFE, fromis_9, H1-KEY, CATCH THE YOUNG, ALLDAY PROJECT, KickFlip, JAESSBEE, ENHYPEN, Jang Wooyoung, CRAVITY</font>`
   },
 
   {
