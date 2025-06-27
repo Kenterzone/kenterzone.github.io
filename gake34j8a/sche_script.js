@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1273회",
-    "musictime": "15:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:30KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, USPEER, KIIRAS, Hearts2Hearts, izna, ILLIT, KISS OF LIFE, H1-KEY, fromis_9, ALLDAY PROJECT, CHOONGJU JI-C, Jang Wooyoung, CATCH THE YOUNG, KickFlip, POW, CRAVITY, ENHYPEN</font>`
   },  ////SP_GUIDE/////
 
 {
