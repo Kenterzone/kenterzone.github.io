@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1254회",
+    "musicEP": "1255회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, USPEER, NINA, KIIRAS, VVUP, ILLIT, izna, H1-KEY, KISS OF LIFE, BADA, fromis_9, XLOV, POW, KickFlip, Hwang Min Woo, Jang Wooyoung, X-UNIT, CRAVITY, ENHYPEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "906회",
+    "musicEP": "907회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, USPEER, KIIRAS, NINA, Hearts2Hearts, izna, ILLIT, KISS OF LIFE, H1-KEY, fromis_9, ALLDAY PROJECT, POW, Double 0ne, CATCH THE YOUNG, DIGNITY, Jang Wooyoung, CRAVITY, ENHYPEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">/font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1273회",
+    "musicEP": "1274회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, USPEER, KIIRAS, Hearts2Hearts, izna, ILLIT, KISS OF LIFE, H1-KEY, fromis_9, ALLDAY PROJECT, CHOONGJU JI-C, Jang Wooyoung, CATCH THE YOUNG, KickFlip, POW, CRAVITY, ENHYPEN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
