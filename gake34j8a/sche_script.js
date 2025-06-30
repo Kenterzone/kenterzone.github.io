@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "381회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">NINA, KIIRAS, H1-KEY, WISH, BE BOYS, POW, X-UNIT, CATCH THE YOUNG, Hwang Min Woo, CRAVITY</font>`
   },
   {
     "mair": "nomal",
