@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "561회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">NINA, BADA, H1-KEY, BE BOYS, DIGNITY, Double 0ne, POW, WISH, X-UNIT, DayChild, CATCH THE YOUNG, Hwang Min Woo, CRAVITY</font>`
   },
   {
     "mair": "nomal",
