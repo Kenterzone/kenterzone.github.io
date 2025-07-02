@@ -12,18 +12,18 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "381회",
+    "musicEP": "382회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">NINA, KIIRAS, H1-KEY, WISH, BE BOYS, POW, X-UNIT, CATCH THE YOUNG, Hwang Min Woo, CRAVITY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "561회",
+    "musicEP": "562회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">NINA, BADA, H1-KEY, BE BOYS, DIGNITY, Double 0ne, POW, WISH, X-UNIT, DayChild, CATCH THE YOUNG, Hwang Min Woo, CRAVITY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "895회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, ILLIT, RESCENE, aespa, H1-KEY, LE SSERAFIM, fromis_9, ALLDAY PROJECT, KARD, DPNS, AHOF, POW, NouerA, DIGNITY, ONEUS, HAN SEUNG WOO, HANHAE, Moon Se Yoon, WONHO, CRAVITY</font>`
   },
 
   {
