@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1255회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, Blingone, ILLIT, RESCENE, aespa, H1-KEY, LE SSERAFIM, fromis_9, KARD, DPNS, NouerA, HAN SEUNG WOO, CATCH THE YOUNG, WISH, WONHO, ONEUS, AHOF, PARK JIHYEON, CRAVITY</font>`
   },
   {
     "mair": "nomal",
