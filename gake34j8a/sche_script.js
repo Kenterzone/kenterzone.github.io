@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1274회",
     "musictime": "15:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, Blingone, ILLIT, H1-KEY, Jeon Yu Jin, LE SSERAFIM, BABYMONSTER, aespa, fromis_9, ALLDAY PROJECT, KARD, NouerA, PARK JIHYEON, CATCH THE YOUNG, AHOF, POW, HAN SEUNG WOO, ONEUS, WONHO, CRAVITY</font>`
   },  ////SP_GUIDE/////
 
 {
