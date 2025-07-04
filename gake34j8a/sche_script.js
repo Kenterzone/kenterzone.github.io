@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "895회",
+    "musicEP": "896회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, ILLIT, RESCENE, aespa, H1-KEY, LE SSERAFIM, fromis_9, ALLDAY PROJECT, KARD, DPNS, AHOF, POW, NouerA, DIGNITY, ONEUS, HAN SEUNG WOO, HANHAE, Moon Se Yoon, WONHO, CRAVITY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
