@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1255회",
+    "musicEP": "1256회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, Blingone, ILLIT, RESCENE, aespa, H1-KEY, LE SSERAFIM, fromis_9, KARD, DPNS, NouerA, HAN SEUNG WOO, CATCH THE YOUNG, WISH, WONHO, ONEUS, AHOF, PARK JIHYEON, CRAVITY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -60,7 +60,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1274회",
-    "musictime": "15:30KST",
+    "musictime": "12:10KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, Blingone, ILLIT, H1-KEY, Jeon Yu Jin, LE SSERAFIM, BABYMONSTER, aespa, fromis_9, ALLDAY PROJECT, KARD, NouerA, PARK JIHYEON, CATCH THE YOUNG, AHOF, POW, HAN SEUNG WOO, ONEUS, WONHO, CRAVITY</font>`
   },  ////SP_GUIDE/////
 
