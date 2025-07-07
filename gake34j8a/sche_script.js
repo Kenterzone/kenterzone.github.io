@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "382회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">DIVA-X, Baby DONT Cry, Blingone, RESCENE, H1-KEY, KARD, TIOT, DPNS, AHOF, NouerA, POW, ONEUS, HAN SEUNG WOO</font>`
   },
   {
     "mair": "nomal",
@@ -47,7 +47,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "907회",
     "musictime": "15:15KST",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1274회",
+    "musicEP": "1275회",
     "musictime": "12:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, Blingone, ILLIT, H1-KEY, Jeon Yu Jin, LE SSERAFIM, BABYMONSTER, aespa, fromis_9, ALLDAY PROJECT, KARD, NouerA, PARK JIHYEON, CATCH THE YOUNG, AHOF, POW, HAN SEUNG WOO, ONEUS, WONHO, CRAVITY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
