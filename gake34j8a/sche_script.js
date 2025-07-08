@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "562회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, RESCENE, H1-KEY, KARD, YUL, AHOF, NouerA, POW, TIOT, DPNS, ONEUS, HAN SEUNG WOO</font>`
   },
   {
     "mair": "nomal",
