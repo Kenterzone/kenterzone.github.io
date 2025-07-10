@@ -12,18 +12,18 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "382회",
+    "musicEP": "383회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">DIVA-X, Baby DONT Cry, Blingone, RESCENE, H1-KEY, KARD, TIOT, DPNS, AHOF, NouerA, POW, ONEUS, HAN SEUNG WOO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "562회",
+    "musicEP": "563회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, RESCENE, H1-KEY, KARD, YUL, AHOF, NouerA, POW, TIOT, DPNS, ONEUS, HAN SEUNG WOO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "896회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, WISH, Baby DONT Cry, ALLDAY PROJECT, BABYMONSTER, HITGS, Blingone, ILLIT, H1-KEY, aespa, JEON SOMI, VIVIZ, NOWZ, NouerA, CLOSE YOUR EYES, AHOF, n.SSign, ONEUS, HAN SEUNG WOO, SUPER JUNIOR</font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1256회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, HITGS, RESCENE, ILLIT, aespa, H1-KEY, VIVIZ, TWICE, AHOF, Song Min Jun, DayChild, CLOSE YOUR EYES, n.SSign, NouerA, Pengsoo, NOWZ, POW, SUPER JUNIOR</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "907회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">/font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, Blingone, HITGS, ILLIT, ALLDAY PROJECT, aespa, JEON SOMI, VIVIZ, TWICE, HAHA with Lee Yikyung, SIM, Hyangs, Ha HeonJin, HAN SEUNG WOO, CLOSE YOUR EYES, AHOF, NOWZ, NouerA, ONEUS, n.SSign, SUPER JUNIOR</font>`
   },
 
   {
