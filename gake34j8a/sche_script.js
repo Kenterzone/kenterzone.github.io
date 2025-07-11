@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "896회",
+    "musicEP": "897회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, WISH, Baby DONT Cry, ALLDAY PROJECT, BABYMONSTER, HITGS, Blingone, ILLIT, H1-KEY, aespa, JEON SOMI, VIVIZ, NOWZ, NouerA, CLOSE YOUR EYES, AHOF, n.SSign, ONEUS, HAN SEUNG WOO, SUPER JUNIOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1275회",
-    "musictime": "12:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:25KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, 1MILLION, H1-KEY, HITGS, ILLIT, BABYMONSTER, aespa, JEON SOMI, TWICE, ALLDAY PROJECT, NOWZ, NouerA, AHOF, CLOSE YOUR EYES, POW, HAN SEUNG WOO, n.SSign, ONEUS, SUPER JUNIOR</font>`
   },  ////SP_GUIDE/////
 
 {
