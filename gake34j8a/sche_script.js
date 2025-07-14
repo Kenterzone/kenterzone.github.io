@@ -14,7 +14,7 @@ const musicGuid =[
     "musicname": "The Show",
     "musicEP": "383회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, Blingone, YOU DAYEON, RESCENE, H1-KEY, VIVIZ, CLOSE YOUR EYES, NouerA, NOWZ, DOHA, AHOF, CRAVITY, n.SSign</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1256회",
+    "musicEP": "1257회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, HITGS, RESCENE, ILLIT, aespa, H1-KEY, VIVIZ, TWICE, AHOF, Song Min Jun, DayChild, CLOSE YOUR EYES, n.SSign, NouerA, Pengsoo, NOWZ, POW, SUPER JUNIOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "907회",
+    "musicEP": "908회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, Blingone, HITGS, ILLIT, ALLDAY PROJECT, aespa, JEON SOMI, VIVIZ, TWICE, HAHA with Lee Yikyung, SIM, Hyangs, Ha HeonJin, HAN SEUNG WOO, CLOSE YOUR EYES, AHOF, NOWZ, NouerA, ONEUS, n.SSign, SUPER JUNIOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1275회",
+    "musicEP": "1276회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, 1MILLION, H1-KEY, HITGS, ILLIT, BABYMONSTER, aespa, JEON SOMI, TWICE, ALLDAY PROJECT, NOWZ, NouerA, AHOF, CLOSE YOUR EYES, POW, HAN SEUNG WOO, n.SSign, ONEUS, SUPER JUNIOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
