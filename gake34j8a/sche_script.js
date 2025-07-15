@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "383회",
+    "musicEP": "384회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, Blingone, YOU DAYEON, RESCENE, H1-KEY, VIVIZ, CLOSE YOUR EYES, NouerA, NOWZ, DOHA, AHOF, CRAVITY, n.SSign</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "563회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, RESCENE, CrazAngel, WOO YERIN, YOU DAYEON, KEJIMIN, H1-KEY, VIVIZ, DOHA, CLOSE YOUR EYES, AHOF, NOWZ, NouerA, n.SSign</font>`
   },
   {
     "mair": "nomal",
