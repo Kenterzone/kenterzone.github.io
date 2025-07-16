@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "897회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, ifeye, ALLDAY PROJECT, ILLIT, HITGS, PURPLE KISS, JOYURI, JEON SOMI, VIVIZ, NOWZ, CLOSE YOUR EYES, ARrC, AHOF, ONE OR EIGHT, YOON SAN-HA(ASTRO), CRAVITY, NCT DREAM, SUPER JUNIOR</font>`
   },
 
   {
