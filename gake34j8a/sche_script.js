@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "563회",
+    "musicEP": "564회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, RESCENE, CrazAngel, WOO YERIN, YOU DAYEON, KEJIMIN, H1-KEY, VIVIZ, DOHA, CLOSE YOUR EYES, AHOF, NOWZ, NouerA, n.SSign</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -57,7 +57,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Inkigayo",
     "musicEP": "1276회",
     "musictime": "15:25KST",
