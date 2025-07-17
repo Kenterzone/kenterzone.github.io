@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1257회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, HITGS, ifeye, RESCENE, ILLIT, cosmosy, H1-KEY, JOYURI, PURPLE KISS, VIVIZ, AHOF, ARrC, CLOSE YOUR EYES, NouerA, NOWZ, ONE OR EIGHT, YOON SAN-HA(ASTRO), NCT DREAM, CRAVITY, SUPER JUNIOR</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "908회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, Baby DONT Cry, H1-KEY, ILLIT, BABYMONSTER, JOYURI, VIVIZ, ALLDAY PROJECT, NOWZ, ARrC, ONE OR EIGHT, CLOSE YOUR EYES, AHOF, DPNS, YOON SAN-HA(ASTRO), NCT DREAM, CRAVITY, SUPER JUNIOR</font>`
   },
 
   {
