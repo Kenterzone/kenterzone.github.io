@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "897회",
+    "musicEP": "898회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, ifeye, ALLDAY PROJECT, ILLIT, HITGS, PURPLE KISS, JOYURI, JEON SOMI, VIVIZ, NOWZ, CLOSE YOUR EYES, ARrC, AHOF, ONE OR EIGHT, YOON SAN-HA(ASTRO), CRAVITY, NCT DREAM, SUPER JUNIOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1257회",
+    "musicEP": "1258회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, HITGS, ifeye, RESCENE, ILLIT, cosmosy, H1-KEY, JOYURI, PURPLE KISS, VIVIZ, AHOF, ARrC, CLOSE YOUR EYES, NouerA, NOWZ, ONE OR EIGHT, YOON SAN-HA(ASTRO), NCT DREAM, CRAVITY, SUPER JUNIOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "908회",
+    "musicEP": "909회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, Baby DONT Cry, H1-KEY, ILLIT, BABYMONSTER, JOYURI, VIVIZ, ALLDAY PROJECT, NOWZ, ARrC, ONE OR EIGHT, CLOSE YOUR EYES, AHOF, DPNS, YOON SAN-HA(ASTRO), NCT DREAM, CRAVITY, SUPER JUNIOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
