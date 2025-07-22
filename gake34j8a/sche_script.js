@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "564회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">DIVA-X, ifeye, cosmosy, RESCENE, PURPLE KISS, JEON SOMI, ARrC, CLOSE YOUR EYES, NouerA, NOWZ, ONE OR EIGHT, YOON SAN-HA(ASTRO), CATCH THE YOUNG</font>`
   },
   {
     "mair": "nomal",
