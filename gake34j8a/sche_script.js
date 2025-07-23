@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "564회",
+    "musicEP": "565회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">DIVA-X, ifeye, cosmosy, RESCENE, PURPLE KISS, JEON SOMI, ARrC, CLOSE YOUR EYES, NouerA, NOWZ, ONE OR EIGHT, YOON SAN-HA(ASTRO), CATCH THE YOUNG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "898회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, cosmosy, ILLIT, PURPLE KISS, STAYC, VIVIZ, JOYURI, JAY, NOWZ, NouerA, IDID, ARrC, HUTA, ZEROBASEONE, WayV, NCT DREAM, TOMORROW X TOGETHER</font>`
   },
 
   {
