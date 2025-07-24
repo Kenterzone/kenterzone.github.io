@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1258회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, HITGS, ifeye, YOU DAYEON, ILLIT, PURPLE KISS, STAYC, VIVIZ, CLOSE YOUR EYES, IDID, HUTA, YOUNGTAK, NouerA, ASC2NT, ARrC, NOWZ, NCT DREAM, WayV, TOMORROW X TOGETHER</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "909회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, HITGS, cosmosy, ILLIT, PURPLE KISS, JOYURI, STAYC, VIVIZ, ASC2NT, ARrC, NouerA, CLOSE YOUR EYES, IDID, Monday Kiz, NOWZ, Lee Yi Kyung, HUTA, NCT DREAM, TOMORROW X TOGETHER, WayV</font>`
   },
 
   {
