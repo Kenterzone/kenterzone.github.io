@@ -10,20 +10,20 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "385회",
+    "musicEP": "384회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, CrazAngel, cosmosy, PURPLE KISS, ARrC, ONE OR EIGHT, ONE PACT, SEVENTOEIGHT, Park Je Up, ASC2NT, JAY, NOWZ, WayV</font>`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
-    "musicEP": "565회",
+    "musicEP": "566회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, CrazAngel, cosmosy, PURPLE KISS, ARrC, ONE OR EIGHT, ONE PACT, SEVENTOEIGHT, Park Je Up, ASC2NT, JAY, NOWZ, WayV</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
