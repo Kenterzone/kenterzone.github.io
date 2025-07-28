@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "898회",
+    "musicEP": "899회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, cosmosy, ILLIT, PURPLE KISS, STAYC, VIVIZ, JOYURI, JAY, NOWZ, NouerA, IDID, ARrC, HUTA, ZEROBASEONE, WayV, NCT DREAM, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,24 +40,24 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1258회",
+    "musicEP": "1259회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, HITGS, ifeye, YOU DAYEON, ILLIT, PURPLE KISS, STAYC, VIVIZ, CLOSE YOUR EYES, IDID, HUTA, YOUNGTAK, NouerA, ASC2NT, ARrC, NOWZ, NCT DREAM, WayV, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "909회",
+    "musicEP": "910회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, HITGS, cosmosy, ILLIT, PURPLE KISS, JOYURI, STAYC, VIVIZ, ASC2NT, ARrC, NouerA, CLOSE YOUR EYES, IDID, Monday Kiz, NOWZ, Lee Yi Kyung, HUTA, NCT DREAM, TOMORROW X TOGETHER, WayV</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1276회",
     "musictime": "15:25KST",
