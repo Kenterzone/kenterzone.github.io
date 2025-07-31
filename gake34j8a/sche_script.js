@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1259회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CrazAngel, SAY MY NAME, ICHILLIN', STAYC, YENA, ASC2NT, Su Hyun Shin, PARK SANG MIN, ONE PACT, SEVENTOEIGHT, XngHan&Xoul, THE BOYZ, NAM WOO HYUN, ARrC, EPEX, JAY, TOMORROW X TOGETHER</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "910회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, Ryu Yeon Ju, SAY MY NAME, ICHILLIN', STAYC, YENA, ASC2NT, ARrC, Su Hyun Shin, NAM WOO HYUN, EPEX, Dragon Pony, XngHan&Xoul, JAY, THE BOYZ, TOMORROW X TOGETHER</font>`
   },
 
   {
