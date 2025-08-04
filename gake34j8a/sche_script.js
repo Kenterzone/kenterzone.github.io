@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "385회",
     "musictime": "18:00KST",
@@ -19,16 +19,16 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
-    "musicEP": "567회",
+    "musicEP": "568회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Thu.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "M!CountDown",
     "musicEP": "900회",
     "musictime": "18:08KST",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "910회",
+    "musicEP": "911회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, Ryu Yeon Ju, SAY MY NAME, ICHILLIN', STAYC, YENA, ASC2NT, ARrC, Su Hyun Shin, NAM WOO HYUN, EPEX, Dragon Pony, XngHan&Xoul, JAY, THE BOYZ, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1276회",
+    "musicEP": "1277회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, SAY MY NAME, Yves, ICHILLIN', Ryu Yeon Ju, STAYC, YENA, ARrC, ASC2NT, HUTA, EPEX, Joosiq, Dragon Pony, Min Jun Song, XngHan&Xoul, NAM WOO HYUN, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
