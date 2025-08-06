@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "900회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Queenz Eye, KiiiKiii, SAY MY NAME, QWER, izna, MEOVV, tripleS, ICHILLIN', YENA, ALLDAY PROJECT, IDID, AHOF, EPEX, CLOSE YOUR EYES, XngHan&Xoul, EVNNE, JAY, NAM WOO HYUN, Dynamicduo & SINCE</font>`
   },
 
   {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
