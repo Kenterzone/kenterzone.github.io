@@ -42,16 +42,16 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1260회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Son E Ji U, ifeye, KiiiKiii, Queenz Eye, ICHILLIN', SAY MY NAME, Yves, YENA, KOYOTE, IDID, ONE PACT, SEVENTOEIGHT, CLOSE YOUR EYES, N.TOP, ASC2NT, Dragon Pony, EPEX, EVNNE, 20th Century Boy’z,</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
-    "musicname": "Music Core",
+    "musicname": "Music Core IN Ulsan Summer Festival SP",
     "musicEP": "911회",
-    "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:15KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">USPEER, KiiiKiii, ICHILLIN', Queenz Eye, SAY MY NAME, Yves, STAYC, Su Hyun Shin, VIVIZ, YENA, CLOSE YOUR EYES, AHOF, LUCY, EPEX, EVNNE, XngHan&Xoul, BEATPELLA HOUSE, NAM WOO HYUN</font>`
   },
 
   {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
