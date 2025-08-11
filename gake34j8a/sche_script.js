@@ -10,11 +10,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "385회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, Queenz Eye, KiiiKiii, ICHILLIN', SAY MY NAME, Yves, YENA, ASC2NT, SEVENTOEIGHT, CLOSE YOUR EYES, EVNNE, EPEX, XIAOJUN, N.TOP</font>`
   },
   {
     "mair": "nomal",
@@ -48,10 +48,10 @@ const musicGuid =[
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
-    "musicname": "Music Core IN Ulsan Summer Festival SP",
-    "musicEP": "911회",
+    "musicname": "Music Core",
+    "musicEP": "912회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">USPEER, KiiiKiii, ICHILLIN', Queenz Eye, SAY MY NAME, Yves, STAYC, Su Hyun Shin, VIVIZ, YENA, CLOSE YOUR EYES, AHOF, LUCY, EPEX, EVNNE, XngHan&Xoul, BEATPELLA HOUSE, NAM WOO HYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1277회",
+    "musicEP": "1278회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Son E Ji U, ifeye, Yves, Queenz Eye, KiiiKiii, SAY MY NAME, ICHILLIN', YENA, Koyote, IDID, ASC2NT, N.TOP, CLOSE YOUR EYES, EVNNE, EPEX, Bae Gi Seong, XngHan&Xoul</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
