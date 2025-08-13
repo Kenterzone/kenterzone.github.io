@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "385회",
+    "musicEP": "386회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ifeye, Queenz Eye, KiiiKiii, ICHILLIN', SAY MY NAME, Yves, YENA, ASC2NT, SEVENTOEIGHT, CLOSE YOUR EYES, EVNNE, EPEX, XIAOJUN, N.TOP</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "901회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, KiiiKiii, SAY MY NAME, MADEIN S, YOUNG POSSE, YENA, YUJU, JEON SOMI, KOYOTE, idntt, AMPERS&ONE, Dragon Pony, XngHan&Xoul, BOYS ll PLANET <Whiplash> TEAM 1, EVNNE, EPEX, ZOONIZINI(ASTRO), JUNHEE, NCT WISH, KEY</font>`
   },
 
   {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
