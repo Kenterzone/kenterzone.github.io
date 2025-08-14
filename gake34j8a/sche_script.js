@@ -30,15 +30,15 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "901회",
+    "musicEP": "902회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, KiiiKiii, SAY MY NAME, MADEIN S, YOUNG POSSE, YENA, YUJU, JEON SOMI, KOYOTE, idntt, AMPERS&ONE, Dragon Pony, XngHan&Xoul, BOYS ll PLANET <Whiplash> TEAM 1, EVNNE, EPEX, ZOONIZINI(ASTRO), JUNHEE, NCT WISH, KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
     "musicEP": "1261회",
     "musictime": "17:00KST",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "912회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Kim Yonja, nævis, AtHeart, SAY MY NAME, KiiiKiii, Do Won Kyung, YOUNG POSSE, YENA(feat. MIRYO of Brown Eyed Girls), JEON SOMI, idntt, DOHA, AMPERS&ONE, CLOSE YOUR EYES, JUNHEE, EPEX, XngHan&Xoul, EVNNE, ZOONIZINI(ASTRO), NCT WISH, KEY</font>`
   },
 
   {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
