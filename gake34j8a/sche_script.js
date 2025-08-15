@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1278회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, KiiiKiii, MADEIN S, SAY MY NAME, Kim YonJa, YOUNG POSSE, YENA, JEON SOMI, idntt, AHOF, CLOSE YOUR EYES, XngHan&Xoul, AMPERS&ONE, EPEX, EVNNE, ZOONIZINI(ASTRO), NCT WISH, KEY</font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
