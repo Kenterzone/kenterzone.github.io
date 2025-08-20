@@ -12,7 +12,7 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "386회",
+    "musicEP": "387회",
     "musictime": "18:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -21,7 +21,7 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "568회",
+    "musicEP": "569회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "902회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, Queenz Eye, MADEIN S, JOY, Kep1er, SECRET NUMBER, YOUNG POSSE, JEON SOMI, YUJU, Moon Byul, idntt, AMPERS&ONE, Bae Gi Seong, XngHan&Xoul, EVNNE, CORTIS, 8TURN, KEY</font>`
   },
 
   {
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "912회",
+    "musicEP": "913회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Kim Yonja, nævis, AtHeart, SAY MY NAME, KiiiKiii, Do Won Kyung, YOUNG POSSE, YENA(feat. MIRYO of Brown Eyed Girls), JEON SOMI, idntt, DOHA, AMPERS&ONE, CLOSE YOUR EYES, JUNHEE, EPEX, XngHan&Xoul, EVNNE, ZOONIZINI(ASTRO), NCT WISH, KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1278회",
+    "musicEP": "1279회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, KiiiKiii, MADEIN S, SAY MY NAME, Kim YonJa, YOUNG POSSE, YENA, JEON SOMI, idntt, AHOF, CLOSE YOUR EYES, XngHan&Xoul, AMPERS&ONE, EPEX, EVNNE, ZOONIZINI(ASTRO), NCT WISH, KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
