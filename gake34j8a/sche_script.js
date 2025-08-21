@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1261회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, Kim YonJa, Queenz Eye, KiiiKiii, SECRET NUMBER, Kep1er, JOY, Moon Byul, idntt, CORTIS, DOHA, JUNHEE, XngHan&Xoul, AMPERS&ONE, 8TURN, EVNNE, Stray Kids, KEY</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "913회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, KiiiKiii, Queenz Eye, YOUNG POSSE, Kep1er, YUJU, JEON SOMI, Moon Byul, JOY, idntt, 8TURN, CORTIS, JUNHEE, XngHan&Xoul, EVNNE, AMPERS&ONE, KEY, Stray Kids</font>`
   },
 
   {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
