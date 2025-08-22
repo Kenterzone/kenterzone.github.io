@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "902회",
+    "musicEP": "903회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, Queenz Eye, MADEIN S, JOY, Kep1er, SECRET NUMBER, YOUNG POSSE, JEON SOMI, YUJU, Moon Byul, idntt, AMPERS&ONE, Bae Gi Seong, XngHan&Xoul, EVNNE, CORTIS, 8TURN, KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1279회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, KiiiKiii, Queenz Eye, YOUNG POSSE, SECRET NUMBER, Kep1er, JEON SOMI, JOY, Moon Byul, idntt, AMPERS&ONE, 8TURN, EVNNE, XngHan&Xoul, JUNHEE, CORTIS, Hwang Yun Sung, KEY, Stray Kids</font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
