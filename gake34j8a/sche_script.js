@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "903회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, Kep1er, Dahye, JUNIEL, IVE, JEON SOMI, JOY, SUNMI, CMDM, idntt, CORTIS, AMPERS&ONE, 8TURN, In A Minute, AB6IX, Snow Man, Stray Kids, TEENTOP</font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1261회",
+    "musicEP": "1262회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNG POSSE, Kim YonJa, Queenz Eye, KiiiKiii, SECRET NUMBER, Kep1er, JOY, Moon Byul, idntt, CORTIS, DOHA, JUNHEE, XngHan&Xoul, AMPERS&ONE, 8TURN, EVNNE, Stray Kids, KEY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "913회",
+    "musicEP": "914회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, KiiiKiii, Queenz Eye, YOUNG POSSE, Kep1er, YUJU, JEON SOMI, Moon Byul, JOY, idntt, 8TURN, CORTIS, JUNHEE, XngHan&Xoul, EVNNE, AMPERS&ONE, KEY, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1279회",
+    "musicEP": "1280회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, KiiiKiii, Queenz Eye, YOUNG POSSE, SECRET NUMBER, Kep1er, JEON SOMI, JOY, Moon Byul, idntt, AMPERS&ONE, 8TURN, EVNNE, XngHan&Xoul, JUNHEE, CORTIS, Hwang Yun Sung, KEY, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
