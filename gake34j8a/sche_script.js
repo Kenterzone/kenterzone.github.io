@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "903회",
+    "musicEP": "904회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, Kep1er, Dahye, JUNIEL, IVE, JEON SOMI, JOY, SUNMI, CMDM, idntt, CORTIS, AMPERS&ONE, 8TURN, In A Minute, AB6IX, Snow Man, Stray Kids, TEENTOP</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1262회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">iii, MADEIN S, Queenz Eye, SECRET NUMBER, YOUNG POSSE, JUNIEL, IVE, JOY, SUNMI, JAESSBEE, CMDM, CORTIS, idntt, AMPERS&ONE, SEVENTOEIGHT, 8TURN, AB6IX, TEEN TOP, Stray Kids</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "914회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MADEIN S, Queenz Eye, RAINBOW18, JUNIEL, JOY, IVE, JEON SOMI, SUNMI, idntt, CMDM, KiXÉ, CORTIS, 8TURN, AMPERS&ONE, AB6IX, TEENTOP, Stray Kids</font>`
   },
 
   {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
