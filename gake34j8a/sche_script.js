@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "387회",
     "musictime": "18:00KST",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1262회",
+    "musicEP": "1263회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">iii, MADEIN S, Queenz Eye, SECRET NUMBER, YOUNG POSSE, JUNIEL, IVE, JOY, SUNMI, JAESSBEE, CMDM, CORTIS, idntt, AMPERS&ONE, SEVENTOEIGHT, 8TURN, AB6IX, TEEN TOP, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "914회",
+    "musicEP": "915회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MADEIN S, Queenz Eye, RAINBOW18, JUNIEL, JOY, IVE, JEON SOMI, SUNMI, idntt, CMDM, KiXÉ, CORTIS, 8TURN, AMPERS&ONE, AB6IX, TEENTOP, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1280회",
+    "musicEP": "1281회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">JO JUNGMIN, iii, AtHeart, MADEIN S, Queenz Eye, RAINBOW18, JUNIEL, Kep1er, IVE, JOY, JEON SOMI, SUNMI, idntt, CORTIS, AMPERS&ONE, 8TURN, AB6IX, TEEN TOP, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
