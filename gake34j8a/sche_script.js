@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1263회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">iii, AtHeart, MADEIN S, IVE, aespa, HYOLYN, Too Many Color(TMC), 3WAY, 8TURN, CMDM, CORTIS, In A Minute, JUN. K, JUNG DAE HYUN, AMPERS&ONE, ZEROBASEONE, NCT WISH, MONSTA X</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "915회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">IVE, aespa, SUNMI, HYOLYN, CORTIS, 8TURN, AMPERS&ONE, CMDM, In A Minute, TREASURE, ZEROBASEONE, NCT WISH, JUN. K, MONSTA X</font>`
   },
 
   {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
