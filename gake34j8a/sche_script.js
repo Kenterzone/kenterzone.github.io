@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "388회",
+    "musicEP": "389회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">iii, ANGEL NOISE, KAYA, MADEIN S, Seo EVE, SOOJIN, JUNIEL, Too Many Color(TMC), AMPERS&ONE, In A Minute, JUNG DAE HYUN, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "568회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">iii, KAYA, WiTCHX, DIVA-X, MADEIN S, SOOJIN, 2Z + plomo, In A Minute, Jimmy Brown, Too Many Color(TMC), 3WAY, AMPERS&ONE, Jung Dae Hyun, ZEROBASEONE</font>`
   },
   {
     "mair": "nomal",
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
