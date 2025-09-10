@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "568회",
+    "musicEP": "569회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">iii, KAYA, WiTCHX, DIVA-X, MADEIN S, SOOJIN, 2Z + plomo, In A Minute, Jimmy Brown, Too Many Color(TMC), 3WAY, AMPERS&ONE, Jung Dae Hyun, ZEROBASEONE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "905회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">DAYOUNG, aespa, Olivia Marsh, MOMOLAND, Gavy NJ, WENDY, CIX, AxMxP, ALL(H)OURS, CORTIS, JUNHEE, NCT WISH, TREASURE, HAECHAN, ZEROBASEONE, MONSTA X</font>`
   },
 
   {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
