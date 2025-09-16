@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "569회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">WiTCHX, Gavy NJ, DAYOUNG, MOMOLAND, DNA, 2Z + plomo, ALL(H)OURS, AxMxP, CIX, JUNHEE, Sentimental Squad, YU HYUN WOO, Jung Dae Hyun</font>`
   },
   {
     "mair": "nomal",
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1264회",
+    "musicEP": "1265회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Gavy NJ, Dahye, MOMOLAND, CHAEYOUNG(TWICE), DAYOUNG, WENDY, Monday Kiz, AxMxP, CORTIS, Too Many Color(TMC), CIX, JUNHEE, JUNG DAE HYUN, HAECHAN, ALL(H)OURS, NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "916회",
+    "musicEP": "917회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Gavy NJ, DAYOUNG, MOMOLAND, WENDY, CHAEYOUNG(TWICE), CORTIS, AxMxP, LIM YOUNG WOONG, JUNHEE, CIX, ALL(H)OURS, NCT WISH, HAECHAN, TREASURE, ZEROBASEONE, MONSTA X</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1282회",
+    "musicEP": "1283회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Gavy NJ, KAYA, MOMOLAND, CHAEYOUNG(TWICE), DAYOUNG, WENDY, CMDM, AxMxP, CORTIS, HAECHAN, ALL(H)OURS, LIM YOUNG WOONG, CIX, NCT WISH, JUNG DAE HYUN, ZEROBASEONE, MONSTA X</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
