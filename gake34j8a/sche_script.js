@@ -12,7 +12,7 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "389회",
+    "musicEP": "390회",
     "musictime": "18:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -21,7 +21,7 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "570회",
+    "musicEP": "571회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "906회",
+    "musicEP": "908회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SOORIN, YOUNGBIN, DAYOUNG, BADVILLAIN, PRIMROSE, YUQI, IDID, AxMxP, ALL(H)OURS, LUN8, CORTIS, BOYS ll PLANET <Love Is>, CIX, LIM YOUNG WOONG, Jang Wooyoung, JUNHEE, HAECHAN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1265회",
+    "musicEP": "1266회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SOORIN, YOUNGBIN, Dahye, DAYOUNG, PRIMROSE, BADVILLAIN, YUQI, AxMxP, CORTIS, IDID, JUNG DAE HYUN, HAECHAN, ALL(H)OURS, CIX, LUN8, JUNHEE, LIM YOUNG WOONG, Jang Wooyoung</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "917회",
+    "musicEP": "918회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Chae EunJung x Haeun, YOUNGBIN, BADVILLAIN, PRIMROSE, DAYOUNG, YUQI, CORTIS, AxMxP, IDID, CIX, KIM HEEJAE, PLAVE, LUN8, ALL(H)OURS, TREASURE, Jang Wooyoung, HAECHAN, JUNHEE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1283회",
+    "musicEP": "1284회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">DAYOUNG, SOORIN, YOUNGBIN, BADVILLAIN, Se Yeon Yun, PRIMROSE, YUQI, IDID, AxMxP, ALL(H)OURS, LUN8, CORTIS, CIX, JUNG DAE HYUN, JUNHEE, TREASURE, HAECHAN, Jang Wooyoung(feat. DAMINI)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
