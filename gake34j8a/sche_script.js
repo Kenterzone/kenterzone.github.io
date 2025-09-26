@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1284회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNGBIN, GENBLUE, cosmosy, Hearts2Hearts, BADVILLAIN, YUQI, DAYOUNG, The KingDom, LUN8, KickFlip, TIOT, CIX, IDID, ALL(H)OURS, LEE JUN YOUNG, CORTIS, SUHO</font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
