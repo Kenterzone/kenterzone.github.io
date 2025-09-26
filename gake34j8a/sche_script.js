@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1266회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SOORIN, YOUNGBIN, cosmosy, BADVILLAIN, Hearts2Hearts, DAYOUNG, MUSHVENOM, TIOT, The KingDom, LUN8, ALL(H)OURS, AxMxP, CIX, CORTIS, IDID, KickFlip, SUHO, LEE JUN YOUNG</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "918회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNGBIN, Hearts2Hearts, BADVILLAIN, DAYOUNG, LUN8, ALL(H)OURS, CORTIS, AxMxP, IDID, SUHO, CIX, The KingDom, LEE JUN YOUNG, Ham Ji Woo, KickFlip, JUNHEE</font>`
   },
 
   {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
