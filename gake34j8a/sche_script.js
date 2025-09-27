@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1266회",
+    "musicEP": "1267회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SOORIN, YOUNGBIN, cosmosy, BADVILLAIN, Hearts2Hearts, DAYOUNG, MUSHVENOM, TIOT, The KingDom, LUN8, ALL(H)OURS, AxMxP, CIX, CORTIS, IDID, KickFlip, SUHO, LEE JUN YOUNG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -60,7 +60,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1284회",
-    "musictime": "15:25KST",
+    "musictime": "12:20KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNGBIN, GENBLUE, cosmosy, Hearts2Hearts, BADVILLAIN, YUQI, DAYOUNG, The KingDom, LUN8, KickFlip, TIOT, CIX, IDID, ALL(H)OURS, LEE JUN YOUNG, CORTIS, SUHO</font>`
   },  ////SP_GUIDE/////
 
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
