@@ -30,15 +30,15 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "908회",
+    "musicEP": "909회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">YOUNGBIN, Hearts2Hearts, izna, cosmosy, SUHO, STEAL HEART CLUB, IDID, AxMxP, LEE JUN YOUNG, KickFlip, X, SUHO, Ha Hyun Sang, The KingDom, BLUHWA, CxM(SEVENTEEN)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
     "musicEP": "1267회",
     "musictime": "17:00KST",
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
