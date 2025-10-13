@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1285회",
+    "musicEP": "1286회",
     "musictime": "12:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Chae Eunjung x HAEUN, W!TCHX, 1000°, cosmosy, HITGS, izna, IDID, KickFlip, POW, MUSHVENOM, Park Sung On, BLUHWA, AxMxP, ONEWE, Yoon Seobin</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
