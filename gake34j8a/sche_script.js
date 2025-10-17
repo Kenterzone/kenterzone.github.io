@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1286회",
-    "musictime": "12:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:00KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, izna, MEOVV, NMIXX, HWASA, Pagaehun, SORAN, IDID, ONEWE, KickFlip, TWS, POW, BAE JIN YOUNG, BAE173, U-KNOW</font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
