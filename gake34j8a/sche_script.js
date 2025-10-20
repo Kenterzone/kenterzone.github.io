@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "The Show",
     "musicEP": "390회",
     "musictime": "18:00KST",
@@ -19,9 +19,9 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "572회",
+    "musicEP": "574회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "909회",
+    "musicEP": "910회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, izna, MEOVV, BABYMONSTER, NMIXX, HWASA, IDID, KickFlip, TIOT, POW, U-KNOW, Hi-Fi Un!corn, Musical <Kinky Boots>, TWS, ONEWE, Pagaehun, BAE JIN YOUNG, BAE173</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1267회",
+    "musicEP": "1268회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, izna, NMIXX, HWASA, Yoon Seobin, Hi-Fi Un!corn, TIOT, IDID, KickFlip, Pagaehun, POW, TWS, U-KNOW, ONEWE, SORAN, BAE JIN YOUNG, BAE173</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "920회",
+    "musicEP": "921회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, izna, MEOVV, BABYMONSTER, NMIXX, HWASA, KickFlip, Pagaehun, IDID, EVE, U-KNOW, Hi-Fi Un!corn, TWS, BAE JIN YOUNG, ONEWE, BAE173</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1286회",
+    "musicEP": "1287회",
     "musictime": "15:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, izna, MEOVV, NMIXX, HWASA, Pagaehun, SORAN, IDID, ONEWE, KickFlip, TWS, POW, BAE JIN YOUNG, BAE173, U-KNOW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
