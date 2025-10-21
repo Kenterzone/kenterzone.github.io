@@ -12,9 +12,9 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : true,
     "musicname": "The Show",
-    "musicEP": "390회",
+    "musicEP": "391회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">W!TCHX, izna, Hi-Fi Un!corn, ONEWE, TWS, BAE JIN YOUNG, BE:MIN, Bobby Pins, BLUHWA, Yoon Seobin, NARIN, BAE173</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -23,7 +23,7 @@ const musicGuid =[
     "musicname": "ShowChampion",
     "musicEP": "574회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">JAIN ROS, NMIXX, RED OOPART, Jo So Hyun, BAE173, BE:MIN, Hi-Fi Un!corn, KINO, TWS, BAE JIN YOUNG, ONEWE, Yoon Seobin</font>`
   },
   {
     "mair": "nomal",
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
