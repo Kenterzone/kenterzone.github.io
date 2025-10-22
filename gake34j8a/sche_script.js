@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "574회",
+    "musicEP": "575회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">JAIN ROS, NMIXX, RED OOPART, Jo So Hyun, BAE173, BE:MIN, Hi-Fi Un!corn, KINO, TWS, BAE JIN YOUNG, ONEWE, Yoon Seobin</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "910회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, Hearts2Hearts, izna, MEOVV, BABYMONSTER, NMIXX, HWASA, DKB, MUSHVENOM, SORAN, AxMxP, Xdinary Heroes, LEE CHANGSUB, KINO, TWS, BOYNEXTDOOR, BAE173</font>`
   },
 
   {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
