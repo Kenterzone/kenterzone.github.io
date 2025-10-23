@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1268회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">1000°, HITGS, Hearts2Hearts, izna, LE SSERAFIM, NMIXX, HWASA, IDID, TWS, SORAN, DKB, AxMxP, LEE CHANGSUB, LEE CHAN WON, Xdinary Heroes, Yoon Seobin, BAE173, BOYNEXTDOOR</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "921회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Hwina, HITGS, Hearts2Hearts, izna, MEOVV, NMIXX, LE SSERAFIM, AxMxP, IDID, DKB, Xdinary Heroes, TWS, LEE CHANGSUB, LEE CHAN WON, BOYNEXTDOOR</font>`
   },
 
   {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
