@@ -10,7 +10,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Tue.", 
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "391회",
     "musictime": "18:00KST",
@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "910회",
+    "musicEP": "911회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, Hearts2Hearts, izna, MEOVV, BABYMONSTER, NMIXX, HWASA, DKB, MUSHVENOM, SORAN, AxMxP, Xdinary Heroes, LEE CHANGSUB, KINO, TWS, BOYNEXTDOOR, BAE173</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1268회",
+    "musicEP": "1269회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">1000°, HITGS, Hearts2Hearts, izna, LE SSERAFIM, NMIXX, HWASA, IDID, TWS, SORAN, DKB, AxMxP, LEE CHANGSUB, LEE CHAN WON, Xdinary Heroes, Yoon Seobin, BAE173, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "921회",
+    "musicEP": "922회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Hwina, HITGS, Hearts2Hearts, izna, MEOVV, NMIXX, LE SSERAFIM, AxMxP, IDID, DKB, Xdinary Heroes, TWS, LEE CHANGSUB, LEE CHAN WON, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1287회",
     "musictime": "15:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, Hearts2Hearts, izna, BABYMONSTER, MEOVV, Jeon Yu Jin, NMIXX, LE SSERAFIM, IDID, AxMxP, DKB, SORAN, Xdinary Heroes, BOYNEXTDOOR, TWS, LEE CHAN WON, LEE CHANGSUB, U-KNOW</font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
