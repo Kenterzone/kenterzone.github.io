@@ -40,7 +40,7 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1269회",
+    "musicEP": "1270회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "922회",
     "musictime": "15:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, Hearts2Hearts, izna, MEOVV, BABYMONSTER, LE SSERAFIM, NEXZ, AxMxP, PENTACLE, Dr.Core911, Jung Seung Hwan, WONHO, LEE CHAN WON, DKZ, WEi, 82MAJOR, TWS, BAE173, TEMPEST, &TEAM, BOYNEXTDOOR</font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1288회",
     "musictime": "15:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, izna, Hearts2Hearts, MEOVV, BABYMONSTER, LE SSERAFIM, NEXZ, DKZ, xikers, &TEAM, 82MAJOR, WONHO, WEi, LEE CHAN WON, Jung Seung Hwan, TEMPEST, TWS, TRENDZ, PENTACLE, BOYNEXTDOOR</font>`
   },  ////SP_GUIDE/////
 
 {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
