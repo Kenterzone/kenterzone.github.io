@@ -47,7 +47,7 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Core",
     "musicEP": "923회",
     "musictime": "13:30KST",
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
