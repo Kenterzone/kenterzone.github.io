@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1270회",
+    "musicEP": "1271회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, Hearts2Hearts, VVUP, RESCENE, Jeon Yujin, FIFTY FIFTY, LE SSERAFIM, MIYEON, SUNMI, EUI BIN KWON, NEWBEAT, AHOF, YEONJUN, xikers, TEMPEST, NEXZ, ARrC, 82MAJOR, &TEAM, U-KNOW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -61,9 +61,24 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1289회",
     "musictime": "15:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, VVUP, Hearts2Hearts, LE SSERAFIM, MIYEON, SUNMI, JAURIM, NEXZ, NEWBEAT, xikers, ARrC, KANG SEUNG YOON, AHOF, TEMPEST, XLOV, &TEAM, 82MAJOR, YEONJUN, U-KNOW</font>`
   },  ////SP_GUIDE/////
-
+{
+    "date": "Fri.",
+    "date_date": "11.28",
+    "musicname": "2025 Mama Awards ",
+    "musicEP": "",
+    "musictime": "20:30KST",
+    "musicsetlist":`ShowGuest:MC：<BR/><font color="#adadb8"></font>`
+  },
+{
+    "date": "Sat.",
+    "date_date": "11.29",
+    "musicname": "2025 Mama Awards ",
+    "musicEP": "",
+    "musictime": "20:30KST",
+    "musicsetlist":`ShowGuest:MC：<BR/><font color="#adadb8"></font>`
+  },
 {
     "date": "Fri.",
     "date_date": "12.20",
@@ -140,6 +155,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
