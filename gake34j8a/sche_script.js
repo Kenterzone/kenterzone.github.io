@@ -42,16 +42,16 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1271회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, Hearts2Hearts, KIIRAS, ITZY, MIYEON, SUNMI, NEWBEAT, AHOF, NEXZ, xikers, XODIAC, 82MAJOR, ARrC, Kim Dong Hyun, Kim Jang Hoon, THE BOYZ Special Unit, CLOSE YOUR EYES, CRAVITY, U-KNOW</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "923회",
     "musictime": "13:30KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KIIRAS, HUMBUGGY(LEE SUJI), Hearts2Hearts, FIFTY FIFTY, ITZY, MIYEON, SUNMI, NEXZ, ARrC, AHOF, AM8IC, XLOV, CLOSE YOUR EYES, THE BOYZ Special Unit, DKZ, CRAVITY, &TEAM, PLAVE, xikers, ONF, 82MAJOR, KANG SEUNG YOON, U-KNOW</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1289회",
+    "musicEP": "1290회",
     "musictime": "12:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HITGS, VVUP, Hearts2Hearts, LE SSERAFIM, MIYEON, SUNMI, JAURIM, NEXZ, NEWBEAT, xikers, ARrC, KANG SEUNG YOON, AHOF, TEMPEST, XLOV, &TEAM, 82MAJOR, YEONJUN, U-KNOW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 {
     "date": "Fri.",
@@ -155,6 +155,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
