@@ -50,7 +50,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "923회",
-    "musictime": "13:30KST",
+    "musictime": "15:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">KIIRAS, HUMBUGGY(LEE SUJI), Hearts2Hearts, FIFTY FIFTY, ITZY, MIYEON, SUNMI, NEXZ, ARrC, AHOF, AM8IC, XLOV, CLOSE YOUR EYES, THE BOYZ Special Unit, DKZ, CRAVITY, &TEAM, PLAVE, xikers, ONF, 82MAJOR, KANG SEUNG YOON, U-KNOW</font>`
   },
 
@@ -155,6 +155,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
