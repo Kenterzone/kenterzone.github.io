@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1271회",
+    "musicEP": "1272회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, Hearts2Hearts, KIIRAS, ITZY, MIYEON, SUNMI, NEWBEAT, AHOF, NEXZ, xikers, XODIAC, 82MAJOR, ARrC, Kim Dong Hyun, Kim Jang Hoon, THE BOYZ Special Unit, CLOSE YOUR EYES, CRAVITY, U-KNOW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, Baby DONT Cry, KIIRAS, RESCENE, FIFTY FIFTY, KISS OF LIFE, ITZY, SUNMI, IDID, ANTARES, AHOF, NEXZ, NEWBEAT, XODIAC, CLOSE YOUR EYES, KYUHYUN, Jang Dong Woo, CRAVITY, NCT DREAM, Stray Kids</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "923회",
-    "musictime": "15:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KIIRAS, HUMBUGGY(LEE SUJI), Hearts2Hearts, FIFTY FIFTY, ITZY, MIYEON, SUNMI, NEXZ, ARrC, AHOF, AM8IC, XLOV, CLOSE YOUR EYES, THE BOYZ Special Unit, DKZ, CRAVITY, &TEAM, PLAVE, xikers, ONF, 82MAJOR, KANG SEUNG YOON, U-KNOW</font>`
+    "musicEP": "924회",
+    "musictime": "15:20KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KIIRAS, Baby DONT Cry, FIFTY FIFTY, Gyubin, VVUP, KYUHYUN, KISS OF LIFE, ALLDAY PROJECT, ITZY, IDID, NEXZ, NEWBEAT, CLOSE YOUR EYES, AHOF, PLAVE, YEONJUN, CRAVITY, Jang Dong Woo, NCT DREAM, Stray Kids</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1290회",
+    "musicEP": "1291회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KIIRAS, Hearts2Hearts, ITZY, MIYEON, SUNMI, ARrC, AHOF, XLOV, CLOSE YOUR EYES, KANG SEUNG YOON, NEXZ, NEWBEAT, DKB, THE BOYZ Special Unit, DKZ, xikers, 82MAJOR, AM8IC, &TEAM, CRAVITY, ONF, U-KNOW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 {
     "date": "Fri.",
@@ -155,6 +155,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
