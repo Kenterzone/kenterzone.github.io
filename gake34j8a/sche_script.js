@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1291회",
-    "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:35KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KIIRAS, Baby DONT Cry, Gyubin, ALLDAY PROJECT, KISS OF LIFE, ITZY, SUNMI, IDID, AHOF, NEXZHYUN, CLOSE YOUR EYES, 82MAJOR, AM8IC, Jang Dong Woo, CRAVITY, NCT DREAM, Stray Kids, KYUHYUN</font>`
   },  ////SP_GUIDE/////
 {
     "date": "Fri.",
@@ -155,6 +155,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
