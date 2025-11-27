@@ -19,9 +19,9 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "ShowChampion",
-    "musicEP": "575회",
+    "musicEP": "576회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1272회",
+    "musicEP": "1273회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">VVUP, Baby DONT Cry, KIIRAS, RESCENE, FIFTY FIFTY, KISS OF LIFE, ITZY, SUNMI, IDID, ANTARES, AHOF, NEXZ, NEWBEAT, XODIAC, CLOSE YOUR EYES, KYUHYUN, Jang Dong Woo, CRAVITY, NCT DREAM, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">E11iVYN, Burvey, Baby DONT Cry, RESCENE, Seo EVE, VVUP, tripleS msnz, cosmosy, ILLIT, XLOV, Lee Byeong Chan, DKB, NEWBEAT, KWON EUI BIN, XODIAC, AM8IC, CLOSE YOUR EYES, NOWZ, NTX, NCT DREAM</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "924회",
+    "musicEP": "925회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KIIRAS, Baby DONT Cry, FIFTY FIFTY, Gyubin, VVUP, KYUHYUN, KISS OF LIFE, ALLDAY PROJECT, ITZY, IDID, NEXZ, NEWBEAT, CLOSE YOUR EYES, AHOF, PLAVE, YEONJUN, CRAVITY, Jang Dong Woo, NCT DREAM, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Burvey, Baby DONT Cry, cosmosy, Jeon Yu Jin, Jang Kiki, VVUP, tripleS msnz, ILLIT, XLOV, NEWBEAT, CLOSE YOUR EYES, SEVENUS, NOWZ, XODIAC, AM8IC, KWON EUI BIN, JUNGWOO, NCT DREAM</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1291회",
+    "musicEP": "1292회",
     "musictime": "15:35KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KIIRAS, Baby DONT Cry, Gyubin, ALLDAY PROJECT, KISS OF LIFE, ITZY, SUNMI, IDID, AHOF, NEXZHYUN, CLOSE YOUR EYES, 82MAJOR, AM8IC, Jang Dong Woo, CRAVITY, NCT DREAM, Stray Kids, KYUHYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 {
     "date": "Fri.",
@@ -155,6 +155,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
