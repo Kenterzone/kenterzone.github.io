@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "925회",
+    "musicEP": "926회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Burvey, Baby DONT Cry, cosmosy, Jeon Yu Jin, Jang Kiki, VVUP, tripleS msnz, ILLIT, XLOV, NEWBEAT, CLOSE YOUR EYES, SEVENUS, NOWZ, XODIAC, AM8IC, KWON EUI BIN, JUNGWOO, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1292회",
+    "musicEP": "1293회",
     "musictime": "12:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, VVUP, RESCENE, cosmosy, tripleS msnz, ILLIT, NOWZ, NEWBEAT, SEVENUS, SKINZ, IDID, CLOSE YOUR EYES, AM8IC, JUNGWOO, KWON EUI BIN, Kimjanghoon, XLOV, RIIZE, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 {
     "date": "Fri.",
@@ -155,6 +155,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
