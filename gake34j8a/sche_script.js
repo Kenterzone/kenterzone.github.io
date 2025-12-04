@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1274회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Seo EVE, W!TCHX, VVUP, Baby DONT Cry, cosmosy, RESCENE, tripleS msnz moon, ILLIT, LILY(NMIXX), fromis_9, IDID, XLOV, XODIAC, AM8IC, Jo Kwan Woo, CHUEI LI YU, NOWZ, SEVENUS, RIIZE, VERIVERY</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "926회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, RESCENE, Seo EVE, ILLIT, tripleS msnz sun, fromis_9, Kimjanghoon, NOWZ, SEVENUS, TheyNeverChange, Tejong, XODIAC, IDID, KWON EUI BIN, XLOV, VERIVERY, CHUEI LI YU</font>`
   },
 
   {
@@ -155,6 +155,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
