@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1274회",
+    "musicEP": "1275회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Seo EVE, W!TCHX, VVUP, Baby DONT Cry, cosmosy, RESCENE, tripleS msnz moon, ILLIT, LILY(NMIXX), fromis_9, IDID, XLOV, XODIAC, AM8IC, Jo Kwan Woo, CHUEI LI YU, NOWZ, SEVENUS, RIIZE, VERIVERY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1293회",
-    "musictime": "12:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:10KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Burvey, HyeRim, cosmosy, Seo EVE, Baby DONT Cry, RESCENE, ILLIT, tripleS msnz neptune, tripleS msnz zenith, fromis_9, XODIAC, IDID, SEVENUS, Lee Byeong Chan, Jo Kwan Woo, CHUEI LI YU, EUI BIN KWON, NOWZ, VERIVERY</font>`
   },  ////SP_GUIDE/////
 {
     "date": "Fri.",
@@ -155,6 +155,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
