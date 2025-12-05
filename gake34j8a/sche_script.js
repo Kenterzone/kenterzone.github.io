@@ -63,40 +63,25 @@ const musicGuid =[
     "musictime": "15:10KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">Burvey, HyeRim, cosmosy, Seo EVE, Baby DONT Cry, RESCENE, ILLIT, tripleS msnz neptune, tripleS msnz zenith, fromis_9, XODIAC, IDID, SEVENUS, Lee Byeong Chan, Jo Kwan Woo, CHUEI LI YU, EUI BIN KWON, NOWZ, VERIVERY</font>`
   },  ////SP_GUIDE/////
+
 {
     "date": "Fri.",
-    "date_date": "11.28",
-    "musicname": "2025 Mama Awards ",
-    "musicEP": "",
-    "musictime": "20:30KST",
-    "musicsetlist":`ShowGuest:MC：<BR/><font color="#adadb8"></font>`
-  },
-{
-    "date": "Sat.",
-    "date_date": "11.29",
-    "musicname": "2025 Mama Awards ",
-    "musicEP": "",
-    "musictime": "20:30KST",
-    "musicsetlist":`ShowGuest:MC：<BR/><font color="#adadb8"></font>`
-  },
-{
-    "date": "Fri.",
-    "date_date": "12.20",
-    "musicname": "2024 KBS Gayo Daejeon",
+    "date_date": "12.19",
+    "musicname": "2025 KBS Gayo Daejeon",
     "musicEP": "",
     "musictime": "20:30KST",
     "musicsetlist":`ShowGuest:MC：KIM YOUNGDAE、ZICO、Jang Wonyoung<BR/><font color="#adadb8"></font>`
   },{
     "date": "Wed.",
-    "date_date": "01.29",
-    "musicname": "2024 MBC Gayo Daejeon-Part1",
+    "date_date": "12.25",
+    "musicname": "2025 SBS Gayo Daejeon",
     "musicEP": "",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:MC：Ahn Yujin、Yeonjun、Doyoung<BR/><font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:MC：g<BR/><font color="#adadb8"></font>`
   },{
-    "date": "Thu.",
-    "date_date": "01.30",
-    "musicname": "2024 MBC Gayo Daejeon-Part2",
+    "date": "Wed.",
+    "date_date": "12.31",
+    "musicname": "2025 MBC Gayo Daejeon",
     "musicEP": "",
     "musictime": "16:50KST",
     "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
@@ -155,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
