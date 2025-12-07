@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "926회",
+    "musicEP": "927회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, RESCENE, Seo EVE, ILLIT, tripleS msnz sun, fromis_9, Kimjanghoon, NOWZ, SEVENUS, TheyNeverChange, Tejong, XODIAC, IDID, KWON EUI BIN, XLOV, VERIVERY, CHUEI LI YU</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -72,7 +72,7 @@ const musicGuid =[
     "musictime": "20:30KST",
     "musicsetlist":`ShowGuest:MC：KIM YOUNGDAE、ZICO、Jang Wonyoung<BR/><font color="#adadb8"></font>`
   },{
-    "date": "Wed.",
+    "date": "Thu.",
     "date_date": "12.25",
     "musicname": "2025 SBS Gayo Daejeon",
     "musicEP": "",
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
