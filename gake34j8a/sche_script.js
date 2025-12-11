@@ -69,8 +69,8 @@ const musicGuid =[
     "date_date": "12.19",
     "musicname": "2025 KBS Gayo Daejeon",
     "musicEP": "",
-    "musictime": "20:30KST",
-    "musicsetlist":`ShowGuest:MC：KIM YOUNGDAE、ZICO、Jang Wonyoung<BR/><font color="#adadb8"></font>`
+    "musictime": "19:15KST",
+    "musicsetlist":`ShowGuest:MC：<BR/><font color="#adadb8"></font>`
   },{
     "date": "Thu.",
     "date_date": "12.25",
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
