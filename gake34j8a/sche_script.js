@@ -77,14 +77,14 @@ const musicGuid =[
     "musicname": "2025 SBS Gayo Daejeon",
     "musicEP": "",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:MC：Young K, Ahn Yujin, Jaemin<BR/><font color="#adadb8">ALLDAY PROJECT, Baby DON'T Cry, izna, Hearts2Hearts, KiiiKiii, HITGS, BABYMONSTER, MEOVV, ILLIT, NMIXX , IVE, aespa, ITZY, LE SSERAFIM , AHOF, CORTIS, AxMxP, IDID, SKINZ, &TEAM, Jung Yunho, KEY, NCT DREAM, THE BOYZ, Stray Kids, ATEEZ, TXT , TREASURE, ENHYPEN, BOYNEXTDOOR, ZEROBASEONE, RIIZE, TWS, NCT WISH, NEXZ, KickFlip</font>`
+    "musicsetlist":`ShowGuest:MC：Young K、Ahn Yujin、Jaemin<BR/><font color="#adadb8">ALLDAY PROJECT, Baby DON'T Cry, izna, Hearts2Hearts, KiiiKiii, HITGS, BABYMONSTER, MEOVV, ILLIT, NMIXX , IVE, aespa, ITZY, LE SSERAFIM , AHOF, CORTIS, AxMxP, IDID, SKINZ, &TEAM, Jung Yunho, KEY, NCT DREAM, THE BOYZ, Stray Kids, ATEEZ, TXT , TREASURE, ENHYPEN, BOYNEXTDOOR, ZEROBASEONE, RIIZE, TWS, NCT WISH, NEXZ, KickFlip</font>`
   },{
     "date": "Wed.",
     "date_date": "12.31",
     "musicname": "2025 MBC Gayo Daejeon",
     "musicEP": "",
     "musictime": "16:50KST",
-    "musicsetlist":`ShowGuest:MC：Jun Hyunmoo、Seohyun(SNSD)<BR/><font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:MC：Minho、Annie、Hwang Minhyun<BR/><font color="#adadb8">ALLDAY PROJECT, HANRORO, KiiiKiii, ILLIT, izna, Hearts2Hearts, aespa, MEOVV, LE SSERAFIM, IVE, NMIXX, ITZY , ATEEZ, BOYNEXTDOOR, CORTIS, IDID, KickFlip, LUCY, NCT DREAM, NCT WISH, NEXZ , PLAVE, RIIZE, Stray Kids , THE BOYZ, TREASURE, TWS, YB , ZEROBASEONE, BEATPELLA HOUSE, Yeonjun, TOMORROW X TOGETHER, Minho</font>`
   }
 ];
 
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
