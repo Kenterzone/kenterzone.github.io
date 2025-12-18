@@ -38,20 +38,20 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
-    "musicEP": "1275회",
+    "musicEP": "1276회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">izna, IVE, RIIZE, ZEROBASEONE, ATEEZ, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "927회",
+    "musicEP": "928회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">E11iVYN, MEPC, HyeRim, MINIMANI, Burvey, Baby DONT Cry, RESCENE, ILLIT, ALLDAY PROJECT, Jo Kwan Woo, CHOI SUNG YUN(Y), VERIVERY, JANG HANEUM, CHUEI LI YU, SEVENUS, KWON EUI BIN, Hwang Min Woo, Lee Byeong Chan</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">O.A.Be, NWH:I, Burvey, KyoungSeo, RESCENE, cosmosy, GUCKKASTEN, MEPC, XLOV, Red Dragonfly, NTX, NEWBEAT, Kyeongja C, BE BOYS, KWON EUI BIN, WayV, MINHO</font>`
   },
 
   {
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
