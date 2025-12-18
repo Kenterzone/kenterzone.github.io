@@ -77,7 +77,7 @@ const musicGuid =[
     "musicname": "2025 SBS Gayo Daejeon",
     "musicEP": "",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:MC：g<BR/><font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:MC：Young K, Ahn Yujin, Jaemin<BR/><font color="#adadb8">ALLDAY PROJECT, Baby DON'T Cry, izna, Hearts2Hearts, KiiiKiii, HITGS, BABYMONSTER, MEOVV, ILLIT, NMIXX , IVE, aespa, ITZY, LE SSERAFIM , AHOF, CORTIS, AxMxP, IDID, SKINZ, &TEAM, Jung Yunho, KEY, NCT DREAM, THE BOYZ, Stray Kids, ATEEZ, TXT , TREASURE, ENHYPEN, BOYNEXTDOOR, ZEROBASEONE, RIIZE, TWS, NCT WISH, NEXZ, KickFlip</font>`
   },{
     "date": "Wed.",
     "date_date": "12.31",
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
