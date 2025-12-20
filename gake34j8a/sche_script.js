@@ -83,7 +83,7 @@ const musicGuid =[
     "date_date": "12.31",
     "musicname": "2025 MBC Gayo Daejeon",
     "musicEP": "",
-    "musictime": "16:50KST",
+    "musictime": "19:50KST",
     "musicsetlist":`ShowGuest:MC：Minho、Annie、Hwang Minhyun<BR/><font color="#adadb8">ALLDAY PROJECT, HANRORO, KiiiKiii, ILLIT, izna, Hearts2Hearts, aespa, MEOVV, LE SSERAFIM, IVE, NMIXX, ITZY , ATEEZ, BOYNEXTDOOR, CORTIS, IDID, KickFlip, LUCY, NCT DREAM, NCT WISH, NEXZ , PLAVE, RIIZE, Stray Kids , THE BOYZ, TREASURE, TWS, YB , ZEROBASEONE, BEATPELLA HOUSE, Yeonjun, TOMORROW X TOGETHER, Minho</font>`
   }
 ];
@@ -140,6 +140,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
