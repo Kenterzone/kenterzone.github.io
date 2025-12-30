@@ -9,7 +9,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Tue.", 
+    "date": "xTue.", 
     "musiconoroff" : false,
     "musicname": "The Show",
     "musicEP": "391회",
@@ -18,7 +18,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Wed.",
+    "date": "xWed.",
     "musiconoroff" : false,
     "musicname": "ShowChampion",
     "musicEP": "576회",
@@ -27,7 +27,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Thu.",
+    "date": "xThu.",
     "musiconoroff" : false,
     "musicname": "M!CountDown",
     "musicEP": "911회",
@@ -46,7 +46,7 @@ const musicGuid =[
   },
   {
     "mair": "nomal",
-    "date": "Sat.",
+    "date": "xSat.",
     "musiconoroff" : false,
     "musicname": "Music Core",
     "musicEP": "929회",
@@ -56,7 +56,7 @@ const musicGuid =[
 
   {
     "mair": "nomal",
-    "date": "Sun.",
+    "date": "xSun.",
     "musiconoroff" : false,
     "musicname": "Inkigayo",
     "musicEP": "1294회",
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
