@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "911회",
+    "musicEP": "912회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, ILLIT, CHUU, H1-KEY, Apink, idntt, WAKER, YUWAN, hrtz.wav, DanJerous, Kim Jang Hoon, SHIN SOOHYUN, CHOI SUNG YUN(Y)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : false,
     "musicname": "Inkigayo",
-    "musicEP": "1294회",
+    "musicEP": "1295회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, ILLIT, CHUU, Apink, idntt, WAKER, YUWAN, TAE JIN AH, EUI BIN KWON, Park Hyun Ho, SHIN SOOHYUN</font>`
   },  ////SP_GUIDE/////
 
 {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
