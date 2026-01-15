@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1276회",
     "musictime": "17:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, LIGHTSUM, H1-KEY, CHUU, Apink, idntt, LNGSHOT, WAKER, ALPHA DRIVE ONE, n.SSign, ENHYPEN, JOOHONEY(MONSTA X), IN SEONG, DxS(SEVENTEEN)</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "931회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, LIGHTSUM, CHUU, Apink, LNGSHOT, idntt, WING, Hiss, ALPHA DRIVE ONE, SHIN SOOHYUN, Lee Do Jin, IN SEONG, n.SSign, ENHYPEN, DxS(SEVENTEEN), JOOHONEY(MONSTA X)</font>`
   },
 
   {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
