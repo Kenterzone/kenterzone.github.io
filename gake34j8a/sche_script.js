@@ -19,11 +19,11 @@ const musicGuid =[
   {
     "mair": "nomal",
     "date": "Wed.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "576회",
+    "musicEP": "583회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, LIGHTSUM, CHUU, idntt, n.SSign, ALPHA DRIVE ONE, IN SEONG, CHOI SUNG YUN(Y), CATCH THE YOUNG</font>`
   },
   {
     "mair": "nomal",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "931회",
+    "musicEP": "932회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, LIGHTSUM, CHUU, Apink, LNGSHOT, idntt, WING, Hiss, ALPHA DRIVE ONE, SHIN SOOHYUN, Lee Do Jin, IN SEONG, n.SSign, ENHYPEN, DxS(SEVENTEEN), JOOHONEY(MONSTA X)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : false,
     "musicname": "Inkigayo",
-    "musicEP": "1295회",
+    "musicEP": "1296회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">SAY MY NAME, LIGHTSUM, CHUU, Apink, idntt, WAKER, ALPHA DRIVE ONE, LNGSHOT, SHIN SOOHYUN, ENHYPEN, EUI BIN KWON, IN SEONG(SF9), DxS(SEVENTEEN), JOOHONEY(MONSTA X)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
