@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1277회",
+    "musicEP": "1278회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">dodree, SAY MY NAME, XG, H1-KEY, CHUU, idntt, ONE OR EIGHT, ALPHA DRIVE ONE, AxMxP, LNGSHOT, LA POEM, TNX, n.SSign, CATCH THE YOUNG, ONEUS, ENHYPEN, EXO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1296회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">dodree, SAY MY NAME, XG, H1-KEY, CHUU, AxMxP, LA POEM, LNGSHOT, idntt, ALPHA DRIVE ONE, ONEUS, ONE OR EIGHT, CATCH THE YOUNG, TNX, ENHYPEN, EXO</font>`
   },  ////SP_GUIDE/////
 
 {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
