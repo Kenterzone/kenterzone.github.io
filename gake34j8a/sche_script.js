@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "584회",
+    "musicEP": "585회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">dodree, SAY MY NAME, ALPHA DRIVE ONE, AxMxP, BE BOYS, ONE OR EIGHT, 2Z, TNX, LA POEM, ONEUS, CATCH THE YOUNG, DanJerous</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "914회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">dodree, SAY MY NAME, YOUNG POSSE, KiiiKiii, XG, i-dle, TAK SONG I, LA POEM, LNGSHOT, ALPHA DRIVE ONE, AxMxP, 8TURN, ONEUS, ONE OR EIGHT, CATCH THE YOUNG, TNX, POW, WHIB</font>`
   },
 
   {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
