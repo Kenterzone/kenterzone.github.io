@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "914회",
+    "musicEP": "915회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">dodree, SAY MY NAME, YOUNG POSSE, KiiiKiii, XG, i-dle, TAK SONG I, LA POEM, LNGSHOT, ALPHA DRIVE ONE, AxMxP, 8TURN, ONEUS, ONE OR EIGHT, CATCH THE YOUNG, TNX, POW, WHIB</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1278회",
+    "musicEP": "1279회",
     "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">dodree, XG, KiiiKiii, SAY MY NAME, YOUNG POSSE, i-dle, ONE OR EIGHT, LNGSHOT, AxMxP, ALPHA DRIVE ONE, TAK SONG I, CATCH THE YOUNG, ONEUS, LA POEM, JUNTAE, WHIB, TNX, POW, 8TURN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1297회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Jo Jung Min, KiiiKiii, SAY MY NAME, XG, YOUNG POSSE, i-dle, Tak Song I, LA POEM, LNGSHOT, ALPHA DRIVE ONE, AxMxP, 8TURN, ONEUS, ONE OR EIGHT, TNX, POW, WHIB</font>`
   },  ////SP_GUIDE/////
 
 {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
