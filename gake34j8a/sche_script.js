@@ -41,8 +41,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1279회",
-    "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "17:25KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, i-dle, Tak Song I, 2Z, 8TURN, ALPHA DRIVE ONE, AxMxP, POW, WHIB, SUNGMIN, CATCH THE YOUNG, ATEEZ</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "934회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">GRANADA, KiiiKiii, i-dle, Tak Song I, NAVILLERA, Jo Hwy, KiXÉ, 8TURN, POW, WHIB, AxMxP, ALPHA DRIVE ONE, Kim Juntae, SUNGMIN, ATEEZ</font>`
   },
 
   {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
