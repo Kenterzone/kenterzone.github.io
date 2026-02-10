@@ -21,7 +21,7 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "586회",
+    "musicEP": "587회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1279회",
+    "musicEP": "1280회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, i-dle, Tak Song I, 2Z, 8TURN, ALPHA DRIVE ONE, AxMxP, POW, WHIB, SUNGMIN, CATCH THE YOUNG, ATEEZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "934회",
+    "musicEP": "935회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">GRANADA, KiiiKiii, i-dle, Tak Song I, NAVILLERA, Jo Hwy, KiXÉ, 8TURN, POW, WHIB, AxMxP, ALPHA DRIVE ONE, Kim Juntae, SUNGMIN, ATEEZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1298회",
+    "musicEP": "1299회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">dodree, KiiiKiii, i-dle, SKINZ, ALPHA DRIVE ONE, AxMxP, Tak Song I, JUNTAE, SUNGMIN, 8TURN, IM CHANG JUNG, POW, WHIB, ATEEZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
