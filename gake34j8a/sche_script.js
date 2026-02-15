@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1280회",
+    "musicEP": "1281회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">dodree, MADEIN, KiiiKiii, IVE, AxMxP, POW, TWS, Kim Jang Hoon, LA POEM, YANG YOSEOP, IM CHANG JUNG, Heejae(SEVENUS) feat. HYEONGJIN(DIGNITY), ATEEZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "935회",
+    "musicEP": "936회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">NA YUL, MADEIN, Han GaBin, KiiiKiii, IVE, POW, AxMxP, CHOI SOO HO, KiXÉ, TWS, LA POEM, Sentimental Squad, Kim Jang Hoon, IM CHANG JUNG, YANG YOSEOP, ATEEZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1299회",
+    "musicEP": "1300회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Han Ga Bin, MADEIN, KiiiKiii, IVE, POW, Heejae(SEVENUS), YANG YOSEOP, AxMxP, Lee DoJin, CHOI SOO HO, TWS, Kim Jang Hoon, LA POEM, ATEEZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
