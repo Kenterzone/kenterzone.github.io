@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "917회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"><BEETLEJUICE></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, NAVILLERA, MADEIN, Hearts2Hearts, QWER, IVE, ChoCo1 X ChoCo2, DAILY:DIRECTION, LAVIN, ASC2NT, NCT JNJM, ONE PACT, CHASER, HWANG MIN HYUN</font>`
   },
 
   {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
