@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "936회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Aengdoo Girls, NAVILLERA, JUNG HYE RIN, X:IN, RESCENE, MADEIN, Hearts2Hearts, IVE, ChoCo1 X ChoCo2, ONE PACT, ASC2NT, LAVIN, DAILY:DIRECTION, CHASER, NCT JNJM, Park Ji Hyeon, HEEJAE(SEVENUS)</font>`
   },
 
   {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
