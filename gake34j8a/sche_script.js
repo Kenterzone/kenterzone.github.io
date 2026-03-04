@@ -21,7 +21,7 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "588회",
+    "musicEP": "589회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "917회",
+    "musicEP": "918회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, NAVILLERA, MADEIN, Hearts2Hearts, QWER, IVE, ChoCo1 X ChoCo2, DAILY:DIRECTION, LAVIN, ASC2NT, NCT JNJM, ONE PACT, CHASER, HWANG MIN HYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MADEIN, KiiiKiii, H1-KEY, EVERGLOW, IVE, ChoCo1 X ChoCo2, DAILY:DIRECTION, LAVIN, Big Ocean, ASC2NT, ONE PACT, TUNEXX, NCT JNJM, WOODZ, KIM SUNG KYU</font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1281회",
+    "musicEP": "1282회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, GRANADA, MADEIN, Hearts2Hearts, IVE, ChoCo1 X ChoCo2, CHASER, DAILY:DIRECTION, LAVIN, NCT JNJM, ONE PACT, Park Ji Hyeon, ASC2NT</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "936회",
+    "musicEP": "937회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Aengdoo Girls, NAVILLERA, JUNG HYE RIN, X:IN, RESCENE, MADEIN, Hearts2Hearts, IVE, ChoCo1 X ChoCo2, ONE PACT, ASC2NT, LAVIN, DAILY:DIRECTION, CHASER, NCT JNJM, Park Ji Hyeon, HEEJAE(SEVENUS)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1300회",
+    "musicEP": "1301회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">NAVILLERA, RESCENE, Hearts2Hearts, X:IN, JUNG HYE RIN, MADEIN, IVE, ONE PACT, CHASER, DAILY:DIRECTION, LAVIN, Park Ji Hyeon, ASC2NT, NCT JNJM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
