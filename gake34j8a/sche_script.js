@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1282회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">EVERGLOW, KiiiKiii, MADEIN, X:IN, Hearts2Hearts, H1-KEY, IVE, ChoCo1 X ChoCo2, DAILY:DIRECTION, LAVIN, ONE PACT, TUNEXX, KIM SUNG KYU, Park Ji Hyeon, ASC2NT, Sentimental Squad, SUCTION, WOODZ, NCT JNJM</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "937회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">KiiiKiii, MADEIN, X:IN, Hearts2Hearts, H1-KEY, EVERGLOW, IVE, ChoCo1 X ChoCo2, DAILY:DIRECTION, LAVIN, ONE PACT, TUNEXX, KIM SUNG KYU, Park Ji Hyeon, ASC2NT, Sentimental Squad, SUCTION, WOODZ, NCT JNJM</font>`
   },
 
   {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
