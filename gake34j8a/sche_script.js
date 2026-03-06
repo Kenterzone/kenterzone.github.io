@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "918회",
+    "musicEP": "919회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MADEIN, KiiiKiii, H1-KEY, EVERGLOW, IVE, ChoCo1 X ChoCo2, DAILY:DIRECTION, LAVIN, Big Ocean, ASC2NT, ONE PACT, TUNEXX, NCT JNJM, WOODZ, KIM SUNG KYU</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1282회",
+    "musicEP": "1283회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">EVERGLOW, KiiiKiii, MADEIN, X:IN, Hearts2Hearts, H1-KEY, IVE, ChoCo1 X ChoCo2, DAILY:DIRECTION, LAVIN, ONE PACT, TUNEXX, KIM SUNG KYU, Park Ji Hyeon, ASC2NT, Sentimental Squad, SUCTION, WOODZ, NCT JNJM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1301회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">X:IN, KiiiKiii, H1-KEY, EVERGLOW, Hearts2Hearts, IVE, DAILY:DIRECTION, Park Ji Hyeon, TUNEXX, SAEM, ASC2NT, NCT JNJM, WOODZ, KIM SUNG KYU</font>`
   },  ////SP_GUIDE/////
 
 {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
