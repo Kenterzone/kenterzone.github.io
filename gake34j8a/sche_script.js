@@ -21,9 +21,9 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "588회",
+    "musicEP": "589회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">RED OOPART, X:IN, MADEIN, H1-KEY, EVERGLOW, LAVIN, ONE PACT, QQQ, TUNEXX, SAEM, ASC2NT, JAY CHANG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1283회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, EVERGLOW, H1-KEY, Hearts2Hearts, MADEIN, ODD YOUTH, Song ziu, Han Ga Bin, Woo Yerin, YENA, Dragon Pony, LAVIN, NouerA, TUNEXX, V01D, ASC2NT, ONEW, KickFlip, P1Harmony</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "938회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Song ziu, GYUBIN X DOHOON, Baby DONT Cry, ODD YOUTH, MADEIN, Hearts2Hearts, H1-KEY, YENA, In A Minute, TUNEXX, V01D, LAVIN, Big Ocean, ONEW, Dragon Pony, KickFlip, NouerA, P1Harmony</font>`
   },
 
   {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
