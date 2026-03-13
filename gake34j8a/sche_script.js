@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "919회",
+    "musicEP": "920회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Song ziu, Baby DONT Cry, ODD YOUTH, MADEIN, Hearts2Hearts, H1-KEY, YENA, NouerA, Dragon Pony, V01D, TUNEXX, In A Minute, JAY CHANG, ONEW, KickFlip, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1302회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Song ziu, ODD YOUTH, Baby DONT Cry, MADEIN, H1-KEY, YENA, LAVIN, V01D, SKINZ, TUNEXX, NouerA, Dragon Pony, ONEW, In A Minute, KickFlip</font>`
   },  ////SP_GUIDE/////
 
 {
@@ -141,6 +141,7 @@ function setup(){
     //setTimeout(function(){document.getElementById("ad_info").innerHTML =``;},60000);
 	document.getElementById("livechat").innerHTML =`<iframe src="https://www.twitch.tv/embed/rollelmoberry/chat?darkpopout&parent=Kenterzone.github.io" style="border: 0;height: 85%;width:100%;" frameborder="no" ></iframe>`;
 }
+
 
 
 
