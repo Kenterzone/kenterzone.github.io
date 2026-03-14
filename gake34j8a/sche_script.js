@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1283회",
+    "musicEP": "1284회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, EVERGLOW, H1-KEY, Hearts2Hearts, MADEIN, ODD YOUTH, Song ziu, Han Ga Bin, Woo Yerin, YENA, Dragon Pony, LAVIN, NouerA, TUNEXX, V01D, ASC2NT, ONEW, KickFlip, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
