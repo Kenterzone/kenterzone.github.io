@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "938회",
+    "musicEP": "939회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Song ziu, GYUBIN X DOHOON, Baby DONT Cry, ODD YOUTH, MADEIN, Hearts2Hearts, H1-KEY, YENA, In A Minute, TUNEXX, V01D, LAVIN, Big Ocean, ONEW, Dragon Pony, KickFlip, NouerA, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1302회",
+    "musicEP": "1303회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Song ziu, ODD YOUTH, Baby DONT Cry, MADEIN, H1-KEY, YENA, LAVIN, V01D, SKINZ, TUNEXX, NouerA, Dragon Pony, ONEW, In A Minute, KickFlip</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
