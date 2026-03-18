@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "920회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ATENCY, AtHeart, ODD YOUTH, cosmosy, H1-KEY, YENA, ITZY, Mighty Mouth With Minyoung(BBGIRLS), NouerA, V01D, AmbiO, ALL(H)OURS, Lim Se Jun, CHOI JUNSEONG(Jun S), TUNEXX, AB6IX, P1Harmony</font>`
   },
 
   {
