@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1284회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, cosmosy, LATENCY, ODD YOUTH, H1-KEY, YENA, Mighty Mouth (feat. Minyoung(BBGIRLS)), V01D, ALL(H)OURS, AmbiO, In A Minute, NouerA, TUNEXX, Big Ocean, Lim Se Jun, Jay Chang, Woo Yerin, AB6IX, P1Harmony</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "939회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, cosmosy, ODD YOUTH, H1-KEY, YENA, Mighty Mouth (feat. Minyoung(BBGIRLS)), In A Minute, TUNEXX, V01D, AmbiO, NA TAE JOO, ALL(H)OURS, Big Ocean, NouerA, AB6IX, P1Harmony</font>`
   },
 
   {
