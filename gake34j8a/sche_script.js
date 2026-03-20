@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "920회",
+    "musicEP": "921회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ATENCY, AtHeart, ODD YOUTH, cosmosy, H1-KEY, YENA, ITZY, Mighty Mouth With Minyoung(BBGIRLS), NouerA, V01D, AmbiO, ALL(H)OURS, Lim Se Jun, CHOI JUNSEONG(Jun S), TUNEXX, AB6IX, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1284회",
+    "musicEP": "1285회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, cosmosy, LATENCY, ODD YOUTH, H1-KEY, YENA, Mighty Mouth (feat. Minyoung(BBGIRLS)), V01D, ALL(H)OURS, AmbiO, In A Minute, NouerA, TUNEXX, Big Ocean, Lim Se Jun, Jay Chang, Woo Yerin, AB6IX, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1303회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Woo Yerin, AtHeart, cosmosy, ODD YOUTH, H1-KEY, YENA, Mighty Mouth (feat. Minyoung(BBGIRLS)), In A Minute, V01D, Big Ocean, NA TAE JOO, NouerA, AmbiO, ALL(H)OURS, TUNEXX, P1Harmony, AB6IX</font>`
   },  ////SP_GUIDE/////
 
 {
