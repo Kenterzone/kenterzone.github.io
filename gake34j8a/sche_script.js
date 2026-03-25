@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "921회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">OWIS, H//PE Princess, CUTIE STREET, cosmosy, Baby DONT Cry, AtHeart, ODD YOUTH, CSR, YENA, YUNA(ITZY), Moon Byul, DIGNITY, KANGMIN, NouerA, ALL(H)OURS, AB6IX</font>`
   },
 
   {
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "939회",
+    "musicEP": "940회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, cosmosy, ODD YOUTH, H1-KEY, YENA, Mighty Mouth (feat. Minyoung(BBGIRLS)), In A Minute, TUNEXX, V01D, AmbiO, NA TAE JOO, ALL(H)OURS, Big Ocean, NouerA, AB6IX, P1Harmony</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1303회",
+    "musicEP": "1304회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Woo Yerin, AtHeart, cosmosy, ODD YOUTH, H1-KEY, YENA, Mighty Mouth (feat. Minyoung(BBGIRLS)), In A Minute, V01D, Big Ocean, NA TAE JOO, NouerA, AmbiO, ALL(H)OURS, TUNEXX, P1Harmony, AB6IX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
