@@ -42,12 +42,12 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1285회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, RED OOPART, AtHeart, Baby DONT Cry, cosmosy, CSR, ODD YOUTH, H1-KEY, YENA, YUNA(ITZY), Moon Byul, V01D, Sentimental Squad, ALL(H)OURS, AmbiO, DIGNITY, NouerA, KANGMIN, AB6IX</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Core",
     "musicEP": "940회",
     "musictime": "15:20KST",
