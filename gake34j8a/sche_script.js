@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "921회",
+    "musicEP": "922회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">OWIS, H//PE Princess, CUTIE STREET, cosmosy, Baby DONT Cry, AtHeart, ODD YOUTH, CSR, YENA, YUNA(ITZY), Moon Byul, DIGNITY, KANGMIN, NouerA, ALL(H)OURS, AB6IX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1304회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, AtHeart, cosmosy, Kim EuiYoung, ODD YOUTH, Baby DONT Cry, CSR, H1-KEY, YENA, YUNA(ITZY), Moon Byul, DIGNITY, V01D, AmbiO, ALL(H)OURS, NouerA, KANGMIN, AB6IX</font>`
   },  ////SP_GUIDE/////
 
 {
