@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1285회",
+    "musicEP": "1286회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, RED OOPART, AtHeart, Baby DONT Cry, cosmosy, CSR, ODD YOUTH, H1-KEY, YENA, YUNA(ITZY), Moon Byul, V01D, Sentimental Squad, ALL(H)OURS, AmbiO, DIGNITY, NouerA, KANGMIN, AB6IX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1304회",
+    "musicEP": "1305회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, AtHeart, cosmosy, Kim EuiYoung, ODD YOUTH, Baby DONT Cry, CSR, H1-KEY, YENA, YUNA(ITZY), Moon Byul, DIGNITY, V01D, AmbiO, ALL(H)OURS, NouerA, KANGMIN, AB6IX</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
