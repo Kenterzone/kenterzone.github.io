@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "922회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, AtHeart, Seo EVE, Baby DONT Cry, CSR, Kep1er, YUNA(ITZY), IRENE, V01D, SO JUNG HWAN X PARK GUN WOOK X Kyehoon, SLAY, AmbiO, ALL(H)OURS, JANG HANEUM, KINO, KANGMIN</font>`
   },
 
   {
