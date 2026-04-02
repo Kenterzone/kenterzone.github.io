@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "922회",
+    "musicEP": "923회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, AtHeart, Seo EVE, Baby DONT Cry, CSR, Kep1er, YUNA(ITZY), IRENE, V01D, SO JUNG HWAN X PARK GUN WOOK X Kyehoon, SLAY, AmbiO, ALL(H)OURS, JANG HANEUM, KINO, KANGMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,16 +42,16 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1286회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, AtHeart, Baby DONT Cry, Min Jiwoon, Seo EVE, CSR, YUNA(ITZY), Kep1er, IRENE, SLAY, V01D, ALL(H)OURS, AmbiO, KINO, KANGMIN, N.Flying, JANG HANEUM</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Core",
     "musicEP": "940회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">OWIS, AtHeart, Seo EVE, Min Jiwoon, ODD YOUTH, Baby DONT Cry, YUNA(ITZY), Kep1er, IRENE, V01D, AmbiO, SLAY, KINO, KANGMIN, NA TAE JOO, JANG HANEUM, ALL(H)OURS</font>`
   },
 
   {
