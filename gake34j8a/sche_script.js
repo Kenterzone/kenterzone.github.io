@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1305회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, Seo EVER, OWIS, Min Jiwoon, AtHeart, Baby DONT Cry, CSR, Kep1er, YUNA(ITZY), IRENE, V01D, SLAY, KANGMIN, DIGNITY, Parc Jae Jung, ALL(H)OURS, JANG HANEUM</font>`
   },  ////SP_GUIDE/////
 
 {
