@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "923회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, Min Jiwoon, OWIS, AtHeart, Baby DONT Cry, Seo EVER, CSR, Kep1er, YUNA(ITZY), IRENE, V01D, SLAY, ALL(H)OURS, DIGNITY, Parc Jae Jung, JANG HANEUM, KANGMIN</font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1286회",
+    "musicEP": "1287회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, AtHeart, Baby DONT Cry, Min Jiwoon, Seo EVE, CSR, YUNA(ITZY), Kep1er, IRENE, SLAY, V01D, ALL(H)OURS, AmbiO, KINO, KANGMIN, N.Flying, JANG HANEUM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "940회",
+    "musicEP": "941회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">OWIS, AtHeart, Seo EVE, Min Jiwoon, ODD YOUTH, Baby DONT Cry, YUNA(ITZY), Kep1er, IRENE, V01D, AmbiO, SLAY, KINO, KANGMIN, NA TAE JOO, JANG HANEUM, ALL(H)OURS</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1305회",
+    "musicEP": "1306회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, Seo EVER, OWIS, Min Jiwoon, AtHeart, Baby DONT Cry, CSR, Kep1er, YUNA(ITZY), IRENE, V01D, SLAY, KANGMIN, DIGNITY, Parc Jae Jung, ALL(H)OURS, JANG HANEUM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
