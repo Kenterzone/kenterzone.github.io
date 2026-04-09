@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1287회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, cosmosy, RESCENE, Baby DONT Cry, KISS OF LIFE, YOUNG POSSE, DAYOUNG, Kep1er, HWASA, IRENE, KEYVITUP, hrtz.wav, AMPERS&ONE, DIGNITY, KickFlip, JANG HANEUM</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "941회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, Baby DONT Cry, RESCENE, YOUNG POSSE, KISS OF LIFE, DAYOUNG, Kep1er, HWASA, IRENE, hrtz.wav, KEYVITUP, KickFlip, KINO, AMPERS&ONE, JANG HANEUM</font>`
   },
 
   {
