@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "923회",
+    "musicEP": "924회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, Min Jiwoon, OWIS, AtHeart, Baby DONT Cry, Seo EVER, CSR, Kep1er, YUNA(ITZY), IRENE, V01D, SLAY, ALL(H)OURS, DIGNITY, Parc Jae Jung, JANG HANEUM, KANGMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1306회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, Baby DONT Cry, RESCENE, YOUNG POSSE, KISS OF LIFE, Kep1er, DAYOUNG, IRENE, HWASA, hrtz.wav, DIGNITY, AMPERS&ONE, JANG HANEUM, KEYVITUP, KickFlip</font>`
   },  ////SP_GUIDE/////
 
 {
