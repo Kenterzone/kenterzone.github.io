@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "924회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">1000°, ifeye, cosmosy, RESCENE, KISS OF LIFE, DAYOUNG, MODYSSEY, BE BOYS, PLAVE, hrtz.wav, SANTOS BRAVOS, AMPERS&ONE, ALL’N, KEYVITUP, KickFlip, HAON, TOMORROW X TOGETHER</font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1287회",
+    "musicEP": "1288회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">S2IT, cosmosy, RESCENE, Baby DONT Cry, KISS OF LIFE, YOUNG POSSE, DAYOUNG, Kep1er, HWASA, IRENE, KEYVITUP, hrtz.wav, AMPERS&ONE, DIGNITY, KickFlip, JANG HANEUM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "941회",
+    "musicEP": "942회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, Baby DONT Cry, RESCENE, YOUNG POSSE, KISS OF LIFE, DAYOUNG, Kep1er, HWASA, IRENE, hrtz.wav, KEYVITUP, KickFlip, KINO, AMPERS&ONE, JANG HANEUM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1306회",
+    "musicEP": "1307회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">cosmosy, Baby DONT Cry, RESCENE, YOUNG POSSE, KISS OF LIFE, Kep1er, DAYOUNG, IRENE, HWASA, hrtz.wav, DIGNITY, AMPERS&ONE, JANG HANEUM, KEYVITUP, KickFlip</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
