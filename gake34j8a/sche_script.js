@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1288회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">VVS, 1000°, ifeye, LEE JI MIN, cosmosy, RESCENE, KISS OF LIFE, DAYOUNG, BE BOYS, hrtz.wav, KEYVITUP, KickFlip, MODYSSEY, SANTOS BRAVOS, AMPERS&ONE, ALL’N, TOMORROW X TOGETHER</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "942회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">VVS, LEE JI MIN, 1000°, ifeye, cosmosy, RESCENE, KISS OF LIFE, DAYOUNG, PLAVE, AMPERS&ONE, KickFlip, BE BOYS, SANTOS BRAVOS, TOMORROW X TOGETHER, KEYVITUP, hrtz.wav, MODYSSEY, ALL’N</font>`
   },
 
   {
