@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "924회",
+    "musicEP": "925회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">1000°, ifeye, cosmosy, RESCENE, KISS OF LIFE, DAYOUNG, MODYSSEY, BE BOYS, PLAVE, hrtz.wav, SANTOS BRAVOS, AMPERS&ONE, ALL’N, KEYVITUP, KickFlip, HAON, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1288회",
+    "musicEP": "1289회",
     "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">VVS, 1000°, ifeye, LEE JI MIN, cosmosy, RESCENE, KISS OF LIFE, DAYOUNG, BE BOYS, hrtz.wav, KEYVITUP, KickFlip, MODYSSEY, SANTOS BRAVOS, AMPERS&ONE, ALL’N, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1307회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">1000°, cosmosy, RED OOPART, ifeye, RESCENE, KISS OF LIFE, DAYOUNG, MODYSSEY, BE BOYS, SANTOS BRAVOS, AMPERS&ONE, ALL’N, KEYVITUP, KickFlip, hrtz.wav, TOMORROW X TOGETHER</font>`
   },  ////SP_GUIDE/////
 
 {
