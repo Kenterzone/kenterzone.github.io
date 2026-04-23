@@ -41,8 +41,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1289회",
-    "musictime": "17:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "17:00KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, DAYOUNG, LE SSERAFIM, CLOSE YOUR EYES, CORTIS, EVNNE, INI, KEYVITUP, KickFlip, MODYSSEY, AMPERS&ONE, Lee Ji-Hoon, NCT WISH, Xdinary Heroes, KIM JAE HWAN, &TEAM, B1A4, TOMORROW X TOGETHER</font>`
   },
   {
     "mair": "nomal",
