@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "943회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, KISS OF LIFE, DAYOUNG, LE SSERAFIM, Xdinary Heroes, INI, PLAVE, EVNNE, AMPERS&ONE, NCT WISH, KickFlip, CLOSE YOUR EYES, CORTIS, SANTOS BRAVOS, MODYSSEY, Lee Ji-Hoon, &TEAM, DONGHAE, KIM JAE HWAN, TOMORROW X TOGETHER</font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1308회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, RESCENE, KISS OF LIFE, DAYOUNG, LE SSERAFIM, CLOSE YOUR EYES, CORTIS, SANTOS BRAVOS, INI, Xdinary Heroes, &TEAM, EVNNE, AMPERS&ONE, NCT WISH, KickFlip, MODYSSEY, Lee Ji-Hoon, KIM JAE HWAN, TOMORROW X TOGETHER</font>`
   },  ////SP_GUIDE/////
 
 {
