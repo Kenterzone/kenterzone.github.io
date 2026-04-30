@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "925회",
+    "musicEP": "926회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, ifeye, KISS OF LIFE, DAYOUNG, MODYSSEY, CORTIS, CLOSE YOUR EYES, hrtz.wav, SANTOS BRAVOS, INI, KickFlip, &TEAM, AMPERS&ONE, Xdinary Heroes, EVNNE, Lee Ji-Hoon, NCT WISH, KIM JAE HWAN, DONGHAE, B1A4, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, KATSEYE, QWER, ILLIT, YUJU, LEE CHAEYEON, SOYOU, LE SSERAFIM, NEXZ, PARK JI HOON, XngHan&Xoul, CLOSE YOUR EYES, KEYVITUP, EVNNE, CORTIS, 82MAJOR, NCT WISH, CRAVITY, TWS, &TEA</font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1289회",
+    "musicEP": "1290회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, DAYOUNG, LE SSERAFIM, CLOSE YOUR EYES, CORTIS, EVNNE, INI, KEYVITUP, KickFlip, MODYSSEY, AMPERS&ONE, Lee Ji-Hoon, NCT WISH, Xdinary Heroes, KIM JAE HWAN, &TEAM, B1A4, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">JADU, UNCHILD, ILLIT, YUJU, LEE CHAEYEON, CLOSE YOUR EYES, CORTIS, XngHan&Xoul, PARK JI HOON, CRAVITY, EVNNE, KEYVITUP, NCT WISH, NEXZ, TWS, &TEAM, 82MAJOR</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "943회",
+    "musicEP": "944회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, KISS OF LIFE, DAYOUNG, LE SSERAFIM, Xdinary Heroes, INI, PLAVE, EVNNE, AMPERS&ONE, NCT WISH, KickFlip, CLOSE YOUR EYES, CORTIS, SANTOS BRAVOS, MODYSSEY, Lee Ji-Hoon, &TEAM, DONGHAE, KIM JAE HWAN, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, KATSEYE, Whee In, QWER, ILLIT, LEE CHAEYEON, LE SSERAFIM, CLOSE YOUR EYES, XngHan&Xoul, CORTIS, KEYVITUP, ORβIT, EVNNE, 82MAJOR, TWS, NCT WISH, NEXZ, PARK JI HOON, CRAVITY, &TEAM</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1308회",
+    "musicEP": "1309회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, RESCENE, KISS OF LIFE, DAYOUNG, LE SSERAFIM, CLOSE YOUR EYES, CORTIS, SANTOS BRAVOS, INI, Xdinary Heroes, &TEAM, EVNNE, AMPERS&ONE, NCT WISH, KickFlip, MODYSSEY, Lee Ji-Hoon, KIM JAE HWAN, TOMORROW X TOGETHER</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
