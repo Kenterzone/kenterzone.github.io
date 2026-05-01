@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "926회",
+    "musicEP": "927회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, KATSEYE, QWER, ILLIT, YUJU, LEE CHAEYEON, SOYOU, LE SSERAFIM, NEXZ, PARK JI HOON, XngHan&Xoul, CLOSE YOUR EYES, KEYVITUP, EVNNE, CORTIS, 82MAJOR, NCT WISH, CRAVITY, TWS, &TEA</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1309회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, KATSEYE, ILLIT, LEE CHAEYEON, LE SSERAFIM, NEXZ, 5TION, EVNNE, CORTIS, XngHan&Xoul, CLOSE YOUR EYES, 82MAJOR, KEYVITUP, TWS, PARK JI HOON, &TEAM, NCT WISH, CRAVITY</font>`
   },  ////SP_GUIDE/////
 
 {
