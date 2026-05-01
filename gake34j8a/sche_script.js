@@ -59,7 +59,7 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1309회",
+    "musicEP": "1308회",
     "musictime": "15:10KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, KATSEYE, ILLIT, LEE CHAEYEON, LE SSERAFIM, NEXZ, 5TION, EVNNE, CORTIS, XngHan&Xoul, CLOSE YOUR EYES, 82MAJOR, KEYVITUP, TWS, PARK JI HOON, &TEAM, NCT WISH, CRAVITY</font>`
   },  ////SP_GUIDE/////
