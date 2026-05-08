@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1290회",
+    "musicEP": "1292회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">JADU, UNCHILD, ILLIT, YUJU, LEE CHAEYEON, CLOSE YOUR EYES, CORTIS, XngHan&Xoul, PARK JI HOON, CRAVITY, EVNNE, KEYVITUP, NCT WISH, NEXZ, TWS, &TEAM, 82MAJOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "944회",
+    "musicEP": "945회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, KATSEYE, Whee In, QWER, ILLIT, LEE CHAEYEON, LE SSERAFIM, CLOSE YOUR EYES, XngHan&Xoul, CORTIS, KEYVITUP, ORβIT, EVNNE, 82MAJOR, TWS, NCT WISH, NEXZ, PARK JI HOON, CRAVITY, &TEAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, JADU, KIIRAS, Lee Ye Joon, BABYMONSTER, ILLIT, Billlie, LEE CHAEYEON, NEXZ, XngHan&Xoul, CORTIS, NAZE, YUHZ, CRAVITY, 82MAJOR, TWS, NCT WISH</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1308회",
+    "musicEP": "1309회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, KATSEYE, ILLIT, LEE CHAEYEON, LE SSERAFIM, NEXZ, 5TION, EVNNE, CORTIS, XngHan&Xoul, CLOSE YOUR EYES, 82MAJOR, KEYVITUP, TWS, PARK JI HOON, &TEAM, NCT WISH, CRAVITY</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, ifeye, KIIRAS, Gavy NJ, BABYMONSTER, Billlie, ILLIT, Lee Ye Joon, LEE CHAEYEON, ORβIT, YUHZ, NAZE, NEXZ, XngHan&Xoul, NCT WISH, CORTIS, CRAVITY, TWS</font>`
   },  ////SP_GUIDE/////
 
 {
