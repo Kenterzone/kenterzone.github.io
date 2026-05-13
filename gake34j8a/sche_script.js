@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "927회",
+    "musicEP": "928회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, KIIRAS, H//PE Princess, CrazAngel, BABYMONSTER, ILLIT, Billlie, aespa, NMIXX, NAZE, FLARE U, B:DAWN, XngHan&Xoul, 82MAJOR, YOUNITE, YUHZ, ChaDongHyeop, CORTIS, TWS, BOYNEXTDOOR</font>`
   },
 
   {
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "945회",
+    "musicEP": "946회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, JADU, KIIRAS, Lee Ye Joon, BABYMONSTER, ILLIT, Billlie, LEE CHAEYEON, NEXZ, XngHan&Xoul, CORTIS, NAZE, YUHZ, CRAVITY, 82MAJOR, TWS, NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1309회",
+    "musicEP": "1310회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, ifeye, KIIRAS, Gavy NJ, BABYMONSTER, Billlie, ILLIT, Lee Ye Joon, LEE CHAEYEON, ORβIT, YUHZ, NAZE, NEXZ, XngHan&Xoul, NCT WISH, CORTIS, CRAVITY, TWS</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
