@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1292회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">H//PE Princess, UNCHILD, ILLIT, Billlie, aespa, NMIXX, CORTIS, FLARE U, NAZE, TWS, XngHan&Xoul, YOUNITE, YUHZ, ChaDongHyeop, Forestella, 82MAJOR, BOYNEXTDOOR</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "946회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CrazAngel, UNCHILD, KIIRAS, H//PE Princess, ILLIT, BABYMONSTER, aespa, Billlie, NMIXX, YOUNITE, ChaDongHyeop, XngHan&Xoul, CORTIS, NAZE, FLARE U, 82MAJOR, TWS, BOYNEXTDOOR</font>`
   },
 
   {
