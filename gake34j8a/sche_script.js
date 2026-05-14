@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "928회",
+    "musicEP": "929회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, KIIRAS, H//PE Princess, CrazAngel, BABYMONSTER, ILLIT, Billlie, aespa, NMIXX, NAZE, FLARE U, B:DAWN, XngHan&Xoul, 82MAJOR, YOUNITE, YUHZ, ChaDongHyeop, CORTIS, TWS, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
