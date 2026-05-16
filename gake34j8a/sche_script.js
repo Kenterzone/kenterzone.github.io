@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1292회",
+    "musicEP": "1293회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">H//PE Princess, UNCHILD, ILLIT, Billlie, aespa, NMIXX, CORTIS, FLARE U, NAZE, TWS, XngHan&Xoul, YOUNITE, YUHZ, ChaDongHyeop, Forestella, 82MAJOR, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "946회",
+    "musicEP": "947회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">CrazAngel, UNCHILD, KIIRAS, H//PE Princess, ILLIT, BABYMONSTER, aespa, Billlie, NMIXX, YOUNITE, ChaDongHyeop, XngHan&Xoul, CORTIS, NAZE, FLARE U, 82MAJOR, TWS, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1310회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CrazAngel, H//PE Princess, UNCHILD, KIIRAS, BABYMONSTER, Billlie, ILLIT, JADU, aespa, NMIXX, FLARE U, XngHan&Xoul, 82MAJOR, YOUNITE, ChaDongHyeop, TWS, CORTIS, NAZE, BOYNEXTDOOR</font>`
   },  ////SP_GUIDE/////
 
 {
