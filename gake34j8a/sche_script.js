@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "929회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">H//PE Princess, NAZE, Billlie, BIBI, I.O.I, NMIXX, ITZY, LNGSHOT, SHOWNU X HYUNGWON(MONSTA X), YOUNITE, YOON SAN-HA, ChaDongHyeop, CORTIS, FLARE U, ZEROBASEONE, HANHAE, Moon Se Yoon(feat. CHUU), TAEYANG, TAEYONG</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1310회",
+    "musicEP": "1311회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">CrazAngel, H//PE Princess, UNCHILD, KIIRAS, BABYMONSTER, Billlie, ILLIT, JADU, aespa, NMIXX, FLARE U, XngHan&Xoul, 82MAJOR, YOUNITE, ChaDongHyeop, TWS, CORTIS, NAZE, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
