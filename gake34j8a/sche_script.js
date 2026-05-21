@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "947회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">H//PE Princess, Billlie, BIBI, LE SSERAFIM, NMIXX, I.O.I, ITZY, YOON SAN-HA, YOUNITE, xikers, Jay Park & LNGSHOT, SHOWNU X HYUNGWON(MONSTA X), ZEROBASEONE, CORTIS, FLARE U, YUHZ, Park Hyun Kyu, TAEYONG, TAEYANG</font>`
   },
 
   {
