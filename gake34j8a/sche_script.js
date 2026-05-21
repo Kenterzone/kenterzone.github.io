@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "929회",
+    "musicEP": "930회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">H//PE Princess, NAZE, Billlie, BIBI, I.O.I, NMIXX, ITZY, LNGSHOT, SHOWNU X HYUNGWON(MONSTA X), YOUNITE, YOON SAN-HA, ChaDongHyeop, CORTIS, FLARE U, ZEROBASEONE, HANHAE, Moon Se Yoon(feat. CHUU), TAEYANG, TAEYONG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
