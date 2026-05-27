@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "930회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, Queenz Eye, HEART OF WOMAN, ILLIT, BIBI, I.O.I, ITZY, LE SSERAFIM, IDID, ALPHA DRIVE ONE, AND2BLE, ONEWE, YOUNITE, YUHZ, ZEROBASEONE, CORTIS, FLARE U, XLOV, Park Hyun Kyu, YOON SAN-HA, TAEYONG</font>`
   },
 
   {
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "947회",
+    "musicEP": "948회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">H//PE Princess, Billlie, BIBI, LE SSERAFIM, NMIXX, I.O.I, ITZY, YOON SAN-HA, YOUNITE, xikers, Jay Park & LNGSHOT, SHOWNU X HYUNGWON(MONSTA X), ZEROBASEONE, CORTIS, FLARE U, YUHZ, Park Hyun Kyu, TAEYONG, TAEYANG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,7 +59,7 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1311회",
+    "musicEP": "1312회",
     "musictime": "15:10KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
