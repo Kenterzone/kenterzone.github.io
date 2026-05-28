@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1293회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HEART OF WOMAN, UNCHILD, ILLIT, aespa, LE SSERAFIM, ITZY, AND2BLE, FLARE U, IDID, ONEWE, xikers, YOUNITE, YUHZ, ALPHA DRIVE ONE, ZEROBASEONE, Park Hyun Kyu, TAEYANG, TAEYONG</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,8 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "948회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">
+UNCHILD, Queenz Eye, HA JIWON, ILLIT, LE SSERAFIM, aespa, ITZY, AND2BLE, CORTIS, IDID, ALPHA DRIVE ONE, FLARE U, YUHZ, ONEWE, YOUNITE, xikers, ZEROBASEONE, Park Hyun Kyu, XLOV, YOON SAN-HA, TAEYONG</font>`
   },
 
   {
