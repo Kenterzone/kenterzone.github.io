@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "930회",
+    "musicEP": "931회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, Queenz Eye, HEART OF WOMAN, ILLIT, BIBI, I.O.I, ITZY, LE SSERAFIM, IDID, ALPHA DRIVE ONE, AND2BLE, ONEWE, YOUNITE, YUHZ, ZEROBASEONE, CORTIS, FLARE U, XLOV, Park Hyun Kyu, YOON SAN-HA, TAEYONG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1293회",
+    "musicEP": "1294회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HEART OF WOMAN, UNCHILD, ILLIT, aespa, LE SSERAFIM, ITZY, AND2BLE, FLARE U, IDID, ONEWE, xikers, YOUNITE, YUHZ, ALPHA DRIVE ONE, ZEROBASEONE, Park Hyun Kyu, TAEYANG, TAEYONG</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -62,7 +62,7 @@ UNCHILD, Queenz Eye, HA JIWON, ILLIT, LE SSERAFIM, aespa, ITZY, AND2BLE, CORTIS,
     "musicname": "Inkigayo",
     "musicEP": "1312회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, Queenz Eye, ILLIT, LE SSERAFIM, BIBI, aespa, ITZY, XLOV, YUHZ, IDID, ALPHA DRIVE ONE, AND2BLE, ONEWE, FLARE U, xikers, Park Hyun Kyu, ZEROBASEONE, TAEYANG, TAEYONG</font>`
   },  ////SP_GUIDE/////
 
 {
