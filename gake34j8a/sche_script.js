@@ -12,16 +12,16 @@ const musicGuid =[
     "date": "Tue.", 
     "musiconoroff" : false,
     "musicname": "The Show",
-    "musicEP": "394회",
+    "musicEP": "395회",
     "musictime": "18:00KST",
-    "musicsetlist":`ShowGuest:CrazAngel, HEART OF WOMAN, LOVEONE, Queenz Eye, XODIAC, XLOV, AND2BLE, FLARE U, ALPHA DRIVE ONE, ONEWE, xikers`
+    "musicsetlist":`ShowGuest:`
   },
   {
     "mair": "nomal",
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "589회",
+    "musicEP": "590회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -30,7 +30,7 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "931회",
+    "musicEP": "932회",
     "musictime": "18:08KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1294회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CUTIE STREET, FIFTY FIFTY, MEOVV, tripleS, aespa, MAMAMOO, IDID, xikers, XODIAC, DDB, XLOV, ALPHA DRIVE ONE, AND2BLE, BOYFRIEND, CORTIS</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "949회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HEART OF WOMAN, Shin Jang Mi, Queenz Eye, MEOVV, FIFTY FIFTY, tripleS, aespa, MAMAMOO, AND2BLE, IDID, ALPHA DRIVE ONE, DDB, XLOV, BOYFRIEND, TREASURE, xikers, XODIAC</font>`
   },
 
   {
