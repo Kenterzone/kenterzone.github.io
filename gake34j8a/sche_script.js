@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1313회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Shin Jang Mi, Jisun(Loveholic), Queenz Eye, MEOVV, tripleS, aespa, MAMAMOO, ALPHA DRIVE ONE, AND2BLE, CORTIS, XODIAC, xikers, IDID, TREASURE, XLOV</font>`
   },  ////SP_GUIDE/////
 
 {
