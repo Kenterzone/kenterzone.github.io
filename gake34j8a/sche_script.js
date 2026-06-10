@@ -21,7 +21,7 @@ const musicGuid =[
     "date": "Wed.",
     "musiconoroff" : true,
     "musicname": "ShowChampion",
-    "musicEP": "590회",
+    "musicEP": "601회",
     "musictime": "17:00KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "932회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">EJel, izna, Queenz Eye, HEART OF WOMAN, tripleS, FIFTY FIFTY, MEOVV, BABYMONSTER, LE SSERAFIM, ILLIT, KATSEYE, XODIAC, IDID, AND2BLE, EPEX, Mighty Mouth, MigakBoys (With LEE SANG YI), TREASURE, Samuel, BOYNEXTDOOR</font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1294회",
+    "musicEP": "1295회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">CUTIE STREET, FIFTY FIFTY, MEOVV, tripleS, aespa, MAMAMOO, IDID, xikers, XODIAC, DDB, XLOV, ALPHA DRIVE ONE, AND2BLE, BOYFRIEND, CORTIS</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "949회",
+    "musicEP": "950회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HEART OF WOMAN, Shin Jang Mi, Queenz Eye, MEOVV, FIFTY FIFTY, tripleS, aespa, MAMAMOO, AND2BLE, IDID, ALPHA DRIVE ONE, DDB, XLOV, BOYFRIEND, TREASURE, xikers, XODIAC</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1313회",
+    "musicEP": "1314회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Shin Jang Mi, Jisun(Loveholic), Queenz Eye, MEOVV, tripleS, aespa, MAMAMOO, ALPHA DRIVE ONE, AND2BLE, CORTIS, XODIAC, xikers, IDID, TREASURE, XLOV</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">V</font>`
   },  ////SP_GUIDE/////
 
 {
