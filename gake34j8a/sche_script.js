@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1295회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">CrazAngel, EJel, Queenz Eye, HEART OF WOMAN, izna, FIFTY FIFTY, MEOVV, tripleS, AND2BLE, AHOF, EPEX, IDID, XODIAC, Mighty Mouth, Samuel, BOYNEXTDOOR</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "950회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">EJel, CrazAngel, HEART OF WOMAN, Queenz Eye, izna, MEOVV, FIFTY FIFTY, tripleS, BABYMONSTER, AND2BLE, IDID, Mighty Mouth, EPEX, XODIAC, Samuel, TREASURE, BOYNEXTDOOR</font>`
   },
 
   {
