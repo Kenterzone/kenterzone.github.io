@@ -32,13 +32,13 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "933회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Rothy, HEART OF WOMAN, CrazAngel, USPEER, izna, RESCENE, MEOVV, U Sung Eun, FIFTY FIFTY, BABYMONSTER, STAYC, SEEYA, IDID, EPEX, XODIAC, RIIZE, Mighty Mouth, BOYNEXTDOOR</font>`
   },
 
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
     "musicEP": "1297회",
     "musictime": "17:00KST",
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "950회",
+    "musicEP": "951회",
     "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">EJel, CrazAngel, HEART OF WOMAN, Queenz Eye, izna, MEOVV, FIFTY FIFTY, tripleS, BABYMONSTER, AND2BLE, IDID, Mighty Mouth, EPEX, XODIAC, Samuel, TREASURE, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1314회",
+    "musicEP": "1315회",
     "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">tripleS, HEART OF WOMAN, CrazAngel, EJel, izna, MEOVV, BABYMONSTER, IDID, AND2BLE, EPEX, Cristina X YJP, Mighty Mouth (feat. Soya), TREASURE, BOYNEXTDOOR, Samuel, SHINee</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
