@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "933회",
+    "musicEP": "934회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Rothy, HEART OF WOMAN, CrazAngel, USPEER, izna, RESCENE, MEOVV, U Sung Eun, FIFTY FIFTY, BABYMONSTER, STAYC, SEEYA, IDID, EPEX, XODIAC, RIIZE, Mighty Mouth, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "951회",
-    "musictime": "15:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicEP": "951회(026 ULSAN Music Festival)",
+    "musictime": "15:05KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, dodree, KiiiKiii, izna, MEOVV, tripleS, Billlie, fromis_9, STAYC, Mighty Mouth, CLOSE YOUR EYES, IDID, ALPHA DRIVE ONE, LUCY, EPEX, Park JiHyeon, RIIZE, AND2BLE, KickFlip, N.Flying, xikers, BOYNEXTDOOR</font>`
   },
 
   {
@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1315회",
-    "musictime": "15:10KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "12:25KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Jeon Yu Jin, HEART OF WOMAN, U Sung Eun, USPEER, SEEYA, izna, MEOVV, BABYMONSTER, STAYC, Mighty Mouth (feat. Soya), RIIZE, XODIAC, IDID, EPEX, BOYNEXTDOOR</font>`
   },  ////SP_GUIDE/////
 
 {
