@@ -30,15 +30,15 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "934회",
+    "musicEP": "935회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HEART OF WOMAN, MW:MEU, dodree, AtHeart, USPEER, MEOVV, FIFTY FIFTY, Hearts2Hearts, izna, PRIMROSE, STAYC, RYEOWOOK, EVAN, ONF, EPEX, HYUNHAYO of TREASURE, RIIZE, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : true,
+    "musiconoroff" : false,
     "musicname": "Music Bank",
     "musicEP": "1297회",
     "musictime": "17:00KST",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "952회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">dodree, U Sung Eun, USPEER, AtHeart, izna, Hearts2Hearts, MEOVV, PRIMROSE, CLASSy, SEEYA, STAYC, RYEOWOOK, Kim Hee Jae, EVAN, EPEX, BOYNEXTDOOR, RIIZE, MiiWAN</font>`
   },
 
   {
