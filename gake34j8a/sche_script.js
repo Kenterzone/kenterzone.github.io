@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1316회",
-    "musictime": "12:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "15:25KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">dodree, USPEER, AtHeart, Hearts2Hearts, CLASSy, izna, MEOVV, STAYC, EVAN, EPEX, Kim Heejae, TREASURE, RIIZE, RYEOWOOK, ATEEZ, BOYNEXTDOOR</font>`
   },  ////SP_GUIDE/////
 
 {
