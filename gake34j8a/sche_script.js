@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "935회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, HAENA, dodree, AtHeart, UDTT, USPEER, UAU, izna, CHOI YOOJUNG, MEOVV, CLASSy, Hearts2Hearts, Baek A Yeon, V8, IDID, EVAN, RIIZE</font>`
   },
 
   {
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "952회",
+    "musicEP": "953회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">dodree, U Sung Eun, USPEER, AtHeart, izna, Hearts2Hearts, MEOVV, PRIMROSE, CLASSy, SEEYA, STAYC, RYEOWOOK, Kim Hee Jae, EVAN, EPEX, BOYNEXTDOOR, RIIZE, MiiWAN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1316회",
+    "musicEP": "1317회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">dodree, USPEER, AtHeart, Hearts2Hearts, CLASSy, izna, MEOVV, STAYC, EVAN, EPEX, Kim Heejae, TREASURE, RIIZE, RYEOWOOK, ATEEZ, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
