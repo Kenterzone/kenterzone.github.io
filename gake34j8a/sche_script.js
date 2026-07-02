@@ -30,19 +30,19 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "935회",
+    "musicEP": "936회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, HAENA, dodree, AtHeart, UDTT, USPEER, UAU, izna, CHOI YOOJUNG, MEOVV, CLASSy, Hearts2Hearts, Baek A Yeon, V8, IDID, EVAN, RIIZE</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Fri.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1297회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, AtHeart, CLASSy, Hearts2Hearts, HAENA, UDTT, USPEER, U Sung Eun, izna, MEOVV, Baek A Yeon, CHOI YOOJUNG, IDID, Kim Hee Jae, EVAN, ATEEZ, RIIZE, V8</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "953회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, HAENA, AtHeart, dodree, UDTT, USPEER, izna, CLASSy, PRIMROSE, MEOVV, Hearts2Hearts, Baek A Yeon, CHOI YOOJUNG, IDID, ATEEZ, EVAN, JANG HANEUM, RIIZE, V8</font>`
   },
 
   {
