@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "936회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, Hearts2Hearts, RESCENE, Lee YeJi, JUNIEL, CHOI YOOJUNG, i-dle, VAYONN, IDID, AHOF, ASCENDER, EVAN, JUNG DAE HYUN, CHOI KIHYUN(MONSTA X), NIEL(TEENTOP)SUNGYUN(Y)</font>`
   },
 
   {
@@ -40,24 +40,24 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1297회",
+    "musicEP": "1298회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, AtHeart, CLASSy, Hearts2Hearts, HAENA, UDTT, USPEER, U Sung Eun, izna, MEOVV, Baek A Yeon, CHOI YOOJUNG, IDID, Kim Hee Jae, EVAN, ATEEZ, RIIZE, V8</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "953회",
+    "musicEP": "954회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, HAENA, AtHeart, dodree, UDTT, USPEER, izna, CLASSy, PRIMROSE, MEOVV, Hearts2Hearts, Baek A Yeon, CHOI YOOJUNG, IDID, ATEEZ, EVAN, JANG HANEUM, RIIZE, V8</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
     "mair": "nomal",
     "date": "Sun.",
-    "musiconoroff" : false,
+    "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1317회",
     "musictime": "15:25KST",
