@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1298회",
     "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, UDTT, USPEER, RESCENE, Lee YeJi, JUNIEL, CHOI YOOJUNG, i-dle, ASCENDER, IDID, VAYONN, AHOF, EVAN, YEONJUN, JANG HANEUM, KIHYUN(MONSTA X)</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "954회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, Lee YeJi, CHOI YOOJUNG, UDTT, USPEER, RESCENE, Hearts2Hearts, BABYMONSTER, i-dle, ASCENDER, VAYONN, YEONJUN, EVAN, ANTARES, JANG HANEUM, AHOF, IDID, NIEL, KIHYUN(MONSTA X)</font>`
   },
 
   {
