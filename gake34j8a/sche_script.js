@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "936회",
+    "musicEP": "938회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, Hearts2Hearts, RESCENE, Lee YeJi, JUNIEL, CHOI YOOJUNG, i-dle, VAYONN, IDID, AHOF, ASCENDER, EVAN, JUNG DAE HYUN, CHOI KIHYUN(MONSTA X), NIEL(TEENTOP)SUNGYUN(Y)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1298회",
-    "musictime": "17:00KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, UDTT, USPEER, RESCENE, Lee YeJi, JUNIEL, CHOI YOOJUNG, i-dle, ASCENDER, IDID, VAYONN, AHOF, EVAN, YEONJUN, JANG HANEUM, KIHYUN(MONSTA X)</font>`
+    "musicEP": "1299회",
+    "musictime": "17:15KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Hat:q, GIRLSET, UDTT, Keyveatz, RESCENE, Lee YeJi, SUNMI, i-dle, AmbiO, DAILY:DIRECTION, idntt, TRENDZ, VAYONN, AHOF, YEONJUN, JANG HANEUM, KIHYUN(MONSTA X)</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "954회",
+    "musicEP": "955회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, Lee YeJi, CHOI YOOJUNG, UDTT, USPEER, RESCENE, Hearts2Hearts, BABYMONSTER, i-dle, ASCENDER, VAYONN, YEONJUN, EVAN, ANTARES, JANG HANEUM, AHOF, IDID, NIEL, KIHYUN(MONSTA X)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Hat:q, Keyveatz, UAU, GIRLSET, RESCENE, Lee YeJi, JUNIEL, SUNMI, i-dle, YEONJUN, TRENDZ, JANG HANEUM, AHOF, idntt, DAILY:DIRECTION, AmbiO, VAYONN, HUTA, KIHYUN(MONSTA X), SUPER JUNIOR-83z</font>`
   },
 
   {
