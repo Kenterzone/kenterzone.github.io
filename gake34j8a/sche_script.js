@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1299회",
+    "musicEP": "1300회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Hat:q, GIRLSET, UDTT, Keyveatz, RESCENE, Lee YeJi, SUNMI, i-dle, AmbiO, DAILY:DIRECTION, idntt, TRENDZ, VAYONN, AHOF, YEONJUN, JANG HANEUM, KIHYUN(MONSTA X)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "955회",
+    "musicEP": "956회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Hat:q, Keyveatz, UAU, GIRLSET, RESCENE, Lee YeJi, JUNIEL, SUNMI, i-dle, YEONJUN, TRENDZ, JANG HANEUM, AHOF, idntt, DAILY:DIRECTION, AmbiO, VAYONN, HUTA, KIHYUN(MONSTA X), SUPER JUNIOR-83z</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1317회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UDTT, Lee YeJi, JUNIEL, GIRLSET, RESCENE, CLASSy, UAU, i-dle, SUNMI, idntt, AHOF, YEONJUN, HUTA, DAILY:DIRECTION, VAYONN, JANG HANEUM, CHOI SUNG YUN(Y), TRENDZ, CHOONGJU JI-C, KIHYUN(MONSTA X)</font>`
   },  ////SP_GUIDE/////
 
 {
