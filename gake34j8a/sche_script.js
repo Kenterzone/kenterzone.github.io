@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "938회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">OURBIRTHDAY, fromis_9, BBGIRLS, SUNMI, HYOLYN, DAILY:DIRECTION, LUN8, VAYONN, idntt, AHOF, 8TURN, AmbiO, YEONJUN, HUTA, JANG HANEUM, TRENDZ, J.Y.Park, WONHO, U-KNOW</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1317회",
+    "musicEP": "1318회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UDTT, Lee YeJi, JUNIEL, GIRLSET, RESCENE, CLASSy, UAU, i-dle, SUNMI, idntt, AHOF, YEONJUN, HUTA, DAILY:DIRECTION, VAYONN, JANG HANEUM, CHOI SUNG YUN(Y), TRENDZ, CHOONGJU JI-C, KIHYUN(MONSTA X)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
