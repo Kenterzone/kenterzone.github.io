@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "938회",
+    "musicEP": "939회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">OURBIRTHDAY, fromis_9, BBGIRLS, SUNMI, HYOLYN, DAILY:DIRECTION, LUN8, VAYONN, idntt, AHOF, 8TURN, AmbiO, YEONJUN, HUTA, JANG HANEUM, TRENDZ, J.Y.Park, WONHO, U-KNOW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1300회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">OURBIRTHDAY, HEART OF WOMAN, YeoJin(L∞na), Oh Yoojin, fromis_9, BBGIRLS, SUNMI, HYOLYN, 8TURN, AmbiO, DAILY:DIRECTION, idntt, LUN8, VAYONN, J.Y.Park, WONHO, U-KNOW</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "956회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">IRION, OURBIRTHDAY, HEART OF WOMAN, Jeon Yu Jin, Oh Yoojin, FIFTY FIFTY, fromis_9, BBGIRLS, SUNMI, HYOLYN, 8TURN, LUN8, idntt, DAILY:DIRECTION, VAYONN, J.Y.Park, U-KNOW, WONHO</font>`
   },
 
   {
