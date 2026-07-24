@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1300회",
+    "musicEP": "1301회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">OURBIRTHDAY, HEART OF WOMAN, YeoJin(L∞na), Oh Yoojin, fromis_9, BBGIRLS, SUNMI, HYOLYN, 8TURN, AmbiO, DAILY:DIRECTION, idntt, LUN8, VAYONN, J.Y.Park, WONHO, U-KNOW</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1318회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Hat:q, OURBIRTHDAY, Oh Yoojin, HEART OF WOMAN, RESCENE, fromis_9, BBGIRLS, SUNMI, HYOLYN, DAILY:DIRECTION, LUN8, VAYONN, idntt, Kim Sihun, 8TURN, AmbiO, WONHO, U-KNOW, J.Y.Park</font>`
   },  ////SP_GUIDE/////
 
 {
