@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "939회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">OURBIRTHDAY, Hat:q, Keyveatz, HEART OF WOMAN, fromis_9, HYOLYN, KARD, POW, HUI, NouerA, The Wind, LUN8, idntt, 8TURN, ONE PACT, WONHO, Young K(DAY6)</font>`
   },
 
   {
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "956회",
+    "musicEP": "957회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">IRION, OURBIRTHDAY, HEART OF WOMAN, Jeon Yu Jin, Oh Yoojin, FIFTY FIFTY, fromis_9, BBGIRLS, SUNMI, HYOLYN, 8TURN, LUN8, idntt, DAILY:DIRECTION, VAYONN, J.Y.Park, U-KNOW, WONHO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1318회",
+    "musicEP": "1319회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Hat:q, OURBIRTHDAY, Oh Yoojin, HEART OF WOMAN, RESCENE, fromis_9, BBGIRLS, SUNMI, HYOLYN, DAILY:DIRECTION, LUN8, VAYONN, idntt, Kim Sihun, 8TURN, AmbiO, WONHO, U-KNOW, J.Y.Park</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
