@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "939회",
+    "musicEP": "940회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">OURBIRTHDAY, Hat:q, Keyveatz, HEART OF WOMAN, fromis_9, HYOLYN, KARD, POW, HUI, NouerA, The Wind, LUN8, idntt, 8TURN, ONE PACT, WONHO, Young K(DAY6)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">A2O MAY, ARTMS, BABYMONSTER, HUH JIWON, XIAOTING, KISS OF LIFE, Red Velvet, DAYOUNG X Jay Park, NOWZ, NouerA, The Wind, JUNHEE, POW, Picheolin(DINO), WHIB</font>`
   },
 
   {
