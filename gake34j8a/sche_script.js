@@ -40,7 +40,7 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1301회",
+    "musicEP": "1302회",
     "musictime": "17:15KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -49,7 +49,7 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "957회",
+    "musicEP": "958회",
     "musictime": "15:05KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
