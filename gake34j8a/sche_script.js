@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "940회",
+    "musicEP": "942회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">A2O MAY, ARTMS, BABYMONSTER, HUH JIWON, XIAOTING, KISS OF LIFE, Red Velvet, DAYOUNG X Jay Park, NOWZ, NouerA, The Wind, JUNHEE, POW, Picheolin(DINO), WHIB</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1302회",
+    "musicEP": "1303회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">A2O MAY, KiiiKiii, RED OOPART, HAN YISEO, ARTMS, KISS OF LIFE, JEONG EUNJI, HOONiYONGi, AxMxP, JUNHEE, NOWZ, POW, Splayit, Stray Kids, WayV, WHIB</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "958회",
+    "musicEP": "959회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Bin Yeseo, KiiiKiii, ARTMS, KISS OF LIFE, JEONG EUNJI, NOWZ, KiXÉ, AxMxP, Splayit, Leeparan, MEPC, WayV, JUNHEE, POW, WHIB, Stray Kids</font>`
   },
 
   {
