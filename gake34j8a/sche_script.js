@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1303회",
+    "musicEP": "1304회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">A2O MAY, KiiiKiii, RED OOPART, HAN YISEO, ARTMS, KISS OF LIFE, JEONG EUNJI, HOONiYONGi, AxMxP, JUNHEE, NOWZ, POW, Splayit, Stray Kids, WayV, WHIB</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1319회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HAN YISEO, KiiiKiii, ARTMS, KISS OF LIFE, JEONG EUNJI, Splayit, AxMxP, JUNHEE, POW, WHIB, NOWZ, WayV, Stray Kids</font>`
   },  ////SP_GUIDE/////
 
 {
