@@ -59,7 +59,7 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1319회",
+    "musicEP": "1320회",
     "musictime": "15:25KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">HAN YISEO, KiiiKiii, ARTMS, KISS OF LIFE, JEONG EUNJI, Splayit, AxMxP, JUNHEE, POW, WHIB, NOWZ, WayV, Stray Kids</font>`
   },  ////SP_GUIDE/////
