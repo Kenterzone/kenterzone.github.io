@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "942회",
+    "musicEP": "943회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">A2O MAY, ODD YOUTH, OURBIRTHDAY, ILLIT(ft.JISOO, MOMOKA of HANA), AtHeart, KiiiKiii, MASHIRO, KISS OF LIFE, MIMI(OH MY GIRL), JEONG EUNJI, Splayit, AxMxP, MJ, ONEWE, The Wind, WONHO, WayV</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1304회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">RED OOPART, OURBIRTHDAY, ODD YOUTH, AtHeart, KiiiKiii, KISS OF LIFE, MASHIRO, MIMI(OH MY GIRL), AxMxP, JUNHEE, MJ, ONEWE, Splayit, KIM JAE JOONG, ENHYPEN, WONHO</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "960회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">AtHeart, OURBIRTHDAY, UDTT, ODD YOUTH, KiiiKiii, MASHIRO, KISS OF LIFE, MIMI(OH MY GIRL), AxMxP, B:DAWN, Splayit, HAN TEY, LEESEOKHOON, LEE JOON, DINDIN, WONHO, MJ, JUNHEE, ONEWE, ENHYPEN</font>`
   },
 
   {
