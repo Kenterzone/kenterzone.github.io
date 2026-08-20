@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "942회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">A2O MAY, ODD YOUTH, OURBIRTHDAY, ILLIT(ft.JISOO, MOMOKA of HANA), AtHeart, KiiiKiii, MASHIRO, KISS OF LIFE, MIMI(OH MY GIRL), JEONG EUNJI, Splayit, AxMxP, MJ, ONEWE, The Wind, WONHO, WayV</font>`
   },
 
   {
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "959회",
+    "musicEP": "960회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Bin Yeseo, KiiiKiii, ARTMS, KISS OF LIFE, JEONG EUNJI, NOWZ, KiXÉ, AxMxP, Splayit, Leeparan, MEPC, WayV, JUNHEE, POW, WHIB, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1320회",
+    "musicEP": "1321회",
     "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HAN YISEO, KiiiKiii, ARTMS, KISS OF LIFE, JEONG EUNJI, Splayit, AxMxP, JUNHEE, POW, WHIB, NOWZ, WayV, Stray Kids</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
