@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1304회",
+    "musicEP": "1305회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">RED OOPART, OURBIRTHDAY, ODD YOUTH, AtHeart, KiiiKiii, KISS OF LIFE, MASHIRO, MIMI(OH MY GIRL), AxMxP, JUNHEE, MJ, ONEWE, Splayit, KIM JAE JOONG, ENHYPEN, WONHO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1321회",
-    "musictime": "15:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "12:20KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">OURBIRTHDAY, UDTT, =LOVE, AtHeart, ODD YOUTH, KISS OF LIFE, KiiiKiii, MASHIRO, Mimi(OH MY GIRL), Gaeun Eun & Park HyunHo, The Wind, Splayit, AxMxP, ENHYPEN, MJ, ONEWE, WONHO, JUNHEE, KIM JAEJOONG</font>`
   },  ////SP_GUIDE/////
 
 {
