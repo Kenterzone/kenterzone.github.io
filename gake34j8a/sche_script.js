@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "943회",
+    "musicEP": "944회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MW:MEU, TUIDE, OURBIRTHDAY, Hearts2Hearts, KiiiKiii, Splayit, AEN, ENHYPEN, ALL(H)OURS, TNX, NEXZ, NCT 127, HANBIN(TEMPEST), ALPHA DRIVE ONE, SF9</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1305회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">TUIDE, AtHeart, Hearts2Hearts, KiiiKiii, Splayit, TNX, AEN, ALL(H)OURS, ALPHA DRIVE ONE, NEXZ, ONEWE, NCT 127, ENHYPEN, HANBIN(TEMPEST), SF9</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "961회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">OURBIRTHDAY, TUIDE, AtHeart, Hearts2Hearts, KiiiKiii, MASHIRO, ALL(H)OURS, NEXZ, ALPHA DRIVE ONE, AEN, ONEWE, ENHYPEN, HANBIN(TEMPEST), TNX, Splayit, LEESEOKHOON, LEE JOON, DINDIN, NCT 127, SF9</font>`
   },
 
   {
