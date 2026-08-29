@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1305회",
+    "musicEP": "1306회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">TUIDE, AtHeart, Hearts2Hearts, KiiiKiii, Splayit, TNX, AEN, ALL(H)OURS, ALPHA DRIVE ONE, NEXZ, ONEWE, NCT 127, ENHYPEN, HANBIN(TEMPEST), SF9</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -60,8 +60,8 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Inkigayo",
     "musicEP": "1322회",
-    "musictime": "12:20KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musictime": "14:25KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MW:MEU, TUIDE, OURBIRTHDAY, iii, Hearts2Hearts, KiiiKiii, ONEWE, TNX, NEXZ, ALPHA DRIVE ONE, AEN, ENHYPEN, ALL(H)OURS, HANBIN(TEMPEST), NCT 127, SF9</font>`
   },  ////SP_GUIDE/////
 
 {
