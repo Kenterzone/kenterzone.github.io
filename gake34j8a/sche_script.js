@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "944회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">OURBIRTHDAY, TUIDE, ICHILLIN' J, AtHeart, MASHIRO, CHUNG HA, KWON EUNBI, NEXZ, DINO, ALPHA DRIVE ONE, ASC2NT, Splayit, AEN, 82MAJOR, TWS, TUNEXX, TNX, NCT 127, ENHYPEN, TAEMIN, , HANBIN(TEMPEST)</font>`
   },
 
   {
@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "961회",
+    "musicEP": "962회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">OURBIRTHDAY, TUIDE, AtHeart, Hearts2Hearts, KiiiKiii, MASHIRO, ALL(H)OURS, NEXZ, ALPHA DRIVE ONE, AEN, ONEWE, ENHYPEN, HANBIN(TEMPEST), TNX, Splayit, LEESEOKHOON, LEE JOON, DINDIN, NCT 127, SF9</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1322회",
+    "musicEP": "1323회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MW:MEU, TUIDE, OURBIRTHDAY, iii, Hearts2Hearts, KiiiKiii, ONEWE, TNX, NEXZ, ALPHA DRIVE ONE, AEN, ENHYPEN, ALL(H)OURS, HANBIN(TEMPEST), NCT 127, SF9</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
