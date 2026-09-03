@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1306회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">TUIDE, OURBIRTHDAY, NINA, AtHeart, ICHILLIN' J, Huh Jiwon, KWON EUNBI, CHUNG HA, AEN, ALPHA DRIVE ONE, NEXZ, TNX, TUNEXX, DINO, 82MAJOR, NCT 127, MONSTA X, ASC2NT, HANBIN(TEMPEST), TAEMIN</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "962회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">TUIDE, NINA, ODD YOUTH, ICHILLIN' J, KWON EUNBI, CHUNG HA, Girls' Generation-HRS, DINO, TEN, TNX, NEXZ, ALPHA DRIVE ONE, TUNEXX, AEN, HANBIN(TEMPEST), 82MAJOR, NCT 127, MONSTA X, TAEMIN</font>`
   },
 
   {
