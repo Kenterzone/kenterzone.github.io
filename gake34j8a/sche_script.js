@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "945회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">TUIDE, NINA, OURBIRTHDAY, H／／PE Princess, UNIS, SOYEON, KWON EUNBI, DUETTO, TUNEXX, TNX, hrtz.wav, VERIVERY, MCND, ALL(H)OURS, INTAK(P1Harmony), TEN, &TEAM, EVAN, 82MAJOR, MONSTA X, MINHO</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1323회",
+    "musicEP": "1324회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">NINA, TUIDE, iii, ICHILLIN'J, ODD YOUTH, KWON EUNBI, CHUNG HA, NEXZ, DINO, TUNEXX, TNX, MONSTA X, ALPHA DRIVE ONE, ASC2NT, TEN, HANBIN(TEMPEST), AEN, 82MAJOR, Joosiq, NCT 127, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
