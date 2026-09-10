@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1307회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ettone, TUIDE, OURBIRTHDAY, H//PE Princess, SOYEON, KWON EUNBI, DUETTO, ASC2NT, EVAN, ALL(H)OURS, hrtz.wav, TEN, TNX, TUNEXX, &TEAM, 82MAJOR, VERIVERY, MONSTA X, MINHO</font>`
   },
   {
     "mair": "nomal",
