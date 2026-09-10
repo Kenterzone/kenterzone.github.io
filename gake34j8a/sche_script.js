@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "963회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ettone, TUIDE, H//PE Princess, UNIS, Ryu Sujeong, SOYEON, KWON EUNBI, DUETTO, EVAN, KIM HEE JAE, TNX, ALL(H)OURS, ASC2NT, TUNEXX, hrtz.wav, &TEAM, 82MAJOR, VERIVERY, MINHO, MONSTA X</font>`
   },
 
   {
