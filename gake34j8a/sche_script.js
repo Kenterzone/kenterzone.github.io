@@ -30,9 +30,9 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "945회",
+    "musicEP": "946회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">TUIDE, NINA, OURBIRTHDAY, H／／PE Princess, UNIS, SOYEON, KWON EUNBI, DUETTO, TUNEXX, TNX, hrtz.wav, VERIVERY, MCND, ALL(H)OURS, INTAK(P1Harmony), TEN, &TEAM, EVAN, 82MAJOR, MONSTA X, MINHO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
