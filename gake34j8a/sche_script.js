@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1325회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Ettone, TUIDE, ICHILLIN'J, LE SSERAFIM, KWON EUNBI, SOYEON, TUNEXX, hrtz.wav, Kim Heejae, ASC2NT, EVAN, 82MAJOR, MCND, YOUNGTAK, ALL(H)OURS, ONE OR EIGHT, In A Minute, Im Chang Jung, VERIVERY, &TEAM, MINHO</font>`
   },  ////SP_GUIDE/////
 
 {
