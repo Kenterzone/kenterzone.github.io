@@ -30,7 +30,7 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "947회",
+    "musicEP": "948회",
     "musictime": "18:08KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1308회",
+    "musicEP": "1309회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">TUIDE, ICHILLIN'J, KWON EUNBI, SOYEON, &TEAM, 82MAJOR, ALL(H)OURS, hrtz.wav, In A Minute, MCND, ONE OR EIGHT, TUNEXX, VERIVERY, Mighty Mouth, ASC2NT, EVAN, YOUNGTAK, PENTAGON, MINHO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
-    "musicname": "Music Core(2026 Asian Games)",
-    "musicEP": "964회",
+    "musicname": "Music Core",
+    "musicEP": "965회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">TUIDE, ICHILLIN'J, SOYEON, KWON EUNBI, ALL(H)OURS, ASC2NT, ONE OR EIGHT, TUNEXX, hrtz.wav, VERIVERY, MCND, EVAN, YoonJune, &TEAM, 82MAJOR, EASTSHINE, Im Chang Jung, YOUNGTAK, MINHO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1325회",
+    "musicEP": "1326회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Ettone, TUIDE, ICHILLIN'J, LE SSERAFIM, KWON EUNBI, SOYEON, TUNEXX, hrtz.wav, Kim Heejae, ASC2NT, EVAN, 82MAJOR, MCND, YOUNGTAK, ALL(H)OURS, ONE OR EIGHT, In A Minute, Im Chang Jung, VERIVERY, &TEAM, MINHO</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">MINZY, NiziU, ALLDAY PROJECT, Woody x BORA, TIOT, HAN TEY, EVAN, MCND, CLOSE YOUR EYES, ONEUS, CRAVITY, Park MinSu, Parc JaeJung, BOYNEXTDOOR, &TEAM</font>`
   },  ////SP_GUIDE/////
 
 {
