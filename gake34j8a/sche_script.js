@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "948회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">TUIDE, Hayoon, HAENA, ALLDAY PROJECT, NiziU, Rothy, CLOSE YOUR EYES, KickFlip, hrtz.wav, ONEUS, KO1KEYZ, CRAVITY, HWAN MIN HYUN, KIM JAE HWAN, BOYNEXTDOOR, N.Flying</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1326회",
+    "musicEP": "1327회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">MINZY, NiziU, ALLDAY PROJECT, Woody x BORA, TIOT, HAN TEY, EVAN, MCND, CLOSE YOUR EYES, ONEUS, CRAVITY, Park MinSu, Parc JaeJung, BOYNEXTDOOR, &TEAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
