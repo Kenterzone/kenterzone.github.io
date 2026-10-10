@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1309회",
+    "musicEP": "1310회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">NiziU, HAENA, TUIDE, Rothy, ALLDAY PROJECT, Woody x BORA, MINZY, CLOSE YOUR EYES, CRAVITY, hrtz.wav, KickFlip, KO1KEYZ, KIM JAE HWAN, N.Flying, ONEUS, HWAN MIN HYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "965회",
+    "musicEP": "966회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HAENA, TUIDE, ALLDAY PROJECT, Woody x BORA, MINZY, NiziU, hrtz.wav, KO1KEYZ, ONEUS, TIOT, KickFlip, CLOSE YOUR EYES, CRAVITY, HWAN MIN HYUN, N.Flying, KIM JAE HWAN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1327회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">HAENA, TUIDE, Rothy, Jeon Yu-jin, Ha-yoon, NiziU, ALLDAY PROJECT, ONEUS, KO1KEYZ, CLOSE YOUR EYES, KickFlip, TIOT, hrtz.wav, CRAVITY, N.Flying, HWAN MIN HYUN, KIM JAE HWAN, BOYNEXTDOOR</font>`
   },  ////SP_GUIDE/////
 
 {
