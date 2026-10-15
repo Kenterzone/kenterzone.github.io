@@ -30,7 +30,7 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "949회",
+    "musicEP": "950회",
     "musictime": "18:08KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1310회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Hearts2Hearts, MEOVV, ALLDAY PROJECT, DAILY:DIRECTION, FLARE U, KickFlip, MODYSSEY, Xdinary Heroes, NAM WOOHYUN, PARK WOO JIN, SUNG HANBIN, Jannabi, TAEKWONCHOREO, BOYNEXTDOOR, CRAVITY, TAEMIN</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "966회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Hearts2Hearts, MEOVV, ALLDAY PROJECT, SUNGHANBIN, KickFlip, FLARE U, DAILY:DIRECTION, KO1KEYZ, FISTBUMP, NAM WOOHYUN, KIM JAE HWAN, PARK WOO JIN, CRAVITY, Xdinary Heroes, BOYNEXTDOOR, HEEJAE(SEVENUS), NCT WISH</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1327회",
+    "musicEP": "1328회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">HAENA, TUIDE, Rothy, Jeon Yu-jin, Ha-yoon, NiziU, ALLDAY PROJECT, ONEUS, KO1KEYZ, CLOSE YOUR EYES, KickFlip, TIOT, hrtz.wav, CRAVITY, N.Flying, HWAN MIN HYUN, KIM JAE HWAN, BOYNEXTDOOR</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
