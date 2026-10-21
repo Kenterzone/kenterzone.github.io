@@ -32,7 +32,7 @@ const musicGuid =[
     "musicname": "M!CountDown",
     "musicEP": "950회",
     "musictime": "18:08KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">A2O LITE, LIGHTSUM, CUTIE STREET, tripleS, MEOVV, NMIXX, IVE, DAILY:DIRECTION, MODYSSEY, A2O SOUL, KO1KEYZ, ALPHA DRIVE ONE, YS Block, YUHZ, EVNNE, Lee Eun Sang, LEE HAN GYUL, CATCH THE YOUNG, KickFlip, FLARE U, PARK WOO JIN, SUNGHANBIN, JxJ(SEVENTEEN), NCT WISH</font>`
   },
 
   {
@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1310회",
+    "musicEP": "1311회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Hearts2Hearts, MEOVV, ALLDAY PROJECT, DAILY:DIRECTION, FLARE U, KickFlip, MODYSSEY, Xdinary Heroes, NAM WOOHYUN, PARK WOO JIN, SUNG HANBIN, Jannabi, TAEKWONCHOREO, BOYNEXTDOOR, CRAVITY, TAEMIN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "966회",
+    "musicEP": "967회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Hearts2Hearts, MEOVV, ALLDAY PROJECT, SUNGHANBIN, KickFlip, FLARE U, DAILY:DIRECTION, KO1KEYZ, FISTBUMP, NAM WOOHYUN, KIM JAE HWAN, PARK WOO JIN, CRAVITY, Xdinary Heroes, BOYNEXTDOOR, HEEJAE(SEVENUS), NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
