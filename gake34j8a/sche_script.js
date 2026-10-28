@@ -49,9 +49,9 @@ const musicGuid =[
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "967회",
+    "musicEP": "968회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">A2O LITE, CUTIE STREET, MEOVV, BABYMONSTER, NMIXX, IVE, ALLDAY PROJECT, A2O SOUL, PARK WOO JIN, SUNGHANBIN, EVNNE, KickFlip, FLARE U, DAILY:DIRECTION, YUHZ, NCT WISH, NAMWOOHYUN, TEENTOP, JxJ(SEVENTEEN)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1328회",
+    "musicEP": "1329회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">A2O LITE, RŌSIEN, CUTIE STREET, BABYMONSTER, NMIXX, IVE, ALLDAY PROJECT, V01D, SUNGHANBIN, A2O SOUL, Xdinary Heroes, YUHZ, EVNNE, MAX CHANGMIN, KIM JAE HWAN, NAMWOOHYUN, DAILY:DIRECTION, PARK WOO JIN, CATCH THE YOUNG, KickFlip, FLARE U, NCT WISH, JxJ(SEVENTEEN)</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
