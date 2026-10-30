@@ -30,7 +30,7 @@ const musicGuid =[
     "date": "Thu.",
     "musiconoroff" : true,
     "musicname": "M!CountDown",
-    "musicEP": "951회",
+    "musicEP": "953회",
     "musictime": "18:08KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
@@ -42,7 +42,7 @@ const musicGuid =[
     "musicname": "Music Bank",
     "musicEP": "1312회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">A2O LITE, ILLIT, Hayoon, MEOVV, IVE, NMIXX, AND2BLE, VIBY, YUHZ, A2O SOUL, ALPHA DRIVE ONE, JUKJAE, FISTBUMP, XLOV, EVNNE, FLARE U, MODYSSEY, NCT WISH, RIIZE, ATEEZ</font>`
   },
   {
     "mair": "nomal",
@@ -51,7 +51,7 @@ const musicGuid =[
     "musicname": "Music Core",
     "musicEP": "968회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">BESTie, ILLIT, cosmosy, IVE, NMIXX, YOU CHAEHOON, YUHZ, B THE HOOD, VIBY, XLOV, AND2BLE, BE BOYS, ALPHA DRIVE ONE, FLARE U, ATEEZ, RIIZE, EVNNE, NCT WISH</font>`
   },
 
   {
