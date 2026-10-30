@@ -59,7 +59,7 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1329회",
+    "musicEP": "1330회",
     "musictime": "14:25KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">A2O LITE, ILLIT, cosmosy, MEOVV, BABYMONSTER, IVE, NMIXX, AND2BLE, A2O SOUL, EVNNE, JUKJAE, JAY B, FLARE U, RIIZE, V01D, ALPHA DRIVE ONE, ATEEZ, NCT WISH, YOU CHAEHOON, TEEN TOP</font>`
   },  ////SP_GUIDE/////
