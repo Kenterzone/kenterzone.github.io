@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1312회",
-    "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">A2O LITE, ILLIT, Hayoon, MEOVV, IVE, NMIXX, AND2BLE, VIBY, YUHZ, A2O SOUL, ALPHA DRIVE ONE, JUKJAE, FISTBUMP, XLOV, EVNNE, FLARE U, MODYSSEY, NCT WISH, RIIZE, ATEEZ</font>`
+    "musicEP": "1313회",
+    "musictime": "16:45KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, Baby DONT Cry, HEART OF WOMAN, IS:SUE, RESCENE, ILLIT, Kei, ADAP, AND2BLE, Dragon Pony, P1Harmony, RIIZE, TWS, VIBY, XIAOJUN, xikers, YS Block, YUHZ, ZEROBASEONE EMP</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "968회",
+    "musicEP": "969회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">BESTie, ILLIT, cosmosy, IVE, NMIXX, YOU CHAEHOON, YUHZ, B THE HOOD, VIBY, XLOV, AND2BLE, BE BOYS, ALPHA DRIVE ONE, FLARE U, ATEEZ, RIIZE, EVNNE, NCT WISH</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, UNCHILD, cosmosy, IS:SUE, RESCENE, ILLIT, JISOO, ADAP, P1Harmony, xikers, ZEROBASEONE EMP, AND2BLE, RIIZE, TWS, Dragon Pony, Kim Janghoon, XIAOJUN, TREASURE, LEE HAN GYUL</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1330회",
+    "musicEP": "1331회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">A2O LITE, ILLIT, cosmosy, MEOVV, BABYMONSTER, IVE, NMIXX, AND2BLE, A2O SOUL, EVNNE, JUKJAE, JAY B, FLARE U, RIIZE, V01D, ALPHA DRIVE ONE, ATEEZ, NCT WISH, YOU CHAEHOON, TEEN TOP</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
