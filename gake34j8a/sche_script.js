@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1331회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, X:IN, IS:SUE, RESCENE, Baby DONT Cry, ILLIT, JISOO, xikers, AND2BLE, ADAP, YS Block, YUHZ, JUSTB, Dragon Pony, RIIZE, XIAOJUN, TREASURE, P1Harmony, TWS, ZEROBASEONE EMP</font>`
   },  ////SP_GUIDE/////
 
 {
