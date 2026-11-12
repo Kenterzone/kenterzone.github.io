@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1313회",
+    "musicEP": "1314회",
     "musictime": "16:45KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, Baby DONT Cry, HEART OF WOMAN, IS:SUE, RESCENE, ILLIT, Kei, ADAP, AND2BLE, Dragon Pony, P1Harmony, RIIZE, TWS, VIBY, XIAOJUN, xikers, YS Block, YUHZ, ZEROBASEONE EMP</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, UNCHILD, Baby DONT Cry, ILLIT, H1-KEY, BESTie, CHAERYEONG(ITZY), JISOO, XLOV, A2O SOUL, VIBY, xikers, KEYVITUP, LNGSHOT, P1Harmony, TWS, NCT DREAM, KYUHYUN, ATEEZ</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "969회",
+    "musicEP": "970회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, UNCHILD, cosmosy, IS:SUE, RESCENE, ILLIT, JISOO, ADAP, P1Harmony, xikers, ZEROBASEONE EMP, AND2BLE, RIIZE, TWS, Dragon Pony, Kim Janghoon, XIAOJUN, TREASURE, LEE HAN GYUL</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">ISEGYE IDOL, UNCHILD, HEART OF WOMAN, RESCENE, Baby DONT Cry, ILLIT, BESTie, CHAERYEONG(ITZY), XLOV, LNGSHOT, KEYVITUP, A2O SOUL, TREASURE, P1Harmony, xikers, TWS, JANG MINHO, KYUHYUN, NCT DREAM, ATEEZ</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1331회",
+    "musicEP": "1332회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, X:IN, IS:SUE, RESCENE, Baby DONT Cry, ILLIT, JISOO, xikers, AND2BLE, ADAP, YS Block, YUHZ, JUSTB, Dragon Pony, RIIZE, XIAOJUN, TREASURE, P1Harmony, TWS, ZEROBASEONE EMP</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
