@@ -41,7 +41,7 @@ const musicGuid =[
     "musiconoroff" : true,
     "musicname": "Music Bank",
     "musicEP": "1314회",
-    "musictime": "16:45KST",
+    "musictime": "17:05KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, UNCHILD, Baby DONT Cry, ILLIT, H1-KEY, BESTie, CHAERYEONG(ITZY), JISOO, XLOV, A2O SOUL, VIBY, xikers, KEYVITUP, LNGSHOT, P1Harmony, TWS, NCT DREAM, KYUHYUN, ATEEZ</font>`
   },
   {
