@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1332회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, Baby DONT Cry, RESCENE, BESTie, ILLIT, H1-KEY, CHAERYEONG(ITZY), A2O SOUL, LNGSHOT, xikers, AIMERS, XLOV, N.TOP, JANG MINHO, KEYVITUP, TWS, TREASURE, ATEEZ, NCT DREAM, P1Harmony, KYUHYUN</font>`
   },  ////SP_GUIDE/////
 
 {
