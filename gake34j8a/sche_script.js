@@ -40,18 +40,18 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1314회",
-    "musictime": "17:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">RESCENE, UNCHILD, Baby DONT Cry, ILLIT, H1-KEY, BESTie, CHAERYEONG(ITZY), JISOO, XLOV, A2O SOUL, VIBY, xikers, KEYVITUP, LNGSHOT, P1Harmony, TWS, NCT DREAM, KYUHYUN, ATEEZ</font>`
+    "musicEP": "1315회",
+    "musictime": "17:15KST",
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, UNCHILD, HEART OF WOMAN, Baby DONT Cry, H1-KEY, BESTie, Kei, CHAERYEONG(ITZY), A2O SOUL, KEYVITUP, V01D, xikers, AMPERS&ONE, N.TOP, JANG MINHO, Kim Janghoon, KIM HEE JAE, NCT DREAM</font>`
   },
   {
     "mair": "nomal",
     "date": "Sat.",
     "musiconoroff" : true,
     "musicname": "Music Core",
-    "musicEP": "970회",
+    "musicEP": "971회",
     "musictime": "15:05KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">ISEGYE IDOL, UNCHILD, HEART OF WOMAN, RESCENE, Baby DONT Cry, ILLIT, BESTie, CHAERYEONG(ITZY), XLOV, LNGSHOT, KEYVITUP, A2O SOUL, TREASURE, P1Harmony, xikers, TWS, JANG MINHO, KYUHYUN, NCT DREAM, ATEEZ</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Baby DONT Cry, UNCHILD, Keyveatz, Jeon Yujin, H1-KEY, CHAERYEONG(ITZY), THEWILDCARDCLUB, CODE ZiGU, KEYVITUP, A2O SOUL, DOMINOES(Ko Gyeol X Do Hyun), FISTBUMP, Yoon Seobin, AIMERS, xikers, AMPERS&ONE, ADAP, NCT DREAM</font>`
   },
 
   {
@@ -59,9 +59,9 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1332회",
+    "musicEP": "1333회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">UNCHILD, Baby DONT Cry, RESCENE, BESTie, ILLIT, H1-KEY, CHAERYEONG(ITZY), A2O SOUL, LNGSHOT, xikers, AIMERS, XLOV, N.TOP, JANG MINHO, KEYVITUP, TWS, TREASURE, ATEEZ, NCT DREAM, P1Harmony, KYUHYUN</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },  ////SP_GUIDE/////
 
 {
