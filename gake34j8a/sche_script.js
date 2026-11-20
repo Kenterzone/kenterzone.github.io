@@ -61,7 +61,7 @@ const musicGuid =[
     "musicname": "Inkigayo",
     "musicEP": "1333회",
     "musictime": "14:25KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, UNCHILD, CODE ZiGU, HEART OF WOMAN, Baby DONT Cry, H1-KEY, BESTie, Kei, CHAERYEONG(ITZY), N.TOP, FISTBUMP, KEYVITUP, A2O SOUL, LNGSHOT, AMPERS&ONE, ADAP, xikers, Kim Jang Hoon, NCT DREAM, TOMORROW X TOGETHER</font>`
   },  ////SP_GUIDE/////
 
 {
