@@ -40,9 +40,9 @@ const musicGuid =[
     "date": "Fri.",
     "musiconoroff" : true,
     "musicname": "Music Bank",
-    "musicEP": "1315회",
+    "musicEP": "1316회",
     "musictime": "17:15KST",
-    "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, UNCHILD, HEART OF WOMAN, Baby DONT Cry, H1-KEY, BESTie, Kei, CHAERYEONG(ITZY), A2O SOUL, KEYVITUP, V01D, xikers, AMPERS&ONE, N.TOP, JANG MINHO, Kim Janghoon, KIM HEE JAE, NCT DREAM</font>`
+    "musicsetlist":`ShowGuest:<font color="#adadb8"></font>`
   },
   {
     "mair": "nomal",
@@ -59,7 +59,7 @@ const musicGuid =[
     "date": "Sun.",
     "musiconoroff" : true,
     "musicname": "Inkigayo",
-    "musicEP": "1333회",
+    "musicEP": "1332회",
     "musictime": "14:25KST",
     "musicsetlist":`ShowGuest:<font color="#adadb8">Keyveatz, UNCHILD, CODE ZiGU, HEART OF WOMAN, Baby DONT Cry, H1-KEY, BESTie, Kei, CHAERYEONG(ITZY), N.TOP, FISTBUMP, KEYVITUP, A2O SOUL, LNGSHOT, AMPERS&ONE, ADAP, xikers, Kim Jang Hoon, NCT DREAM, TOMORROW X TOGETHER</font>`
   },  ////SP_GUIDE/////
